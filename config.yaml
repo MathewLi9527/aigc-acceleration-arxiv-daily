@@ -1,11 +1,10 @@
-# TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "liutaocode"
-repo_name: "cv-arxiv-daily"
+repo_name: "aigc-acceleration-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 15
 
 publish_readme: True
 publish_gitpage: True
@@ -14,18 +13,24 @@ publish_wechat: True
 # file paths
 black_list_path: 'blacklists.txt'
 recent_trend_path: './pdf_analysis/recent_trends.txt'
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/aigc-acceleration-arxiv-daily.json'
+json_gitpage_path: './docs/aigc-acceleration-arxiv-daily-web.json'
+json_wechat_path: './docs/aigc-acceleration-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 claudeai_path: 'analysis_by_ai.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
+# keywords to search - AIGC Acceleration for Video Generation
 keywords:
-    "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
-    "Image Animation":
-        filters: ["Image Animator", "Image Animation"]
+    "Video Generation":
+        filters: ["Video Generation", "Video Synthesis", "Text-to-Video", "Text to Video", "Video Diffusion", "Video Diffusion Model", "Video Latent Diffusion", "Video Generation Model", "Generative Video"]
+    "Image-to-Video":
+        filters: ["Image-to-Video", "Image to Video", "I2V", "Image Animation", "Animating Images", "Video from Image"]
+    "Video Editing":
+        filters: ["Video Editing", "Video Edit", "Video Inpainting", "Video Manipulation", "Video Style Transfer", "Video Enhancement"]
+    "Diffusion Models":
+        filters: ["Diffusion Model", "Diffusion Models", "Latent Diffusion", "Stable Diffusion", "DDPM", "Score-based Generative", "Denoising Diffusion"]
+    "Real-time Generation":
+        filters: ["Real-time Generation", "Real-time Video", "Fast Video Generation", "Efficient Video Generation", "Accelerated Generation", "Video Generation Acceleration", "One-step Generation", "Few-step Generation"]

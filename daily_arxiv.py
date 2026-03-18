@@ -316,20 +316,16 @@ def json_to_md(filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Papers\n")
+        f.write("# AIGC Acceleration for Video Generation\n")
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("### Automatically Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
+        f.write("Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
-        # AI analysis removed
         f.write(" \n\n")
-        f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
+        f.write("[Web Page](https://liutaocode.github.io/aigc-acceleration-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/aigc-acceleration-arxiv-daily)) \n\n")
         
         #Add: table of contents
         if use_tc == True:
@@ -388,23 +384,22 @@ def json_to_md(filename,
         f.write("* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) \n\n")
         
         if show_badge == True:
-            # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"contributors/liutaocode/aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/graphs/contributors\n"))
+                     f"aigc-acceleration-arxiv-daily/graphs/contributors\n"))
             f.write((f"[forks-shield]: https://img.shields.io/github/forks/liutaocode/"
-                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[forks-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/network/members\n"))
+                     f"aigc-acceleration-arxiv-daily/network/members\n"))
             f.write((f"[stars-shield]: https://img.shields.io/github/stars/liutaocode/"
-                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[stars-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/stargazers\n"))
+                     f"aigc-acceleration-arxiv-daily/stargazers\n"))
             f.write((f"[issues-shield]: https://img.shields.io/github/issues/liutaocode/"
-                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/issues\n\n"))
+                     f"aigc-acceleration-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 
