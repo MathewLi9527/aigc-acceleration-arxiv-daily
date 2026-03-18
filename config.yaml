@@ -33,4 +33,4 @@ keywords:
     "Diffusion Models":
         filters: ["Diffusion Model", "Diffusion Models", "Latent Diffusion", "Stable Diffusion", "DDPM", "Score-based Generative", "Denoising Diffusion"]
     "Real-time Generation":
-        filters: ["Real-time Generation", "Real-time Video", "Fast Video Generation", "Efficient Video Generation", "Accelerated Generation", "Video Generation Acceleration", "One-step Generation", "Few-step Generation"]
+        filters: ["Real-time Generation", "Real-time Video", "Fast Video Generation", "Efficient Video Generation", "Accelerated Generation", "Video Generation Acceleration", "One-step Generation", "Few-step Generation", "Accelerate Video Generation", "Video Generation Acceleration"]
