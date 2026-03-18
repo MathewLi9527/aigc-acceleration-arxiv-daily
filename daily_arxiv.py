@@ -325,7 +325,7 @@ def json_to_md(filename,
         f.write("Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
         f.write(" \n\n")
-        f.write("[Web Page](https://liutaocode.github.io/aigc-acceleration-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/aigc-acceleration-arxiv-daily)) \n\n")
+        f.write("[Web Page](https://MathewLi9527.github.io/aigc-acceleration-arxiv-daily/) ([Scrape Code](https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily)) \n\n")
         
         #Add: table of contents
         if use_tc == True:
@@ -383,22 +383,22 @@ def json_to_md(filename,
         f.write("* Support more reliable text parser. [Link](https://github.com/pdfminer/pdfminer.six) \n\n")
         f.write("* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) \n\n")
         
-        if show_badge == True:
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/liutaocode/aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/liutaocode/"
+         if show_badge == True:
+             f.write((f"[contributors-shield]: https://img.shields.io/github/"
+                     f"contributors/MathewLi9527/aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
+             f.write((f"[contributors-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/liutaocode/"
+             f.write((f"[forks-shield]: https://img.shields.io/github/forks/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/liutaocode/"
+             f.write((f"[forks-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/liutaocode/"
+             f.write((f"[stars-shield]: https://img.shields.io/github/stars/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/liutaocode/"
+             f.write((f"[stars-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/liutaocode/"
+             f.write((f"[issues-shield]: https://img.shields.io/github/issues/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/liutaocode/"
+             f.write((f"[issues-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        

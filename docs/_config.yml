@@ -3,8 +3,8 @@ description: Automatically Update AIGC Acceleration Papers Daily using Github Ac
 show_downloads: true
 
 github:
-  zip_url: https://github.com/liutaocode/aigc-acceleration-arxiv-daily
-  another_url: https://github.com/liutaocode/aigc-acceleration-arxiv-daily
+  zip_url: https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily
+  another_url: https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
@@ -12,7 +12,7 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: dark
 social_links:
-  github: liutaocode
+  github: MathewLi9527
 
 plugins:
  - jekyll-remote-theme
