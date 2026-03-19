@@ -8,19 +8,34 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.03.18
+### Automatically Updated on 2026.03.19
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
 
  
 
-[Web Page](https://liutaocode.github.io/aigc-acceleration-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/aigc-acceleration-arxiv-daily)) 
+[Web Page](https://MathewLi9527.github.io/aigc-acceleration-arxiv-daily/) ([Scrape Code](https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily)) 
 
 ## Video Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**|Yigit Ekin et.al.|[2603.17998](http://arxiv.org/abs/2603.17998)|null|
+|**2026-03-18**|**Versatile Editing of Video Content, Actions, and Dynamics without Training**|Vladimir Kulikov et.al.|[2603.17989](http://arxiv.org/abs/2603.17989)|null|
+|**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|null|
+|**2026-03-18**|**Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation**|Yingjie Chen et.al.|[2603.17889](http://arxiv.org/abs/2603.17889)|null|
+|**2026-03-18**|**Steering Video Diffusion Transformers with Massive Activations**|Xianhang Cheng et.al.|[2603.17825](http://arxiv.org/abs/2603.17825)|null|
+|**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
+|**2026-03-18**|**EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards**|Ruixiang Wang et.al.|[2603.17808](http://arxiv.org/abs/2603.17808)|null|
+|**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
+|**2026-03-18**|**Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos**|Songtao Jiang et.al.|[2603.17693](http://arxiv.org/abs/2603.17693)|null|
+|**2026-03-18**|**FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion**|Hugo Caselles-Dupré et.al.|[2603.17555](http://arxiv.org/abs/2603.17555)|null|
+|**2026-03-18**|**ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling**|Daowen Li et.al.|[2603.17546](http://arxiv.org/abs/2603.17546)|null|
+|**2026-03-18**|**AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization**|Dailan He et.al.|[2603.17461](http://arxiv.org/abs/2603.17461)|null|
+|**2026-03-18**|**SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning**|Xi Ye et.al.|[2603.17426](http://arxiv.org/abs/2603.17426)|null|
+|**2026-03-18**|**Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**|Rui Hong et.al.|[2603.17398](http://arxiv.org/abs/2603.17398)|null|
+|**2026-03-18**|**Stereo World Model: Camera-Guided Stereo Video Generation**|Yang-Tian Sun et.al.|[2603.17375](http://arxiv.org/abs/2603.17375)|null|
 |**2026-03-17**|**WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation**|Jisu Nam et.al.|[2603.16871](http://arxiv.org/abs/2603.16871)|null|
 |**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
@@ -41,6 +56,19 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**|Yigit Ekin et.al.|[2603.17998](http://arxiv.org/abs/2603.17998)|null|
+|**2026-03-18**|**TransText: Transparency Aware Image-to-Video Typography Animation**|Fei Zhang et.al.|[2603.17944](http://arxiv.org/abs/2603.17944)|null|
+|**2026-03-18**|**Video Understanding: From Geometry and Semantics to Unified Models**|Zhaochong An et.al.|[2603.17840](http://arxiv.org/abs/2603.17840)|null|
+|**2026-03-18**|**Cache-enabled Generative Joint Source-Channel Coding for Evolving Semantic Communications**|Shunpu Tang et.al.|[2603.17702](http://arxiv.org/abs/2603.17702)|null|
+|**2026-03-18**|**Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos**|Songtao Jiang et.al.|[2603.17693](http://arxiv.org/abs/2603.17693)|null|
+|**2026-03-18**|**Few-Step Diffusion Sampling Through Instance-Aware Discretizations**|Liangyu Yuan et.al.|[2603.17671](http://arxiv.org/abs/2603.17671)|null|
+|**2026-03-18**|**FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion**|Hugo Caselles-Dupré et.al.|[2603.17555](http://arxiv.org/abs/2603.17555)|null|
+|**2026-03-18**|**Deep Learning-Based Airway Segmentation in Systemic Lupus Erythematosus Patients with Interstitial Lung Disease (SLE-ILD): A Comparative High-Resolution CT Analysis**|Sirong Piao et.al.|[2603.17547](http://arxiv.org/abs/2603.17547)|null|
+|**2026-03-18**|**SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning**|Xi Ye et.al.|[2603.17426](http://arxiv.org/abs/2603.17426)|null|
+|**2026-03-18**|**Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration**|Ivor J. A. Simpson et.al.|[2603.17415](http://arxiv.org/abs/2603.17415)|null|
+|**2026-03-18**|**A 3D Reconstruction Benchmark for Asset Inspection**|James L. Gray et.al.|[2603.17358](http://arxiv.org/abs/2603.17358)|null|
+|**2026-03-17**|**A Lensless Polarization Camera**|Noa Kraicer et.al.|[2603.17156](http://arxiv.org/abs/2603.17156)|null|
+|**2026-03-17**|**Topology-Preserving Deep Joint Source-Channel Coding for Semantic Communication**|Omar Erak et.al.|[2603.17126](http://arxiv.org/abs/2603.17126)|null|
 |**2026-03-17**|**Surg $Σ$ : A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence**|Zhitao Zeng et.al.|[2603.16822](http://arxiv.org/abs/2603.16822)|null|
 |**2026-03-17**|**Preserving Vertical Structure in 3D-to-2D Projection for Permafrost Thaw Mapping**|Justin McMillen et.al.|[2603.16788](http://arxiv.org/abs/2603.16788)|null|
 |**2026-03-17**|**Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search**|Sainan Liu et.al.|[2603.16711](http://arxiv.org/abs/2603.16711)|null|
@@ -61,7 +89,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Versatile Editing of Video Content, Actions, and Dynamics without Training**|Vladimir Kulikov et.al.|[2603.17989](http://arxiv.org/abs/2603.17989)|null|
+|**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
+|**2026-03-18**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
 |**2026-03-17**|**SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation**|Jiongze Yu et.al.|[2603.16864](http://arxiv.org/abs/2603.16864)|null|
+|**2026-03-14**|**Script-to-Slide Grounding: Grounding Script Sentences to Slide Objects for Automatic Instructional Video Generation**|Rena Suzuki et.al.|[2603.16931](http://arxiv.org/abs/2603.16931)|null|
 |**2026-03-13**|**GA-Drive: Geometry-Appearance Decoupled Modeling for Free-viewpoint Driving Scene Generation**|Hao Zhang et.al.|[2602.20673](http://arxiv.org/abs/2602.20673)|null|
 |**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
 |**2026-03-10**|**From Ideal to Real: Stable Video Object Removal under Imperfect Conditions**|Jiagao Hu et.al.|[2603.09283](http://arxiv.org/abs/2603.09283)|null|
@@ -72,7 +104,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-06**|**UniVBench: Towards Unified Evaluation for Video Foundation Models**|Jianhui Wei et.al.|[2602.21835](http://arxiv.org/abs/2602.21835)|null|
 |**2026-03-03**|**NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing**|Tianlin Pan et.al.|[2603.02802](http://arxiv.org/abs/2603.02802)|null|
 |**2026-03-01**|**FREE-Edit: Using Editing-aware Injection in Rectified Flow Models for Zero-shot Image-Driven Video Editing**|Maomao Li et.al.|[2603.01164](http://arxiv.org/abs/2603.01164)|null|
-|**2026-02-26**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
 |**2026-02-25**|**StoryComposerAI: Supporting Human-AI Story Co-Creation Through Decomposition and Linking**|Shuo Niu et.al.|[2602.21486](http://arxiv.org/abs/2602.21486)|null|
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
@@ -81,6 +112,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|null|
+|**2026-03-18**|**LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition**|Vlad-Constantin Lungu-Stan et.al.|[2603.17965](http://arxiv.org/abs/2603.17965)|null|
+|**2026-03-18**|**Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control**|Zunzhe Zhang et.al.|[2603.17834](http://arxiv.org/abs/2603.17834)|null|
+|**2026-03-18**|**TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models**|Qianlong Xiang et.al.|[2603.17828](http://arxiv.org/abs/2603.17828)|null|
+|**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
+|**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|null|
+|**2026-03-18**|**Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems**|Qi Liu et.al.|[2603.17750](http://arxiv.org/abs/2603.17750)|null|
+|**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
+|**2026-03-18**|**Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models**|Jaemin Kim et.al.|[2603.17677](http://arxiv.org/abs/2603.17677)|null|
+|**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
+|**2026-03-18**|**SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning**|Xi Ye et.al.|[2603.17426](http://arxiv.org/abs/2603.17426)|null|
+|**2026-03-18**|**Joint Degradation-Aware Arbitrary-Scale Super-Resolution for Variable-Rate Extreme Image Compression**|Xinning Chai et.al.|[2603.17408](http://arxiv.org/abs/2603.17408)|null|
+|**2026-03-18**|**Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**|Rui Hong et.al.|[2603.17398](http://arxiv.org/abs/2603.17398)|null|
+|**2026-03-18**|**Toward Phonology-Guided Sign Language Motion Generation: A Diffusion Baseline and Conditioning Analysis**|Rui Hong et.al.|[2603.17388](http://arxiv.org/abs/2603.17388)|null|
 |**2026-03-17**|**V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising**|Han Lin et.al.|[2603.16792](http://arxiv.org/abs/2603.16792)|null|
 |**2026-03-17**|**Semi-supervised Latent Disentangled Diffusion Model for Textile Pattern Generation**|Chenggong Hu et.al.|[2603.16747](http://arxiv.org/abs/2603.16747)|null|
 |**2026-03-17**|**World Reconstruction From Inconsistent Views**|Lukas Höllein et.al.|[2603.16736](http://arxiv.org/abs/2603.16736)|null|
@@ -101,6 +147,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Fast Beam-Brainstorm: Few-Step Generative Site-Specific Beamforming with Flexible Probing**|Zihao Zhou et.al.|[2603.17622](http://arxiv.org/abs/2603.17622)|null|
+|**2026-03-18**|**Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**|Rui Hong et.al.|[2603.17398](http://arxiv.org/abs/2603.17398)|null|
 |**2026-03-17**|**Unlearning for One-Step Generative Models via Unbalanced Optimal Transport**|Hyundo Choi et.al.|[2603.16489](http://arxiv.org/abs/2603.16489)|null|
 |**2026-03-16**|**GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution**|Qiaosi Yi et.al.|[2603.16769](http://arxiv.org/abs/2603.16769)|null|
 |**2026-03-16**|**Preconditioned One-Step Generative Modeling for Bayesian Inverse Problems in Function Spaces**|Zilan Cheng et.al.|[2603.14798](http://arxiv.org/abs/2603.14798)|null|
@@ -127,12 +175,12 @@ Function added:
 
 * Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) 
 
-[contributors-shield]: https://img.shields.io/github/contributors/liutaocode/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/liutaocode/aigc-acceleration-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/liutaocode/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/liutaocode/aigc-acceleration-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/liutaocode/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/liutaocode/aigc-acceleration-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/liutaocode/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/liutaocode/aigc-acceleration-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/MathewLi9527/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MathewLi9527/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/MathewLi9527/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MathewLi9527/aigc-acceleration-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/MathewLi9527/aigc-acceleration-arxiv-daily/issues
 
