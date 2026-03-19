@@ -10,6 +10,11 @@ publish_readme: True
 publish_gitpage: True
 publish_wechat: True
 
+# Server酱微信推送配置
+serverchan:
+  enabled: True
+  send_key: "SCT325751T5Ikd7HwuKYA5pVrEoKL8Bzle"
+
 # file paths
 black_list_path: 'blacklists.txt'
 recent_trend_path: './pdf_analysis/recent_trends.txt'

@@ -9,6 +9,7 @@ import datetime
 import requests
 import warnings
 from urllib3.exceptions import InsecureRequestWarning
+from serverchan_push import ServerChanPush
 
 # 禁用SSL警告
 warnings.filterwarnings('ignore', category=InsecureRequestWarning)
@@ -472,6 +473,40 @@ def demo(**config):
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, black_list_set, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
+
+    # 4. Push to WeChat via Server酱
+    serverchan_config = config.get('serverchan', {})
+    if serverchan_config.get('enabled', False):
+        try:
+            send_key = serverchan_config.get('send_key', '')
+            if send_key:
+                pusher = ServerChanPush(send_key)
+                
+                # 获取当前日期
+                today = datetime.date.today().strftime("%Y.%m.%d")
+                
+                # 统计论文数量
+                total_count = 0
+                categories = []
+                for topic, keyword in keywords.items():
+                    categories.append(topic)
+                    # 从data_collector中统计
+                    for data in data_collector:
+                        if topic in data:
+                            total_count += len(data[topic])
+                
+                # 推送更新通知
+                if total_count > 0:
+                    pusher.push_simple_update(
+                        date=today,
+                        total_count=total_count,
+                        categories=categories
+                    )
+                    logging.info(f"Server酱推送成功: {total_count}篇论文")
+                else:
+                    logging.info("没有新论文，跳过Server酱推送")
+        except Exception as e:
+            logging.error(f"Server酱推送失败: {str(e)}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
