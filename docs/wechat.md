@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
     <li><a href=#video-editing>Video Editing</a></li>
     <li><a href=#diffusion-models>Diffusion Models</a></li>
     <li><a href=#real-time-generation>Real-time Generation</a></li>
+    <li><a href=#dit-acceleration>DiT Acceleration</a></li>
   </ol>
 </details>
 
@@ -169,6 +170,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-15, **Fair Benchmarking of Emerging One-Step Generative Models Against Multistep Diffusion and Flow Models**, Advaith Ravishankar et.al., Paper: [http://arxiv.org/abs/2603.14186](http://arxiv.org/abs/2603.14186)
 - 2026-03-11, **Auroral Acceleration Generates Electron Beams in Jupiter's Middle Magnetosphere**, June Piasecki et.al., Paper: [http://arxiv.org/abs/2603.10760](http://arxiv.org/abs/2603.10760)
 - 2026-03-11, **AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow**, Duojia Li et.al., Paper: [http://arxiv.org/abs/2603.10701](http://arxiv.org/abs/2603.10701)
+
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+
+## DiT Acceleration
+
+- 2026-01-15, **TetriServe: Efficient DiT Serving for Heterogeneous Image Generation**, Runyu Lu et.al., Paper: [http://arxiv.org/abs/2510.01565](http://arxiv.org/abs/2510.01565)
+- 2026-01-28, **StreamFusion: Scalable Sequence Parallelism for Distributed Inference of Diffusion Transformers on GPUs**, Jiacheng Yang et.al., Paper: [http://arxiv.org/abs/2601.20273](http://arxiv.org/abs/2601.20273)
+- 2026-01-09, **Sprint: Sparse-Dense Residual Fusion for Efficient Diffusion Transformers**, Dogyun Park et.al., Paper: [http://arxiv.org/abs/2510.21986](http://arxiv.org/abs/2510.21986)
+- 2026-02-11, **SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices**, Dongting Hu et.al., Paper: [http://arxiv.org/abs/2601.08303](http://arxiv.org/abs/2601.08303)
+- 2026-02-13, **ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration**, Fanpu Cao et.al., Paper: [http://arxiv.org/abs/2512.17298](http://arxiv.org/abs/2512.17298)
+- 2026-02-28, **Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization**, Tong Shao et.al., Paper: [http://arxiv.org/abs/2512.23258](http://arxiv.org/abs/2512.23258)
+- 2025-09-23, **Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**, Siu Hang Ho et.al., Paper: [http://arxiv.org/abs/2509.17894](http://arxiv.org/abs/2509.17894)
+- 2025-12-16, **OUSAC: Optimized Guidance Scheduling with Adaptive Caching for DiT Acceleration**, Ruitong Sun et.al., Paper: [http://arxiv.org/abs/2512.14096](http://arxiv.org/abs/2512.14096)
+- 2026-03-05, **Frequency-Aware Error-Bounded Caching for Accelerating Diffusion Transformers**, Guandong Li et.al., Paper: [http://arxiv.org/abs/2603.05315](http://arxiv.org/abs/2603.05315)
+- 2025-09-03, **FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation**, Dong Liu et.al., Paper: [http://arxiv.org/abs/2505.20353](http://arxiv.org/abs/2505.20353)
+- 2025-08-26, **Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**, Liding Zhang et.al., Paper: [http://arxiv.org/abs/2508.19168](http://arxiv.org/abs/2508.19168)
+- 2025-12-30, **Bidirectional Sparse Attention for Faster Video Diffusion Training**, Chenlu Zhan et.al., Paper: [http://arxiv.org/abs/2509.01085](http://arxiv.org/abs/2509.01085)
+- 2026-02-28, **BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching**, Hanshuai Cui et.al., Paper: [http://arxiv.org/abs/2509.13789](http://arxiv.org/abs/2509.13789)
+- 2025-05-16, **Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**, Haipeng Fang et.al., Paper: [http://arxiv.org/abs/2505.11707](http://arxiv.org/abs/2505.11707)
+- 2026-03-13, **AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation**, Xuanhua Yin et.al., Paper: [http://arxiv.org/abs/2603.12575](http://arxiv.org/abs/2603.12575)
 
 <p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 

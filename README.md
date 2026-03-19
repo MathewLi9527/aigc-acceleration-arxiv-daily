@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
     <li><a href=#video-editing>Video Editing</a></li>
     <li><a href=#diffusion-models>Diffusion Models</a></li>
     <li><a href=#real-time-generation>Real-time Generation</a></li>
+    <li><a href=#dit-acceleration>DiT Acceleration</a></li>
   </ol>
 </details>
 
@@ -179,6 +180,28 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-10**|**FrameDiT: Diffusion Transformer with Frame-Level Matrix Attention for Efficient Video Generation**|Minh Khoa Le et.al.|[2603.09721](http://arxiv.org/abs/2603.09721)|null|
 |**2026-03-09**|**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**|Lei Wang et.al.|[2603.08258](http://arxiv.org/abs/2603.08258)|null|
 |**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
+
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+
+## DiT Acceleration
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-03-13**|**AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation**|Xuanhua Yin et.al.|[2603.12575](http://arxiv.org/abs/2603.12575)|null|
+|**2026-03-05**|**Frequency-Aware Error-Bounded Caching for Accelerating Diffusion Transformers**|Guandong Li et.al.|[2603.05315](http://arxiv.org/abs/2603.05315)|null|
+|**2026-02-28**|**Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization**|Tong Shao et.al.|[2512.23258](http://arxiv.org/abs/2512.23258)|null|
+|**2026-02-28**|**BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching**|Hanshuai Cui et.al.|[2509.13789](http://arxiv.org/abs/2509.13789)|null|
+|**2026-02-13**|**ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration**|Fanpu Cao et.al.|[2512.17298](http://arxiv.org/abs/2512.17298)|null|
+|**2026-02-11**|**SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices**|Dongting Hu et.al.|[2601.08303](http://arxiv.org/abs/2601.08303)|null|
+|**2026-01-28**|**StreamFusion: Scalable Sequence Parallelism for Distributed Inference of Diffusion Transformers on GPUs**|Jiacheng Yang et.al.|[2601.20273](http://arxiv.org/abs/2601.20273)|null|
+|**2026-01-15**|**TetriServe: Efficient DiT Serving for Heterogeneous Image Generation**|Runyu Lu et.al.|[2510.01565](http://arxiv.org/abs/2510.01565)|null|
+|**2026-01-09**|**Sprint: Sparse-Dense Residual Fusion for Efficient Diffusion Transformers**|Dogyun Park et.al.|[2510.21986](http://arxiv.org/abs/2510.21986)|null|
+|**2025-12-30**|**Bidirectional Sparse Attention for Faster Video Diffusion Training**|Chenlu Zhan et.al.|[2509.01085](http://arxiv.org/abs/2509.01085)|null|
+|**2025-12-16**|**OUSAC: Optimized Guidance Scheduling with Adaptive Caching for DiT Acceleration**|Ruitong Sun et.al.|[2512.14096](http://arxiv.org/abs/2512.14096)|null|
+|**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
+|**2025-09-03**|**FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation**|Dong Liu et.al.|[2505.20353](http://arxiv.org/abs/2505.20353)|null|
+|**2025-08-26**|**Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**|Liding Zhang et.al.|[2508.19168](http://arxiv.org/abs/2508.19168)|null|
+|**2025-05-16**|**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**|Haipeng Fang et.al.|[2505.11707](http://arxiv.org/abs/2505.11707)|null|
 
 <p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
