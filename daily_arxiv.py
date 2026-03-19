@@ -383,22 +383,22 @@ def json_to_md(filename,
         f.write("* Support more reliable text parser. [Link](https://github.com/pdfminer/pdfminer.six) \n\n")
         f.write("* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) \n\n")
         
-         if show_badge == True:
-             f.write((f"[contributors-shield]: https://img.shields.io/github/"
+        if show_badge == True:
+            f.write((f"[contributors-shield]: https://img.shields.io/github/"
                      f"contributors/MathewLi9527/aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-             f.write((f"[contributors-url]: https://github.com/MathewLi9527/"
+            f.write((f"[contributors-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/graphs/contributors\n"))
-             f.write((f"[forks-shield]: https://img.shields.io/github/forks/MathewLi9527/"
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-             f.write((f"[forks-url]: https://github.com/MathewLi9527/"
+            f.write((f"[forks-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/network/members\n"))
-             f.write((f"[stars-shield]: https://img.shields.io/github/stars/MathewLi9527/"
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-             f.write((f"[stars-url]: https://github.com/MathewLi9527/"
+            f.write((f"[stars-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/stargazers\n"))
-             f.write((f"[issues-shield]: https://img.shields.io/github/issues/MathewLi9527/"
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily.svg?style=for-the-badge\n"))
-             f.write((f"[issues-url]: https://github.com/MathewLi9527/"
+            f.write((f"[issues-url]: https://github.com/MathewLi9527/"
                      f"aigc-acceleration-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
