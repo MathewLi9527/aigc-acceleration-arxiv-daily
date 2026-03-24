@@ -29,6 +29,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models**|Meiqi Wu et.al.|[2603.22212](http://arxiv.org/abs/2603.22212)|null|
+|**2026-03-23**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193](http://arxiv.org/abs/2603.22193)|null|
+|**2026-03-23**|**Mamba-VMR: Multimodal Query Augmentation via Generated Videos for Precise Temporal Grounding**|Yunzhuo Sun et.al.|[2603.22121](http://arxiv.org/abs/2603.22121)|null|
+|**2026-03-23**|**P-Flow: Prompting Visual Effects Generation**|Rui Zhao et.al.|[2603.22091](http://arxiv.org/abs/2603.22091)|null|
 |**2026-03-23**|**Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model**|SII-GAIR et.al.|[2603.21986](http://arxiv.org/abs/2603.21986)|null|
 |**2026-03-23**|**Manifold-Aware Exploration for Reinforcement Learning in Video Generation**|Mingzhe Zheng et.al.|[2603.21872](http://arxiv.org/abs/2603.21872)|null|
 |**2026-03-23**|**Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation**|Yuyang You et.al.|[2603.21864](http://arxiv.org/abs/2603.21864)|null|
@@ -95,6 +99,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**P-Flow: Prompting Visual Effects Generation**|Rui Zhao et.al.|[2603.22091](http://arxiv.org/abs/2603.22091)|null|
 |**2026-03-23**|**A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing**|Chedly Ben Azizi et.al.|[2603.21911](http://arxiv.org/abs/2603.21911)|null|
 |**2026-03-23**|**HMS-VesselNet: Hierarchical Multi-Scale Attention Network with Topology-Preserving Loss for Retinal Vessel Segmentation**|Amarnath R et.al.|[2603.21891](http://arxiv.org/abs/2603.21891)|null|
 |**2026-03-23**|**The Universal Normal Embedding**|Chen Tasker et.al.|[2603.21786](http://arxiv.org/abs/2603.21786)|null|
@@ -187,6 +192,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**End-to-End Training for Unified Tokenization and Latent Denoising**|Shivam Duggal et.al.|[2603.22283](http://arxiv.org/abs/2603.22283)|null|
+|**2026-03-23**|**Repurposing Geometric Foundation Models for Multi-view Diffusion**|Wooseok Jang et.al.|[2603.22275](http://arxiv.org/abs/2603.22275)|null|
+|**2026-03-23**|**DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution**|Zhengyao Lv et.al.|[2603.22271](http://arxiv.org/abs/2603.22271)|null|
+|**2026-03-23**|**SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation**|Sashuai Zhou et.al.|[2603.22228](http://arxiv.org/abs/2603.22228)|null|
+|**2026-03-23**|**DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment**|Xin Cai et.al.|[2603.22125](http://arxiv.org/abs/2603.22125)|null|
+|**2026-03-23**|**DTVI: Dual-Stage Textual and Visual Intervention for Safe Text-to-Image Generation**|Binhong Tan et.al.|[2603.22041](http://arxiv.org/abs/2603.22041)|null|
 |**2026-03-23**|**APEG: Adaptive Physical Layer Authentication with Channel Extrapolation and Generative AI**|Xiqi Cheng et.al.|[2603.21923](http://arxiv.org/abs/2603.21923)|null|
 |**2026-03-23**|**CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal**|Qingdong He et.al.|[2603.21901](http://arxiv.org/abs/2603.21901)|null|
 |**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|null|
@@ -269,6 +280,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution**|Zhengyao Lv et.al.|[2603.22271](http://arxiv.org/abs/2603.22271)|null|
 |**2026-03-23**|**Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation**|Yuyang You et.al.|[2603.21864](http://arxiv.org/abs/2603.21864)|null|
 |**2026-03-22**|**Implicit Maximum Likelihood Estimation for Real-time Generative Model Predictive Control**|Grayson Lee et.al.|[2603.13733](http://arxiv.org/abs/2603.13733)|null|
 |**2026-03-21**|**Smart Operation Theatre: An AI-based System for Surgical Gauze Counting**|Saraf Krish et.al.|[2603.20752](http://arxiv.org/abs/2603.20752)|null|
