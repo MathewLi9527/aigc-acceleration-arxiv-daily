@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-> Updated on 2026.03.31
+> Updated on 2026.04.01
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -36,6 +36,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-29, **Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning**, Ming Liu et.al., Paper: [http://arxiv.org/abs/2603.27866](http://arxiv.org/abs/2603.27866)
 - 2026-03-30, **VistaGEN: Consistent Driving Video Generation with Fine-Grained Control Using Multiview Visual-Language Reasoning**, Li-Heng Chen et.al., Paper: [http://arxiv.org/abs/2603.28353](http://arxiv.org/abs/2603.28353)
 - 2026-03-17, **VideoMatGen: PBR Materials through Joint Generative Modeling**, Jon Hasselgren et.al., Paper: [http://arxiv.org/abs/2603.16566](http://arxiv.org/abs/2603.16566)
+- 2026-03-31, **Video Models Reason Early: Exploiting Plan Commitment for Maze Solving**, Kaleb Newman et.al., Paper: [http://arxiv.org/abs/2603.30043](http://arxiv.org/abs/2603.30043)
 - 2026-03-30, **Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms**, Muyang He et.al., Paper: [http://arxiv.org/abs/2603.28489](http://arxiv.org/abs/2603.28489)
 - 2026-03-16, **ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**, Ruonan Yu et.al., Paper: [http://arxiv.org/abs/2603.15478](http://arxiv.org/abs/2603.15478)
 - 2026-03-24, **ViBe: Ultra-High-Resolution Video Synthesis Born from Pure Images**, Yunfeng Wu et.al., Paper: [http://arxiv.org/abs/2603.23326](http://arxiv.org/abs/2603.23326)
@@ -45,6 +46,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-19, **V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors**, Songjia He et.al., Paper: [http://arxiv.org/abs/2603.18811](http://arxiv.org/abs/2603.18811)
 - 2026-03-20, **Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier**, Yujie Zhou et.al., Paper: [http://arxiv.org/abs/2603.20382](http://arxiv.org/abs/2603.20382)
 - 2026-03-16, **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**, Zhenghong Zhou et.al., Paper: [http://arxiv.org/abs/2603.15614](http://arxiv.org/abs/2603.15614)
+- 2026-03-31, **TrajectoryMover: Generative Movement of Object Trajectories in Videos**, Kiran Chhatre et.al., Paper: [http://arxiv.org/abs/2603.29092](http://arxiv.org/abs/2603.29092)
 - 2026-03-23, **TrajLoom: Dense Future Trajectory Generation from Video**, Zewei Zhang et.al., Paper: [http://arxiv.org/abs/2603.22606](http://arxiv.org/abs/2603.22606)
 - 2026-03-19, **Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering**, Jiayi Luo et.al., Paper: [http://arxiv.org/abs/2603.18636](http://arxiv.org/abs/2603.18636)
 - 2026-03-28, **TrackMAE: Video Representation Learning via Track Mask and Predict**, Renaud Vandeghen et.al., Paper: [http://arxiv.org/abs/2603.27268](http://arxiv.org/abs/2603.27268)
@@ -55,12 +57,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-24, **TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation**, Jini Yang et.al., Paper: [http://arxiv.org/abs/2603.23487](http://arxiv.org/abs/2603.23487)
 - 2026-03-18, **TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**, Yan Zeng et.al., Paper: [http://arxiv.org/abs/2603.17735](http://arxiv.org/abs/2603.17735)
 - 2026-03-18, **Stereo World Model: Camera-Guided Stereo Video Generation**, Yang-Tian Sun et.al., Paper: [http://arxiv.org/abs/2603.17375](http://arxiv.org/abs/2603.17375)
+- 2026-03-30, **Stepper: Stepwise Immersive Scene Generation with Multiview Panoramas**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2603.28980](http://arxiv.org/abs/2603.28980)
 - 2026-03-18, **Steering Video Diffusion Transformers with Massive Activations**, Xianhang Cheng et.al., Paper: [http://arxiv.org/abs/2603.17825](http://arxiv.org/abs/2603.17825)
 - 2026-03-23, **Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model**, SII-GAIR et.al., Paper: [http://arxiv.org/abs/2603.21986](http://arxiv.org/abs/2603.21986)
 - 2026-03-19, **Spectrally-Guided Diffusion Noise Schedules**, Carlos Esteves et.al., Paper: [http://arxiv.org/abs/2603.19222](http://arxiv.org/abs/2603.19222)
 - 2026-03-26, **ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**, Yawen Luo et.al., Paper: [http://arxiv.org/abs/2603.25746](http://arxiv.org/abs/2603.25746)
 - 2026-03-17, **Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search**, Sainan Liu et.al., Paper: [http://arxiv.org/abs/2603.16711](http://arxiv.org/abs/2603.16711)
 - 2026-03-26, **ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**, Haodong Yu et.al., Paper: [http://arxiv.org/abs/2603.24270](http://arxiv.org/abs/2603.24270)
+- 2026-03-31, **SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation**, Ryosuke Matsuda et.al., Paper: [http://arxiv.org/abs/2603.29186](http://arxiv.org/abs/2603.29186)
 - 2026-03-18, **SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning**, Xi Ye et.al., Paper: [http://arxiv.org/abs/2603.17426](http://arxiv.org/abs/2603.17426)
 - 2026-03-17, **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**, Haodong Yan et.al., Paper: [http://arxiv.org/abs/2603.16195](http://arxiv.org/abs/2603.16195)
 - 2026-03-22, **Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation**, Zengqun Zhao et.al., Paper: [http://arxiv.org/abs/2603.21366](http://arxiv.org/abs/2603.21366)
@@ -76,6 +80,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-23, **P-Flow: Prompting Visual Effects Generation**, Rui Zhao et.al., Paper: [http://arxiv.org/abs/2603.22091](http://arxiv.org/abs/2603.22091)
 - 2026-03-20, **OrbitNVS: Harnessing Video Diffusion Priors for Novel View Synthesis**, Jinglin Liang et.al., Paper: [http://arxiv.org/abs/2603.19613](http://arxiv.org/abs/2603.19613)
 - 2026-03-25, **OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**, Kaihang Pan et.al., Paper: [http://arxiv.org/abs/2603.24458](http://arxiv.org/abs/2603.24458)
+- 2026-03-31, **OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**, Yuheng Liu et.al., Paper: [http://arxiv.org/abs/2603.30045](http://arxiv.org/abs/2603.30045)
 - 2026-03-23, **Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models**, Meiqi Wu et.al., Paper: [http://arxiv.org/abs/2603.22212](http://arxiv.org/abs/2603.22212)
 - 2026-03-18, **Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**, Rui Hong et.al., Paper: [http://arxiv.org/abs/2603.17398](http://arxiv.org/abs/2603.17398)
 - 2026-03-20, **Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**, Weisheng Xu et.al., Paper: [http://arxiv.org/abs/2603.19709](http://arxiv.org/abs/2603.19709)
@@ -101,8 +106,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-18, **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation**, Yingjie Chen et.al., Paper: [http://arxiv.org/abs/2603.17889](http://arxiv.org/abs/2603.17889)
 - 2026-03-24, **I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation**, Jia Li et.al., Paper: [http://arxiv.org/abs/2603.23413](http://arxiv.org/abs/2603.23413)
 - 2026-03-16, **Grounding World Simulation Models in a Real-World Metropolis**, Junyoung Seo et.al., Paper: [http://arxiv.org/abs/2603.15583](http://arxiv.org/abs/2603.15583)
+- 2026-03-31, **Gloria: Consistent Character Video Generation via Content Anchors**, Yuhang Yang et.al., Paper: [http://arxiv.org/abs/2603.29931](http://arxiv.org/abs/2603.29931)
 - 2026-03-19, **Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**, Xianjin Wu et.al., Paper: [http://arxiv.org/abs/2603.19235](http://arxiv.org/abs/2603.19235)
 - 2026-03-27, **Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow**, Ziyue Zeng et.al., Paper: [http://arxiv.org/abs/2603.26571](http://arxiv.org/abs/2603.26571)
+- 2026-03-30, **Generating Humanless Environment Walkthroughs from Egocentric Walking Tour Videos**, Yujin Ham et.al., Paper: [http://arxiv.org/abs/2603.29036](http://arxiv.org/abs/2603.29036)
 - 2026-03-19, **GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?**, Yueying Zou et.al., Paper: [http://arxiv.org/abs/2603.18625](http://arxiv.org/abs/2603.18625)
 - 2026-03-26, **GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2603.25053](http://arxiv.org/abs/2603.25053)
 - 2026-03-24, **GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models**, Zekai Gu et.al., Paper: [http://arxiv.org/abs/2603.23246](http://arxiv.org/abs/2603.23246)
@@ -135,7 +142,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-19, **6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models**, Rundong Su et.al., Paper: [http://arxiv.org/abs/2603.18742](http://arxiv.org/abs/2603.18742)
 - 2026-03-19, **3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model**, Hyun-kyu Ko et.al., Paper: [http://arxiv.org/abs/2603.18524](http://arxiv.org/abs/2603.18524)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Image-to-Video
 
@@ -160,6 +167,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-20, **Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis**, M. Kerem Aydin et.al., Paper: [http://arxiv.org/abs/2603.20448](http://arxiv.org/abs/2603.20448)
 - 2026-03-18, **The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**, Yigit Ekin et.al., Paper: [http://arxiv.org/abs/2603.17998](http://arxiv.org/abs/2603.17998)
 - 2026-03-23, **The Universal Normal Embedding**, Chen Tasker et.al., Paper: [http://arxiv.org/abs/2603.21786](http://arxiv.org/abs/2603.21786)
+- 2026-03-30, **The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations**, Kushal Vyas et.al., Paper: [http://arxiv.org/abs/2603.29034](http://arxiv.org/abs/2603.29034)
 - 2026-03-17, **The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models**, Eduardo Nebot et.al., Paper: [http://arxiv.org/abs/2603.16050](http://arxiv.org/abs/2603.16050)
 - 2026-03-26, **TRACE: Object Motion Editing in Videos with First-Frame Trajectory Guidance**, Quynh Phung et.al., Paper: [http://arxiv.org/abs/2603.25707](http://arxiv.org/abs/2603.25707)
 - 2026-03-17, **Surg $Σ$ : A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence**, Zhitao Zeng et.al., Paper: [http://arxiv.org/abs/2603.16822](http://arxiv.org/abs/2603.16822)
@@ -176,10 +184,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-18, **SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning**, Xi Ye et.al., Paper: [http://arxiv.org/abs/2603.17426](http://arxiv.org/abs/2603.17426)
 - 2026-03-19, **SCISSR: Scribble-Conditioned Interactive Surgical Segmentation and Refinement**, Haonan Ping et.al., Paper: [http://arxiv.org/abs/2603.18544](http://arxiv.org/abs/2603.18544)
 - 2026-03-24, **Rigid Motion Estimation using Accelerated Iterative Coordinate Descent (REACT) for MR Imaging**, Kwang Eun Jang et.al., Paper: [http://arxiv.org/abs/2603.23096](http://arxiv.org/abs/2603.23096)
+- 2026-03-31, **Rich-U-Net: A medical image segmentation model for fusing spatial depth features and capturing minute structural details**, Zhuoyi Fang et.al., Paper: [http://arxiv.org/abs/2603.29404](http://arxiv.org/abs/2603.29404)
 - 2026-03-24, **Retrieval-Guided Photovoltaic Inventory Estimation from Satellite Imagery for Distribution Grid Planning**, Muhao Guo et.al., Paper: [http://arxiv.org/abs/2603.22856](http://arxiv.org/abs/2603.22856)
+- 2026-03-31, **Retinal Malady Classification using AI: A novel ViT-SVM combination architecture**, Shashwat Jha et.al., Paper: [http://arxiv.org/abs/2603.29181](http://arxiv.org/abs/2603.29181)
 - 2026-03-20, **ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis**, Lubin Gan et.al., Paper: [http://arxiv.org/abs/2603.19925](http://arxiv.org/abs/2603.19925)
 - 2026-03-28, **Quantitative measurements of biological/chemical concentrations using smartphone cameras**, Zhendong Cao et.al., Paper: [http://arxiv.org/abs/2603.27118](http://arxiv.org/abs/2603.27118)
 - 2026-03-17, **Preserving Vertical Structure in 3D-to-2D Projection for Permafrost Thaw Mapping**, Justin McMillen et.al., Paper: [http://arxiv.org/abs/2603.16788](http://arxiv.org/abs/2603.16788)
+- 2026-03-31, **Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning**, Antoine Bottenmuller et.al., Paper: [http://arxiv.org/abs/2603.29438](http://arxiv.org/abs/2603.29438)
 - 2026-03-26, **Pixelis: Reasoning in Pixels, from Seeing to Acting**, Yunpeng Zhou et.al., Paper: [http://arxiv.org/abs/2603.25091](http://arxiv.org/abs/2603.25091)
 - 2026-03-30, **Physics-Embedded Feature Learning for AI in Medical Imaging**, Pulock Das et.al., Paper: [http://arxiv.org/abs/2603.28057](http://arxiv.org/abs/2603.28057)
 - 2026-03-26, **PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders**, Niccolò Cavagnero et.al., Paper: [http://arxiv.org/abs/2603.25398](http://arxiv.org/abs/2603.25398)
@@ -188,6 +199,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-25, **OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video**, Selim Gilon et.al., Paper: [http://arxiv.org/abs/2603.24733](http://arxiv.org/abs/2603.24733)
 - 2026-03-27, **On-Device Super Resolution Imaging Using Low-Cost SPAD Array and Embedded Lightweight Deep Learning**, Zhenya Zang et.al., Paper: [http://arxiv.org/abs/2603.27018](http://arxiv.org/abs/2603.27018)
 - 2026-03-25, **OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**, Kaihang Pan et.al., Paper: [http://arxiv.org/abs/2603.24458](http://arxiv.org/abs/2603.24458)
+- 2026-03-31, **OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**, Yuheng Liu et.al., Paper: [http://arxiv.org/abs/2603.30045](http://arxiv.org/abs/2603.30045)
 - 2026-03-20, **Offshore oil and gas platform dynamics in the North Sea, Gulf of Mexico, and Persian Gulf: Exploiting the Sentinel-1 archive**, Robin Spanier et.al., Paper: [http://arxiv.org/abs/2603.19801](http://arxiv.org/abs/2603.19801)
 - 2026-03-25, **MonoSIM: An open source SIL framework for Ackermann Vehicular Systems with Monocular Vision**, Shantanu Rahman et.al., Paper: [http://arxiv.org/abs/2603.23965](http://arxiv.org/abs/2603.23965)
 - 2026-03-30, **MolmoPoint: Better Pointing for VLMs with Grounding Tokens**, Christopher Clark et.al., Paper: [http://arxiv.org/abs/2603.28069](http://arxiv.org/abs/2603.28069)
@@ -205,6 +217,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-20, **Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**, Jan Emily Mangulabnan et.al., Paper: [http://arxiv.org/abs/2603.20045](http://arxiv.org/abs/2603.20045)
 - 2026-03-18, **Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models**, Yuhao Dong et.al., Paper: [http://arxiv.org/abs/2603.18118](http://arxiv.org/abs/2603.18118)
 - 2026-03-26, **Image Rotation Angle Estimation: Comparing Circular-Aware Methods**, Maximilian Woehrer et.al., Paper: [http://arxiv.org/abs/2603.25351](http://arxiv.org/abs/2603.25351)
+- 2026-03-30, **Hybrid Quantum-Classical AI for Industrial Defect Classification in Welding Images**, Akshaya Srinivasan et.al., Paper: [http://arxiv.org/abs/2603.28995](http://arxiv.org/abs/2603.28995)
 - 2026-03-17, **HistoAtlas: A Pan-Cancer Morphology Atlas Linking Histomics to Molecular Programs and Clinical Outcomes**, Pierre-Antoine Bannier et.al., Paper: [http://arxiv.org/abs/2603.16587](http://arxiv.org/abs/2603.16587)
 - 2026-03-24, **Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2603.23390](http://arxiv.org/abs/2603.23390)
 - 2026-03-23, **HMS-VesselNet: Hierarchical Multi-Scale Attention Network with Topology-Preserving Loss for Retinal Vessel Segmentation**, Amarnath R et.al., Paper: [http://arxiv.org/abs/2603.21891](http://arxiv.org/abs/2603.21891)
@@ -224,6 +237,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-17, **Fanar 2.0: Arabic Generative AI Stack**, FANAR TEAM et.al., Paper: [http://arxiv.org/abs/2603.16397](http://arxiv.org/abs/2603.16397)
 - 2026-03-20, **Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts**, John Turnbull et.al., Paper: [http://arxiv.org/abs/2603.19994](http://arxiv.org/abs/2603.19994)
 - 2026-03-18, **Energy-Aware Frame Rate Selection for Video Coding**, Geetha Ramasubbu et.al., Paper: [http://arxiv.org/abs/2603.18305](http://arxiv.org/abs/2603.18305)
+- 2026-03-30, **End-to-end optimization of sparse ultrasound linear probes**, Sergio Urrea et.al., Paper: [http://arxiv.org/abs/2603.29014](http://arxiv.org/abs/2603.29014)
 - 2026-03-18, **Dual Agreement Consistency Learning with Foundation Models for Semi-Supervised Fetal Heart Ultrasound Segmentation and Diagnosis**, Fangyijie Wang et.al., Paper: [http://arxiv.org/abs/2603.18119](http://arxiv.org/abs/2603.18119)
 - 2026-03-23, **Drop-In Perceptual Optimization for 3D Gaussian Splatting**, Ezgi Ozyilkan et.al., Paper: [http://arxiv.org/abs/2603.23297](http://arxiv.org/abs/2603.23297)
 - 2026-03-28, **DeepBayesFlow: A Bayesian Structured Variational Framework for Generalizable Prostate Segmentation via Expressive Posteriors and SDE-Girsanov Uncertainty Modeling**, Zhuoyi Fang et.al., Paper: [http://arxiv.org/abs/2603.27263](http://arxiv.org/abs/2603.27263)
@@ -247,14 +261,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-19, **A Hybrid Physical--Digital Framework for Annotated Fracture Reduction Data Evaluated using Clinically Relevant 3D metrics**, Basile Longo et.al., Paper: [http://arxiv.org/abs/2603.18723](http://arxiv.org/abs/2603.18723)
 - 2026-03-18, **A 3D Reconstruction Benchmark for Asset Inspection**, James L. Gray et.al., Paper: [http://arxiv.org/abs/2603.17358](http://arxiv.org/abs/2603.17358)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Video Editing
 
-- 2026-03-20, **X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2603.19979](http://arxiv.org/abs/2603.19979)
+- 2026-03-31, **X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2603.19979](http://arxiv.org/abs/2603.19979)
 - 2026-03-10, **When to Lock Attention: Training-Free KV Control in Video Diffusion**, Tianyi Zeng et.al., Paper: [http://arxiv.org/abs/2603.09657](http://arxiv.org/abs/2603.09657)
 - 2026-03-18, **Versatile Editing of Video Content, Actions, and Dynamics without Training**, Vladimir Kulikov et.al., Paper: [http://arxiv.org/abs/2603.17989](http://arxiv.org/abs/2603.17989)
 - 2026-03-06, **UniVBench: Towards Unified Evaluation for Video Foundation Models**, Jianhui Wei et.al., Paper: [http://arxiv.org/abs/2602.21835](http://arxiv.org/abs/2602.21835)
+- 2026-03-31, **TrajectoryMover: Generative Movement of Object Trajectories in Videos**, Kiran Chhatre et.al., Paper: [http://arxiv.org/abs/2603.29092](http://arxiv.org/abs/2603.29092)
 - 2026-03-06, **Training-free Latent Inter-Frame Pruning with Attention Recovery**, Dennis Menn et.al., Paper: [http://arxiv.org/abs/2603.05811](http://arxiv.org/abs/2603.05811)
 - 2026-03-26, **TRACE: Object Motion Editing in Videos with First-Frame Trajectory Guidance**, Quynh Phung et.al., Paper: [http://arxiv.org/abs/2603.25707](http://arxiv.org/abs/2603.25707)
 - 2026-02-25, **StoryComposerAI: Supporting Human-AI Story Co-Creation Through Decomposition and Linking**, Shuo Niu et.al., Paper: [http://arxiv.org/abs/2602.21486](http://arxiv.org/abs/2602.21486)
@@ -274,30 +289,35 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-01, **FREE-Edit: Using Editing-aware Injection in Rectified Flow Models for Zero-shot Image-Driven Video Editing**, Maomao Li et.al., Paper: [http://arxiv.org/abs/2603.01164](http://arxiv.org/abs/2603.01164)
 - 2026-03-19, **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2603.19224](http://arxiv.org/abs/2603.19224)
 - 2026-02-16, **EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**, Yehonathan Litman et.al., Paper: [http://arxiv.org/abs/2602.15031](http://arxiv.org/abs/2602.15031)
+- 2026-03-31, **CutClaw: Agentic Hours-Long Video Editing via Music Synchronization**, Shifang Zhao et.al., Paper: [http://arxiv.org/abs/2603.29664](http://arxiv.org/abs/2603.29664)
 - 2026-03-18, **ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**, Dmitriy Rivkin et.al., Paper: [http://arxiv.org/abs/2603.17812](http://arxiv.org/abs/2603.17812)
 - 2026-03-30, **AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**, Milton Zhou et.al., Paper: [http://arxiv.org/abs/2603.28366](http://arxiv.org/abs/2603.28366)
 - 2026-03-25, **Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep**, Tianyi Liu et.al., Paper: [http://arxiv.org/abs/2603.24260](http://arxiv.org/abs/2603.24260)
 - 2026-03-25, **AVControl: Efficient Framework for Training Audio-Visual Controls**, Matan Ben-Yosef et.al., Paper: [http://arxiv.org/abs/2603.24793](http://arxiv.org/abs/2603.24793)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Diffusion Models
 
+- 2026-03-31, **iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models**, Xudong Zhou et.al., Paper: [http://arxiv.org/abs/2603.29469](http://arxiv.org/abs/2603.29469)
 - 2026-03-24, **Zero-Shot Personalization of Objects via Textual Inversion**, Aniket Roy et.al., Paper: [http://arxiv.org/abs/2603.23010](http://arxiv.org/abs/2603.23010)
 - 2026-03-17, **World Reconstruction From Inconsistent Views**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2603.16736](http://arxiv.org/abs/2603.16736)
 - 2026-03-20, **Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods**, Sebastian Gerard et.al., Paper: [http://arxiv.org/abs/2603.20188](http://arxiv.org/abs/2603.20188)
 - 2026-03-25, **When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm**, Ye Leng et.al., Paper: [http://arxiv.org/abs/2603.24079](http://arxiv.org/abs/2603.24079)
 - 2026-03-17, **When Generative Augmentation Hurts: A Benchmark Study of GAN and Diffusion Models for Bias Correction in AI Classification Systems**, Shesh Narayan Gupta et.al., Paper: [http://arxiv.org/abs/2603.16134](http://arxiv.org/abs/2603.16134)
 - 2026-03-26, **VolDiT: Controllable Volumetric Medical Image Synthesis with Diffusion Transformers**, Marvin Seyfarth et.al., Paper: [http://arxiv.org/abs/2603.25181](http://arxiv.org/abs/2603.25181)
+- 2026-03-31, **Video Models Reason Early: Exploiting Plan Commitment for Maze Solving**, Kaleb Newman et.al., Paper: [http://arxiv.org/abs/2603.30043](http://arxiv.org/abs/2603.30043)
 - 2026-03-25, **ViHOI: Human-Object Interaction Synthesis with Visual Priors**, Songjin Cai et.al., Paper: [http://arxiv.org/abs/2603.24383](http://arxiv.org/abs/2603.24383)
 - 2026-03-24, **ViBe: Ultra-High-Resolution Video Synthesis Born from Pure Images**, Yunfeng Wu et.al., Paper: [http://arxiv.org/abs/2603.23326](http://arxiv.org/abs/2603.23326)
 - 2026-03-17, **VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment**, Tengjiao Yin et.al., Paper: [http://arxiv.org/abs/2603.16271](http://arxiv.org/abs/2603.16271)
 - 2026-03-17, **V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising**, Han Lin et.al., Paper: [http://arxiv.org/abs/2603.16792](http://arxiv.org/abs/2603.16792)
 - 2026-03-23, **Unimodular Diffusion and Interacting Vacuum Cosmology**, Gopal Kashyap et.al., Paper: [http://arxiv.org/abs/2603.21675](http://arxiv.org/abs/2603.21675)
+- 2026-03-31, **Ultra-short-term volatility surfaces**, Federico M. Bandi et.al., Paper: [http://arxiv.org/abs/2603.29430](http://arxiv.org/abs/2603.29430)
 - 2026-03-19, **TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis**, Atharva Rege et.al., Paper: [http://arxiv.org/abs/2603.19386](http://arxiv.org/abs/2603.19386)
 - 2026-03-19, **Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness**, Yitong Li et.al., Paper: [http://arxiv.org/abs/2603.18896](http://arxiv.org/abs/2603.18896)
 - 2026-03-18, **Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems**, Qi Liu et.al., Paper: [http://arxiv.org/abs/2603.17750](http://arxiv.org/abs/2603.17750)
 - 2026-03-18, **Toward Phonology-Guided Sign Language Motion Generation: A Diffusion Baseline and Conditioning Analysis**, Rui Hong et.al., Paper: [http://arxiv.org/abs/2603.17388](http://arxiv.org/abs/2603.17388)
+- 2026-03-31, **Total Variation Guarantees for Sampling with Stochastic Localization**, Jakob Kellermann et.al., Paper: [http://arxiv.org/abs/2603.29555](http://arxiv.org/abs/2603.29555)
 - 2026-03-20, **Timestep-Aware Block Masking for Efficient Diffusion Model Inference**, Haodong He et.al., Paper: [http://arxiv.org/abs/2603.19939](http://arxiv.org/abs/2603.19939)
 - 2026-03-26, **Temporally Decoupled Diffusion Planning for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2603.25462](http://arxiv.org/abs/2603.25462)
 - 2026-03-25, **Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation**, Ching-Lam Cheng et.al., Paper: [http://arxiv.org/abs/2603.24407](http://arxiv.org/abs/2603.24407)
@@ -331,6 +351,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-30, **Physics-Embedded Feature Learning for AI in Medical Imaging**, Pulock Das et.al., Paper: [http://arxiv.org/abs/2603.28057](http://arxiv.org/abs/2603.28057)
 - 2026-03-26, **Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning**, Jai Bardhan et.al., Paper: [http://arxiv.org/abs/2603.25685](http://arxiv.org/abs/2603.25685)
 - 2026-03-24, **Permutation-Symmetrized Diffusion for Unconditional Molecular Generation**, Gyeonghoon Ko et.al., Paper: [http://arxiv.org/abs/2603.23255](http://arxiv.org/abs/2603.23255)
+- 2026-03-31, **Pathogen diversity emerging from coevolutionary dynamics in interconnected systems**, Davide Zanchetta et.al., Paper: [http://arxiv.org/abs/2603.29398](http://arxiv.org/abs/2603.29398)
 - 2026-03-26, **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**, Xiaofeng Mao et.al., Paper: [http://arxiv.org/abs/2603.25730](http://arxiv.org/abs/2603.25730)
 - 2026-03-23, **PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models**, Yiwei Xie et.al., Paper: [http://arxiv.org/abs/2603.21547](http://arxiv.org/abs/2603.21547)
 - 2026-03-30, **On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers**, Omer Dahary et.al., Paper: [http://arxiv.org/abs/2603.28762](http://arxiv.org/abs/2603.28762)
@@ -338,11 +359,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-20, **OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework**, Weixuan Zeng et.al., Paper: [http://arxiv.org/abs/2603.19643](http://arxiv.org/abs/2603.19643)
 - 2026-03-23, **Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation**, Donald Shenaj et.al., Paper: [http://arxiv.org/abs/2603.21884](http://arxiv.org/abs/2603.21884)
 - 2026-03-19, **Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models**, Riccardo Saporiti et.al., Paper: [http://arxiv.org/abs/2603.18907](http://arxiv.org/abs/2603.18907)
+- 2026-03-31, **NeoNet: An End-to-End 3D MRI-Based Deep Learning Framework for Non-Invasive Prediction of Perineural Invasion via Generation-Driven Classification**, Youngung Han et.al., Paper: [http://arxiv.org/abs/2603.29449](http://arxiv.org/abs/2603.29449)
+- 2026-03-31, **Multi-AUV Cooperative Target Tracking Based on Supervised Diffusion-Aided Multi-Agent Reinforcement Learning**, Jiaao Ma et.al., Paper: [http://arxiv.org/abs/2603.29426](http://arxiv.org/abs/2603.29426)
 - 2026-03-18, **Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**, Rui Hong et.al., Paper: [http://arxiv.org/abs/2603.17398](http://arxiv.org/abs/2603.17398)
 - 2026-03-24, **Markov-Enforced Discrete Diffusion Model for Digital Semantic Symbol Error Correction**, Yoon Huh et.al., Paper: [http://arxiv.org/abs/2603.22983](http://arxiv.org/abs/2603.22983)
 - 2026-03-24, **Markov State--Space Modeling and Channel Characterization for DNA-Based Molecular Communication**, Ruifeng Zheng et.al., Paper: [http://arxiv.org/abs/2603.23394](http://arxiv.org/abs/2603.23394)
 - 2026-03-20, **Making Video Models Adhere to User Intent with Minor Adjustments**, Daniel Ajisafe et.al., Paper: [http://arxiv.org/abs/2603.19672](http://arxiv.org/abs/2603.19672)
 - 2026-03-20, **MagicSeg: Open-World Segmentation Pretraining via Counterfactural Diffusion-Based Auto-Generation**, Kaixin Cai et.al., Paper: [http://arxiv.org/abs/2603.19575](http://arxiv.org/abs/2603.19575)
+- 2026-03-30, **MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation**, Bharath Krishnamurthy et.al., Paper: [http://arxiv.org/abs/2603.29029](http://arxiv.org/abs/2603.29029)
 - 2026-03-19, **MIDST Challenge at SaTML 2025: Membership Inference over Diffusion-models-based Synthetic Tabular data**, Masoumeh Shafieinejad et.al., Paper: [http://arxiv.org/abs/2603.19185](http://arxiv.org/abs/2603.19185)
 - 2026-03-20, **LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**, Jiazheng Xing et.al., Paper: [http://arxiv.org/abs/2603.20192](http://arxiv.org/abs/2603.20192)
 - 2026-03-26, **Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells**, Han Zhang et.al., Paper: [http://arxiv.org/abs/2603.25240](http://arxiv.org/abs/2603.25240)
@@ -366,6 +390,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-30, **Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**, N Alex Cayco Gajic et.al., Paper: [http://arxiv.org/abs/2603.28764](http://arxiv.org/abs/2603.28764)
 - 2026-03-18, **Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control**, Zunzhe Zhang et.al., Paper: [http://arxiv.org/abs/2603.17834](http://arxiv.org/abs/2603.17834)
 - 2026-03-19, **Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**, Xianjin Wu et.al., Paper: [http://arxiv.org/abs/2603.19235](http://arxiv.org/abs/2603.19235)
+- 2026-03-30, **Generating Humanless Environment Walkthroughs from Egocentric Walking Tour Videos**, Yujin Ham et.al., Paper: [http://arxiv.org/abs/2603.29036](http://arxiv.org/abs/2603.29036)
 - 2026-03-29, **Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**, Yuhe Liu et.al., Paper: [http://arxiv.org/abs/2603.27666](http://arxiv.org/abs/2603.27666)
 - 2026-03-24, **GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models**, Zekai Gu et.al., Paper: [http://arxiv.org/abs/2603.23246](http://arxiv.org/abs/2603.23246)
 - 2026-03-30, **Front Location for Go or Grow Models of Aerotaxis**, Mete Demircigil et.al., Paper: [http://arxiv.org/abs/2603.28663](http://arxiv.org/abs/2603.28663)
@@ -375,14 +400,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-19, **Foundations of Schrödinger Bridges for Generative Modeling**, Sophia Tang et.al., Paper: [http://arxiv.org/abs/2603.18992](http://arxiv.org/abs/2603.18992)
 - 2026-03-17, **Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration**, Amirhossein Kazerouni et.al., Paper: [http://arxiv.org/abs/2603.16570](http://arxiv.org/abs/2603.16570)
 - 2026-03-19, **FUMO: Prior-Modulated Diffusion for Single Image Reflection Removal**, Telang Xu et.al., Paper: [http://arxiv.org/abs/2603.19036](http://arxiv.org/abs/2603.19036)
+- 2026-03-31, **FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation**, Youngung Han et.al., Paper: [http://arxiv.org/abs/2603.29343](http://arxiv.org/abs/2603.29343)
 - 2026-03-24, **FG-Portrait: 3D Flow Guided Editable Portrait Animation**, Yating Xu et.al., Paper: [http://arxiv.org/abs/2603.23381](http://arxiv.org/abs/2603.23381)
 - 2026-03-23, **End-to-End Training for Unified Tokenization and Latent Denoising**, Shivam Duggal et.al., Paper: [http://arxiv.org/abs/2603.22283](http://arxiv.org/abs/2603.22283)
 - 2026-03-17, **Encoding Predictability and Legibility for Style-Conditioned Diffusion Policy**, Adrien Jacquet Crétides et.al., Paper: [http://arxiv.org/abs/2603.16368](http://arxiv.org/abs/2603.16368)
 - 2026-03-23, **Empirical Evaluation of Link Deletion Methods for Limiting Information Diffusion on Social Media**, Shiori Furukawa et.al., Paper: [http://arxiv.org/abs/2603.21470](http://arxiv.org/abs/2603.21470)
+- 2026-03-31, **Emotion Diffusion Classifier with Adaptive Margin Discrepancy Training for Facial Expression Recognition**, Rongkang Dong et.al., Paper: [http://arxiv.org/abs/2603.29578](http://arxiv.org/abs/2603.29578)
 - 2026-03-22, **Efficient Coarse-to-Fine Diffusion Models with Time Step Sequence Redistribution**, Yu-Shan Tai et.al., Paper: [http://arxiv.org/abs/2603.21348](http://arxiv.org/abs/2603.21348)
 - 2026-03-30, **DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing**, Kailai Feng et.al., Paper: [http://arxiv.org/abs/2603.28713](http://arxiv.org/abs/2603.28713)
 - 2026-03-29, **Diversity Matters: Dataset Diversification and Dual-Branch Network for Generalized AI-Generated Image Detection**, Nusrat Tasnim et.al., Paper: [http://arxiv.org/abs/2603.27800](http://arxiv.org/abs/2603.27800)
 - 2026-03-20, **Diminishing Returns in Expanding Generative Models and Godel-Tarski-Lob Limits**, Angshul Majumdar et.al., Paper: [http://arxiv.org/abs/2603.19687](http://arxiv.org/abs/2603.19687)
+- 2026-03-31, **Diffusion Mental Averages**, Phonphrm Thawatdamrongkit et.al., Paper: [http://arxiv.org/abs/2603.29239](http://arxiv.org/abs/2603.29239)
+- 2026-03-31, **Differentiable Normative Guidance for Nash Bargaining Solution Recovery**, Moirangthem Tiken Singh et.al., Paper: [http://arxiv.org/abs/2603.29297](http://arxiv.org/abs/2603.29297)
 - 2026-03-23, **DiT-Flow: Speech Enhancement Robust to Multiple Distortions based on Flow Matching in Latent Space and Diffusion Transformers**, Tianyu Cao et.al., Paper: [http://arxiv.org/abs/2603.21608](http://arxiv.org/abs/2603.21608)
 - 2026-03-25, **DepthArb: Training-Free Depth-Arbitrated Generation for Occlusion-Robust Image Synthesis**, Hongjin Niu et.al., Paper: [http://arxiv.org/abs/2603.23924](http://arxiv.org/abs/2603.23924)
 - 2026-03-30, **Deep Research of Deep Research: From Transformer to Agent, From AI to AI for Science**, Yipeng Yu et.al., Paper: [http://arxiv.org/abs/2603.28361](http://arxiv.org/abs/2603.28361)
@@ -392,6 +421,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-24, **DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**, Jaewon Min et.al., Paper: [http://arxiv.org/abs/2603.23499](http://arxiv.org/abs/2603.23499)
 - 2026-03-19, **D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding**, Jonathan Lys et.al., Paper: [http://arxiv.org/abs/2603.19146](http://arxiv.org/abs/2603.19146)
 - 2026-03-18, **CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**, Yizheng Song et.al., Paper: [http://arxiv.org/abs/2603.17779](http://arxiv.org/abs/2603.17779)
+- 2026-03-31, **Conditional Diffusion-Based Point Cloud Imaging for UAV Position and Attitude Sensing**, Xinhong Dai et.al., Paper: [http://arxiv.org/abs/2603.29822](http://arxiv.org/abs/2603.29822)
 - 2026-03-30, **ColorFLUX: A Structure-Color Decoupling Framework for Old Photo Colorization**, Bingchen Li et.al., Paper: [http://arxiv.org/abs/2603.28162](http://arxiv.org/abs/2603.28162)
 - 2026-03-23, **Cognitive Agency Surrender: Defending Epistemic Sovereignty via Scaffolded AI Friction**, Kuangzhe Xu et.al., Paper: [http://arxiv.org/abs/2603.21735](http://arxiv.org/abs/2603.21735)
 - 2026-03-23, **Climate Prompting: Generating the Madden-Julian Oscillation using Video Diffusion and Low-Dimensional Conditioning**, Sulian Thual et.al., Paper: [http://arxiv.org/abs/2603.21856](http://arxiv.org/abs/2603.21856)
@@ -399,6 +429,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-26, **CardioDiT: Latent Diffusion Transformers for 4D Cardiac MRI Synthesis**, Marvin Seyfarth et.al., Paper: [http://arxiv.org/abs/2603.25194](http://arxiv.org/abs/2603.25194)
 - 2026-03-19, **CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think**, Zening Sun et.al., Paper: [http://arxiv.org/abs/2603.18991](http://arxiv.org/abs/2603.18991)
 - 2026-03-23, **CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal**, Qingdong He et.al., Paper: [http://arxiv.org/abs/2603.21901](http://arxiv.org/abs/2603.21901)
+- 2026-03-31, **CIPHER: Counterfeit Image Pattern High-level Examination via Representation**, Kyeonghun Kim et.al., Paper: [http://arxiv.org/abs/2603.29356](http://arxiv.org/abs/2603.29356)
 - 2026-03-19, **Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**, Chenyang Gu et.al., Paper: [http://arxiv.org/abs/2603.19227](http://arxiv.org/abs/2603.19227)
 - 2026-03-29, **Bridging Schrödinger and Bass: A Semimartingale Optimal Transport Problem with Diffusion Control**, Pierre Henry-Labordere et.al., Paper: [http://arxiv.org/abs/2603.27712](http://arxiv.org/abs/2603.27712)
 - 2026-03-26, **Bilingual Text-to-Motion Generation: A New Benchmark and Baselines**, Wanjiang Weng et.al., Paper: [http://arxiv.org/abs/2603.25178](http://arxiv.org/abs/2603.25178)
@@ -429,7 +460,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-30, **$R_{dm}$ : Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation**, Linqian Fan et.al., Paper: [http://arxiv.org/abs/2603.28460](http://arxiv.org/abs/2603.28460)
 - 2026-03-17, **$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation**, Ruizhi Wang et.al., Paper: [http://arxiv.org/abs/2603.16362](http://arxiv.org/abs/2603.16362)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Real-time Generation
 
@@ -442,12 +473,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-12, **Sinkhorn-Drifting Generative Models**, Ping He et.al., Paper: [http://arxiv.org/abs/2603.12366](http://arxiv.org/abs/2603.12366)
 - 2026-03-11, **Riemannian MeanFlow for One-Step Generation on Manifolds**, Zichen Zhong et.al., Paper: [http://arxiv.org/abs/2603.10718](http://arxiv.org/abs/2603.10718)
 - 2026-03-16, **Preconditioned One-Step Generative Modeling for Bayesian Inverse Problems in Function Spaces**, Zilan Cheng et.al., Paper: [http://arxiv.org/abs/2603.14798](http://arxiv.org/abs/2603.14798)
+- 2026-03-31, **OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**, Yuheng Liu et.al., Paper: [http://arxiv.org/abs/2603.30045](http://arxiv.org/abs/2603.30045)
 - 2026-03-18, **Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**, Rui Hong et.al., Paper: [http://arxiv.org/abs/2603.17398](http://arxiv.org/abs/2603.17398)
 - 2026-03-27, **LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis**, Stanislaw Szymanowicz et.al., Paper: [http://arxiv.org/abs/2603.20176](http://arxiv.org/abs/2603.20176)
 - 2026-03-12, **InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model**, InSpatio Team et.al., Paper: [http://arxiv.org/abs/2603.11911](http://arxiv.org/abs/2603.11911)
 - 2026-03-22, **Implicit Maximum Likelihood Estimation for Real-time Generative Model Predictive Control**, Grayson Lee et.al., Paper: [http://arxiv.org/abs/2603.13733](http://arxiv.org/abs/2603.13733)
 - 2026-03-15, **GoldenStart: Q-Guided Priors and Entropy Control for Distilling Flow Policies**, He Zhang et.al., Paper: [http://arxiv.org/abs/2603.14245](http://arxiv.org/abs/2603.14245)
 - 2026-03-16, **GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution**, Qiaosi Yi et.al., Paper: [http://arxiv.org/abs/2603.16769](http://arxiv.org/abs/2603.16769)
+- 2026-03-31, **From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**, Ganen Sethupathy et.al., Paper: [http://arxiv.org/abs/2603.29777](http://arxiv.org/abs/2603.29777)
 - 2026-03-10, **FrameDiT: Diffusion Transformer with Frame-Level Matrix Attention for Efficient Video Generation**, Minh Khoa Le et.al., Paper: [http://arxiv.org/abs/2603.09721](http://arxiv.org/abs/2603.09721)
 - 2026-03-12, **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance**, Quanhao Li et.al., Paper: [http://arxiv.org/abs/2603.12146](http://arxiv.org/abs/2603.12146)
 - 2026-03-18, **Fast Beam-Brainstorm: Few-Step Generative Site-Specific Beamforming with Flexible Probing**, Zihao Zhou et.al., Paper: [http://arxiv.org/abs/2603.17622](http://arxiv.org/abs/2603.17622)
@@ -456,9 +489,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2026-03-11, **Auroral Acceleration Generates Electron Beams in Jupiter's Middle Magnetosphere**, June Piasecki et.al., Paper: [http://arxiv.org/abs/2603.10760](http://arxiv.org/abs/2603.10760)
 - 2026-03-11, **AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow**, Duojia Li et.al., Paper: [http://arxiv.org/abs/2603.10701](http://arxiv.org/abs/2603.10701)
 - 2026-03-23, **Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation**, Yuyang You et.al., Paper: [http://arxiv.org/abs/2603.21864](http://arxiv.org/abs/2603.21864)
-- 2026-03-30, **$R_{dm}$ : Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation**, Linqian Fan et.al., Paper: [http://arxiv.org/abs/2603.28460](http://arxiv.org/abs/2603.28460)
+- 2026-03-31, **$R_\text{dm}$ : Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation**, Linqian Fan et.al., Paper: [http://arxiv.org/abs/2603.28460](http://arxiv.org/abs/2603.28460)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## DiT Acceleration
 
@@ -478,7 +511,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 - 2025-05-16, **Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**, Haipeng Fang et.al., Paper: [http://arxiv.org/abs/2505.11707](http://arxiv.org/abs/2505.11707)
 - 2026-03-13, **AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation**, Xuanhua Yin et.al., Paper: [http://arxiv.org/abs/2603.12575](http://arxiv.org/abs/2603.12575)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 Notes: 
 
