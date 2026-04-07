@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.06
+### Automatically Updated on 2026.04.07
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,20 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
+|**2026-04-06**|**Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale**|Zhengcen Li et.al.|[2604.04634](http://arxiv.org/abs/2604.04634)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
+|**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
+|**2026-04-06**|**BoxComm: Benchmarking Category-Aware Commentary Generation and Narration Rhythm in Boxing**|Kaiwen Wang et.al.|[2604.04419](http://arxiv.org/abs/2604.04419)|null|
+|**2026-04-06**|**UENR-600K: A Large-Scale Physically Grounded Dataset for Nighttime Video Deraining**|Pei Yang et.al.|[2604.04402](http://arxiv.org/abs/2604.04402)|null|
+|**2026-04-06**|**GENSERVE: Efficient Co-Serving of Heterogeneous Diffusion Model Workloads**|Fanjiang Ye et.al.|[2604.04335](http://arxiv.org/abs/2604.04335)|null|
+|**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198](http://arxiv.org/abs/2604.04198)|null|
+|**2026-04-05**|**OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models**|Liyu Zhang et.al.|[2604.04142](http://arxiv.org/abs/2604.04142)|null|
+|**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[2604.04029](http://arxiv.org/abs/2604.04029)|null|
+|**2026-04-04**|**ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos**|Peijun Bao et.al.|[2604.03819](http://arxiv.org/abs/2604.03819)|null|
+|**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|null|
+|**2026-04-04**|**SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation**|Guiyu Zhang et.al.|[2604.03723](http://arxiv.org/abs/2604.03723)|null|
+|**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552](http://arxiv.org/abs/2604.03552)|null|
 |**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181](http://arxiv.org/abs/2604.03181)|null|
 |**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|
 |**2026-04-03**|**Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation**|Hanshuai Cui et.al.|[2604.02979](http://arxiv.org/abs/2604.02979)|null|
@@ -167,6 +181,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
+|**2026-04-06**|**E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes**|Jiajun Zhai et.al.|[2604.04834](http://arxiv.org/abs/2604.04834)|null|
+|**2026-04-06**|**An AI Teaching Assistant for Motion Picture Engineering**|Deirdre O'Regan et.al.|[2604.04670](http://arxiv.org/abs/2604.04670)|null|
+|**2026-04-06**|**DHFP-PE: Dual-Precision Hybrid Floating Point Processing Element for AI Acceleration**|Shubham Kumar et.al.|[2604.04507](http://arxiv.org/abs/2604.04507)|null|
+|**2026-04-06**|**RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation**|Anuvab Sen et.al.|[2604.04490](http://arxiv.org/abs/2604.04490)|null|
+|**2026-04-06**|**TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising**|Junyoung Park et.al.|[2604.04484](http://arxiv.org/abs/2604.04484)|null|
+|**2026-04-06**|**MC-GenRef: Annotation-free mammography microcalcification segmentation with generative posterior refinement**|Hyunwoo Cho et.al.|[2604.04470](http://arxiv.org/abs/2604.04470)|null|
+|**2026-04-06**|**NAIMA: Semantics Aware RGB Guided Depth Super-Resolution**|Tayyab Nasir et.al.|[2604.04407](http://arxiv.org/abs/2604.04407)|null|
+|**2026-04-05**|**OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models**|Liyu Zhang et.al.|[2604.04142](http://arxiv.org/abs/2604.04142)|null|
+|**2026-04-05**|**BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**|Taiping Qu et.al.|[2604.04078](http://arxiv.org/abs/2604.04078)|null|
+|**2026-04-04**|**Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention**|João Luzio et.al.|[2604.03836](http://arxiv.org/abs/2604.03836)|null|
+|**2026-04-04**|**UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation**|Haofeng Liu et.al.|[2604.03645](http://arxiv.org/abs/2604.03645)|null|
+|**2026-04-04**|**L-SPINE: A Low-Precision SIMD Spiking Neural Compute Engine for Resource-efficient Edge Inference**|Sonu Kumar et.al.|[2604.03626](http://arxiv.org/abs/2604.03626)|null|
+|**2026-04-04**|**Stochastic Generative Plug-and-Play Priors**|Chicago Y. Park et.al.|[2604.03603](http://arxiv.org/abs/2604.03603)|null|
+|**2026-04-04**|**Provable and Robust Wavefront Sensing via Self-Reference Interferometry**|Nebiyou Yismaw et.al.|[2604.03564](http://arxiv.org/abs/2604.03564)|null|
 |**2026-04-03**|**HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis**|Fengbei Liu et.al.|[2604.03224](http://arxiv.org/abs/2604.03224)|null|
 |**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|
 |**2026-04-03**|**ARIQA-3DS: A Stereoscopic Image Quality Assessment Dataset for Realistic Augmented Reality**|Aymen Sekhri et.al.|[2604.03112](http://arxiv.org/abs/2604.03112)|null|
@@ -316,6 +345,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
 |**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
 |**2026-03-31**|**CutClaw: Agentic Hours-Long Video Editing via Music Synchronization**|Shifang Zhao et.al.|[2603.29664](http://arxiv.org/abs/2603.29664)|null|
 |**2026-03-31**|**TrajectoryMover: Generative Movement of Object Trajectories in Videos**|Kiran Chhatre et.al.|[2603.29092](http://arxiv.org/abs/2603.29092)|null|
@@ -351,6 +381,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|null|
+|**2026-04-06**|**Diffusion of PeV Cosmic Rays in the Turbulent and Multiphase Interstellar Medium**|Yue Hu et.al.|[2604.04814](http://arxiv.org/abs/2604.04814)|null|
+|**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|null|
+|**2026-04-06**|**Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers**|Jiancheng Wang et.al.|[2604.04630](http://arxiv.org/abs/2604.04630)|null|
+|**2026-04-06**|**Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection**|Mei Qiu et.al.|[2604.04608](http://arxiv.org/abs/2604.04608)|null|
+|**2026-04-06**|**PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis**|Inseong Choi et.al.|[2604.04576](http://arxiv.org/abs/2604.04576)|null|
+|**2026-04-06**|**Erasure or Erosion? Evaluating Compositional Degradation in Unlearned Text-To-Image Diffusion Models**|Arian Komaei Koma et.al.|[2604.04575](http://arxiv.org/abs/2604.04575)|null|
+|**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
+|**2026-04-06**|**FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation**|Ke Shi et.al.|[2604.04427](http://arxiv.org/abs/2604.04427)|null|
+|**2026-04-06**|**MolDA: Molecular Understanding and Generation via Large Language Diffusion Model**|Seohyeon Shin et.al.|[2604.04403](http://arxiv.org/abs/2604.04403)|null|
+|**2026-04-06**|**GENSERVE: Efficient Co-Serving of Heterogeneous Diffusion Model Workloads**|Fanjiang Ye et.al.|[2604.04335](http://arxiv.org/abs/2604.04335)|null|
+|**2026-04-06**|**GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction**|Yedong Shen et.al.|[2604.04331](http://arxiv.org/abs/2604.04331)|null|
+|**2026-04-05**|**Primitive-based Truncated Diffusion for Efficient Trajectory Generation of Differential Drive Mobile Manipulators**|Long Xu et.al.|[2604.04166](http://arxiv.org/abs/2604.04166)|null|
+|**2026-04-05**|**InsTraj: Instructing Diffusion Models with Travel Intentions to Generate Real-world Trajectories**|Yuanshao Zhu et.al.|[2604.04106](http://arxiv.org/abs/2604.04106)|null|
+|**2026-04-05**|**1.x-Distill: Breaking the Diversity, Quality, and Efficiency Barrier in Distribution Matching Distillation**|Haoyu Li et.al.|[2604.04018](http://arxiv.org/abs/2604.04018)|null|
 |**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|
 |**2026-04-03**|**SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation**|Meihua Li et.al.|[2604.03134](http://arxiv.org/abs/2604.03134)|null|
 |**2026-04-03**|**Gram-MMD: A Texture-Aware Metric for Image Realism Assessment**|Joé Napolitano et.al.|[2604.03064](http://arxiv.org/abs/2604.03064)|null|
@@ -561,6 +606,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
+|**2026-04-06**|**Isokinetic Flow Matching for Pathwise Straightening of Generative Flows**|Tauhid Khan et.al.|[2604.04491](http://arxiv.org/abs/2604.04491)|null|
+|**2026-04-06**|**FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation**|Ke Shi et.al.|[2604.04427](http://arxiv.org/abs/2604.04427)|null|
+|**2026-04-04**|**Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control**|Yuxuan Gao et.al.|[2604.03540](http://arxiv.org/abs/2604.03540)|null|
 |**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|
 |**2026-04-02**|**AromaGen: Interactive Generation of Rich Olfactory Experiences with Multimodal Language Models**|Yunge Wen et.al.|[2604.01650](http://arxiv.org/abs/2604.01650)|null|
 |**2026-03-31**|**OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**|Yuheng Liu et.al.|[2603.30045](http://arxiv.org/abs/2603.30045)|null|
