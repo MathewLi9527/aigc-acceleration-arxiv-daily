@@ -31,16 +31,23 @@ def load_config(config_file:str) -> dict:
     def pretty_filters(**config) -> dict:
         keywords = dict()
         EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        OR = 'OR'
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
+                filter_word = filters[idx]
+                words = filter_word.split()
+                if len(words) > 1:
+                    sub_queries = []
+                    for word in words:
+                        if word.lower() not in ['the', 'a', 'an', 'and', 'or', 'for', 'to', 'of', 'in', 'on', 'with', 'via']:
+                            sub_queries.append(word)
+                    if sub_queries:
+                        ret += '(' + OR.join(sub_queries) + ')'
+                    else:
+                        ret += (EXCAPE + filter_word + EXCAPE)
                 else:
-                    ret += (QUOTA + filter + QUOTA)   
+                    ret += (EXCAPE + filter_word + EXCAPE)
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
