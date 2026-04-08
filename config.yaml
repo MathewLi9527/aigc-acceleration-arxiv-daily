@@ -4,7 +4,7 @@ repo_name: "aigc-acceleration-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 15
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -30,7 +30,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search - AIGC Acceleration for Video Generation
 keywords:
     "Video Generation":
-        filters: ["Video Generation", "Video Synthesis", "Text-to-Video", "Text to Video", "Video Diffusion", "Video Diffusion Model", "Video Latent Diffusion", "Video Generation Model", "Generative Video"]
+        filters: ["Video Generation", "Video Synthesis", "Text-to-Video", "Text to Video", "Video Diffusion", "Video Diffusion Model", "Video Latent Diffusion", "Video Generation Model", "Generative Video", "Video Generation", "Long Video Generation", "Long Form Video"]
     "Image-to-Video":
         filters: ["Image-to-Video", "Image to Video", "I2V", "Image Animation", "Animating Images", "Video from Image"]
     "Video Editing":
@@ -38,6 +38,6 @@ keywords:
     "Diffusion Models":
         filters: ["Diffusion Model", "Diffusion Models", "Latent Diffusion", "Stable Diffusion", "DDPM", "Score-based Generative", "Denoising Diffusion"]
     "Real-time Generation":
-        filters: ["Real-time Generation", "Real-time Video", "Fast Video Generation", "Efficient Video Generation", "Accelerated Generation", "Video Generation Acceleration", "One-step Generation", "Few-step Generation", "Accelerate Video Generation", "Video Generation Acceleration"]
+        filters: ["Real-time Generation", "Real-time Video", "Fast Video Generation", "Efficient Video Generation", "Accelerated Generation", "Video Generation Acceleration", "One-step Generation", "Few-step Generation", "Accelerate Video Generation", "Video Generation Acceleration", "Long Video Generation", "Long Video", "Infinite Video", "Streaming Video Generation", "Continuous Video Generation"]
     "DiT Acceleration":
         filters: ["DiT Acceleration", "DiT acceleration", "Diffusion Transformer Acceleration", "Diffusion Transformer acceleration", "Accelerate DiT", "Accelerating DiT", "Fast DiT", "Efficient DiT", "DiT Speedup", "DiT Optimization"]
