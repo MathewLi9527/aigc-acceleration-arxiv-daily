@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.12
+### Automatically Updated on 2026.04.13
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -196,6 +196,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**DSVTLA: Deep Swin Vision Transformer-Based Transfer Learning Architecture for Multi-Type Cancer Histopathological Cancer Image Classification**|Muazzem Hussain Khan et.al.|[2604.09468](http://arxiv.org/abs/2604.09468)|null|
+|**2026-04-10**|**ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion**|Lifeng Chen et.al.|[2604.09450](http://arxiv.org/abs/2604.09450)|null|
+|**2026-04-10**|**Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application**|Junqi Liu et.al.|[2604.09421](http://arxiv.org/abs/2604.09421)|null|
+|**2026-04-10**|**UHD Low-Light Image Enhancement via Real-Time Enhancement Methods with Clifford Information Fusion**|Xiaohan Wang et.al.|[2604.09321](http://arxiv.org/abs/2604.09321)|null|
+|**2026-04-10**|**Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark**|Jinquan Yan et.al.|[2604.09313](http://arxiv.org/abs/2604.09313)|null|
+|**2026-04-10**|**AMO-ENE: Attention-based Multi-Omics Fusion Model for Outcome Prediction in Extra Nodal Extension and HPV-associated Oropharyngeal Cancer**|Gautier Hénique et.al.|[2604.09280](http://arxiv.org/abs/2604.09280)|null|
+|**2026-04-10**|**A GPU-enhanced workflow for non-Fourier SENSE reconstruction**|Samuel Bianchi et.al.|[2604.09233](http://arxiv.org/abs/2604.09233)|null|
+|**2026-04-10**|**Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models**|Wongi Jeong et.al.|[2604.09227](http://arxiv.org/abs/2604.09227)|null|
+|**2026-04-10**|**ELT: Elastic Looped Transformers for Visual Generation**|Sahil Goyal et.al.|[2604.09168](http://arxiv.org/abs/2604.09168)|null|
+|**2026-04-10**|**Off-the-shelf Vision Models Benefit Image Manipulation Localization**|Zhengxuan Zhang et.al.|[2604.09096](http://arxiv.org/abs/2604.09096)|null|
+|**2026-04-10**|**MedFormer-UR: Uncertainty-Routed Transformer for Medical Image Classification**|Mohammed Maaz Sibhai et.al.|[2604.08868](http://arxiv.org/abs/2604.08868)|null|
+|**2026-04-09**|**PSIRNet: Deep Learning-based Free-breathing Rapid Acquisition Late Enhancement Imaging**|Arda Atalik et.al.|[2604.08781](http://arxiv.org/abs/2604.08781)|null|
 |**2026-04-09**|**InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding**|Ashutosh Kumar et.al.|[2604.08337](http://arxiv.org/abs/2604.08337)|null|
 |**2026-04-09**|**DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning**|Eren Çetin et.al.|[2604.08329](http://arxiv.org/abs/2604.08329)|null|
 |**2026-04-09**|**HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**|Aasim Bin Saleem et.al.|[2604.08305](http://arxiv.org/abs/2604.08305)|null|
