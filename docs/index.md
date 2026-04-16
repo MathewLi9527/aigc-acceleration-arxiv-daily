@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.15
+### Automatically Updated on 2026.04.16
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -198,6 +198,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Towards Multi-Object-Tracking with Radar on a Fast Moving Vehicle: On the Potential of Processing Radar in the Frequency Domain**|Tim Hansen et.al.|[2604.14013](http://arxiv.org/abs/2604.14013)|null|
+|**2026-04-15**|**Depth-Aware Image and Video Orientation Estimation**|Muhammad Z. Alam et.al.|[2604.13995](http://arxiv.org/abs/2604.13995)|null|
+|**2026-04-15**|**Learning Class Difficulty in Imbalanced Histopathology Segmentation via Dynamic Focal Attention**|Lakmali Nadeesha Kumari et.al.|[2604.13479](http://arxiv.org/abs/2604.13479)|null|
+|**2026-04-14**|**DroneScan-YOLO: Redundancy-Aware Lightweight Detection for Tiny Objects in UAV Imagery**|Yann V. Bellec et.al.|[2604.13278](http://arxiv.org/abs/2604.13278)|null|
+|**2026-04-14**|**SemiFA: An Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation**|Shivam Chand Kaushik et.al.|[2604.13236](http://arxiv.org/abs/2604.13236)|null|
+|**2026-04-14**|**PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction**|Prajas Wadekar et.al.|[2604.13153](http://arxiv.org/abs/2604.13153)|null|
 |**2026-04-14**|**Inexpensive Optical Projection Tomography on a Mobile Phone Platform**|Gennifer T. Smith et.al.|[2604.13004](http://arxiv.org/abs/2604.13004)|null|
 |**2026-04-14**|**Probabilistic Feature Imputation and Uncertainty-Aware Multimodal Federated Aggregation**|Nafis Fuad Shahid et.al.|[2604.12970](http://arxiv.org/abs/2604.12970)|null|
 |**2026-04-14**|**A Wearable ECG Device for Differentiating Hypertrophic Cardiomyopathy from Acquired Left Ventricular Hypertrophy**|Jiachen Li et.al.|[2604.12934](http://arxiv.org/abs/2604.12934)|null|
