@@ -29,13 +29,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models**|Xinping Lei et.al.|[2604.18224](http://arxiv.org/abs/2604.18224)|null|
+|**2026-04-20**|**SCMAPR: Self-Correcting Multi-Agent Prompt Refinement for Complex-Scenario Text-to-Video Generation**|Chengyi Yang et.al.|[2604.05489](http://arxiv.org/abs/2604.05489)|null|
 |**2026-04-19**|**Video-Robin: Autoregressive Diffusion Planning for Intent-Grounded Video-to-Music Generation**|Vaibhavi Lokegaonkar et.al.|[2604.17656](http://arxiv.org/abs/2604.17656)|null|
 |**2026-04-19**|**FlowC2S: Flowing from Current to Succeeding Frames for Fast and Memory-Efficient Video Continuation**|Hovhannes Margaryan et.al.|[2604.17625](http://arxiv.org/abs/2604.17625)|null|
 |**2026-04-16**|**How to Correctly Make Mistakes: A Framework for Constructing and Benchmarking Mistake Aware Egocentric Procedural Videos**|Olga Loginova et.al.|[2604.15134](http://arxiv.org/abs/2604.15134)|null|
 |**2026-04-14**|**Motif-Video 2B: Technical Report**|Junghwan Lim et.al.|[2604.16503](http://arxiv.org/abs/2604.16503)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Andrei Atanov et.al.|[2604.12887](http://arxiv.org/abs/2604.12887)|null|
-|**2026-04-11**|**SCMAPR: Self-Correcting Multi-Agent Prompt Refinement for Complex-Scenario Text-to-Video Generation**|Chengyi Yang et.al.|[2604.05489](http://arxiv.org/abs/2604.05489)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
 |**2026-04-09**|**SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**|Yunnan Wang et.al.|[2604.07990](http://arxiv.org/abs/2604.07990)|null|
 |**2026-04-08**|**Accelerating Training of Autoregressive Video Generation Models via Local Optimization with Representation Continuity**|Yucheng Zhou et.al.|[2604.07402](http://arxiv.org/abs/2604.07402)|null|
@@ -219,7 +220,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-04-19**|**Learned Nonlocal Feature Matching and Filtering for RAW Image Denoising**|Marco Sánchez-Beeckman et.al.|[2604.17453](http://arxiv.org/abs/2604.17453)|null|
 |**2026-04-19**|**BreathAI: Transfer Learning-Based Thermal Imaging for Automated Breathing Pattern Recognition**|Hamza Kheddar et.al.|[2604.17442](http://arxiv.org/abs/2604.17442)|null|
 |**2026-04-19**|**Towards Generalizable Deepfake Image Detection with Vision Transformers**|Kaliki V Srinanda et.al.|[2604.17376](http://arxiv.org/abs/2604.17376)|null|
-|**2026-04-19**|**Chaos-Enhanced Prototypical Networks for Few-Shot Medical Image Classification**|Chinhtakuntla Meghan Sai et.al.|[2604.17300](http://arxiv.org/abs/2604.17300)|null|
+|**2026-04-19**|**Chaos-Enhanced Prototypical Networks for Few-Shot Medical Image Classification**|Chinthakuntla Meghan Sai et.al.|[2604.17300](http://arxiv.org/abs/2604.17300)|null|
 |**2026-04-18**|**A Two-Stage Deep Learning Framework for Segmentation of Ten Gastrointestinal Organs from Coronal MR Enterography**|Ashiqur Rahman et.al.|[2604.17118](http://arxiv.org/abs/2604.17118)|null|
 |**2026-04-18**|**E2E-WAVE: End-to-End Learned Waveform Generation for Underwater Video Multicasting**|Khizar Anjum et.al.|[2604.17047](http://arxiv.org/abs/2604.17047)|null|
 |**2026-04-18**|**Hyperspectral Unmixing Hierarchies**|Joseph L. Garrett et.al.|[2604.16969](http://arxiv.org/abs/2604.16969)|null|
@@ -526,6 +527,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**One-Step Diffusion with Inverse Residual Fields for Unsupervised Industrial Anomaly Detection**|Boan Zhang et.al.|[2604.18393](http://arxiv.org/abs/2604.18393)|null|
 |**2026-04-19**|**Scalable DDPM-Polycube: An Extended Diffusion-Based Method for Hexahedral Mesh and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2604.17266](http://arxiv.org/abs/2604.17266)|null|
 |**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
 |**2026-04-11**|**Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs**|Hongkang Li et.al.|[2604.10074](http://arxiv.org/abs/2604.10074)|null|
