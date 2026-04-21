@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.20
+### Automatically Updated on 2026.04.21
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,7 +21,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Video-Robin: Autoregressive Diffusion Planning for Intent-Grounded Video-to-Music Generation**|Vaibhavi Lokegaonkar et.al.|[2604.17656](http://arxiv.org/abs/2604.17656)|null|
+|**2026-04-19**|**FlowC2S: Flowing from Current to Succeeding Frames for Fast and Memory-Efficient Video Continuation**|Hovhannes Margaryan et.al.|[2604.17625](http://arxiv.org/abs/2604.17625)|null|
 |**2026-04-16**|**How to Correctly Make Mistakes: A Framework for Constructing and Benchmarking Mistake Aware Egocentric Procedural Videos**|Olga Loginova et.al.|[2604.15134](http://arxiv.org/abs/2604.15134)|null|
+|**2026-04-14**|**Motif-Video 2B: Technical Report**|Junghwan Lim et.al.|[2604.16503](http://arxiv.org/abs/2604.16503)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Andrei Atanov et.al.|[2604.12887](http://arxiv.org/abs/2604.12887)|null|
 |**2026-04-11**|**SCMAPR: Self-Correcting Multi-Agent Prompt Refinement for Complex-Scenario Text-to-Video Generation**|Chengyi Yang et.al.|[2604.05489](http://arxiv.org/abs/2604.05489)|null|
@@ -199,6 +202,23 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Trustworthy Endoscopic Super-Resolution**|Julio Silva-Rodríguez et.al.|[2604.18001](http://arxiv.org/abs/2604.18001)|null|
+|**2026-04-20**|**Optimally Bridging Semantics and Data: Generative Semantic Communication via Schrödinger Bridge**|Dahua Gao et.al.|[2604.17802](http://arxiv.org/abs/2604.17802)|null|
+|**2026-04-19**|**Multi-Camera Self-Calibration in Sports Motion Capture: Leveraging Human and Stick Poses**|Fan Yang et.al.|[2604.17567](http://arxiv.org/abs/2604.17567)|null|
+|**2026-04-19**|**VIDS: A Verified Imaging Dataset Standard for Medical AI**|Joan S. Muthu et.al.|[2604.17525](http://arxiv.org/abs/2604.17525)|null|
+|**2026-04-19**|**Learned Nonlocal Feature Matching and Filtering for RAW Image Denoising**|Marco Sánchez-Beeckman et.al.|[2604.17453](http://arxiv.org/abs/2604.17453)|null|
+|**2026-04-19**|**BreathAI: Transfer Learning-Based Thermal Imaging for Automated Breathing Pattern Recognition**|Hamza Kheddar et.al.|[2604.17442](http://arxiv.org/abs/2604.17442)|null|
+|**2026-04-19**|**Towards Generalizable Deepfake Image Detection with Vision Transformers**|Kaliki V Srinanda et.al.|[2604.17376](http://arxiv.org/abs/2604.17376)|null|
+|**2026-04-19**|**Chaos-Enhanced Prototypical Networks for Few-Shot Medical Image Classification**|Chinhtakuntla Meghan Sai et.al.|[2604.17300](http://arxiv.org/abs/2604.17300)|null|
+|**2026-04-18**|**A Two-Stage Deep Learning Framework for Segmentation of Ten Gastrointestinal Organs from Coronal MR Enterography**|Ashiqur Rahman et.al.|[2604.17118](http://arxiv.org/abs/2604.17118)|null|
+|**2026-04-18**|**E2E-WAVE: End-to-End Learned Waveform Generation for Underwater Video Multicasting**|Khizar Anjum et.al.|[2604.17047](http://arxiv.org/abs/2604.17047)|null|
+|**2026-04-18**|**Hyperspectral Unmixing Hierarchies**|Joseph L. Garrett et.al.|[2604.16969](http://arxiv.org/abs/2604.16969)|null|
+|**2026-04-18**|**Structured 3D-SVD: A Practical Framework for the Compression and Reconstruction of Biological Volumetric Images**|Mario Aragonés Lozano et.al.|[2604.16947](http://arxiv.org/abs/2604.16947)|null|
+|**2026-04-18**|**Unified Ultrasound Intelligence Toward an End-to-End Agentic System**|Chen Ma et.al.|[2604.16914](http://arxiv.org/abs/2604.16914)|null|
+|**2026-04-18**|**Watching Physics: the Generative Science of Matter and Motion**|Hagen Holthusen et.al.|[2604.16843](http://arxiv.org/abs/2604.16843)|null|
+|**2026-04-17**|**LOD-Net: Locality-Aware 3D Object Detection Using Multi-Scale Transformer Network**|Mustaqeem Khan et.al.|[2604.16696](http://arxiv.org/abs/2604.16696)|null|
+|**2026-04-17**|**Resource-Efficient Quantum-Enhanced Compressive Imaging via Quantum Classical co-Design**|Haowei Shi et.al.|[2604.16662](http://arxiv.org/abs/2604.16662)|null|
+|**2026-04-17**|**A Two-Stage Multi-Modal MRI Framework for Lifespan Brain Age Prediction**|Dingyi Zhang et.al.|[2604.16655](http://arxiv.org/abs/2604.16655)|null|
 |**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](http://arxiv.org/abs/2604.16104)|null|
 |**2026-04-17**|**Topology-Driven Fusion of nnU-Net and MedNeXt for Accurate Brain Tumor Segmentation on Sub-Saharan Africa Dataset**|Prabin Bohara et.al.|[2604.15964](http://arxiv.org/abs/2604.15964)|null|
 |**2026-04-17**|**Efficient Video Diffusion Models: Advancements and Challenges**|Shitong Shao et.al.|[2604.15911](http://arxiv.org/abs/2604.15911)|null|
@@ -492,6 +512,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Scalable DDPM-Polycube: An Extended Diffusion-Based Method for Hexahedral Mesh and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2604.17266](http://arxiv.org/abs/2604.17266)|null|
 |**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
 |**2026-04-11**|**Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs**|Hongkang Li et.al.|[2604.10074](http://arxiv.org/abs/2604.10074)|null|
 |**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|null|
