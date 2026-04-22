@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.21
+### Automatically Updated on 2026.04.22
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**TS-Attn: Temporal-wise Separable Attention for Multi-Event Video Generation**|Hongyu Zhang et.al.|[2604.19473](http://arxiv.org/abs/2604.19473)|null|
 |**2026-04-20**|**WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models**|Xinping Lei et.al.|[2604.18224](http://arxiv.org/abs/2604.18224)|null|
 |**2026-04-20**|**SCMAPR: Self-Correcting Multi-Agent Prompt Refinement for Complex-Scenario Text-to-Video Generation**|Chengyi Yang et.al.|[2604.05489](http://arxiv.org/abs/2604.05489)|null|
 |**2026-04-19**|**Video-Robin: Autoregressive Diffusion Planning for Intent-Grounded Video-to-Music Generation**|Vaibhavi Lokegaonkar et.al.|[2604.17656](http://arxiv.org/abs/2604.17656)|null|
@@ -203,6 +204,19 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
+|**2026-04-21**|**Face Anything: 4D Face Reconstruction from Any Image Sequence**|Umut Kocasari et.al.|[2604.19702](http://arxiv.org/abs/2604.19702)|null|
+|**2026-04-21**|**Defining Robust Ultrasound Quality Metrics via an Ultrasound Foundation Model**|Ziyang Huang et.al.|[2604.19512](http://arxiv.org/abs/2604.19512)|null|
+|**2026-04-21**|**Harmonizing MR Images Across 100+ Scanners: Multi-site Validation with Traveling Subjects and Real-world Protocols**|Savannah P. Hays et.al.|[2604.19474](http://arxiv.org/abs/2604.19474)|null|
+|**2026-04-21**|**TS-Attn: Temporal-wise Separable Attention for Multi-Event Video Generation**|Hongyu Zhang et.al.|[2604.19473](http://arxiv.org/abs/2604.19473)|null|
+|**2026-04-21**|**Optimal Multispectral Imaging using RGB Cameras**|Tomislav Matulić et.al.|[2604.19460](http://arxiv.org/abs/2604.19460)|null|
+|**2026-04-21**|**Silicon Aware Neural Networks**|Sebastian Fieldhouse et.al.|[2604.19334](http://arxiv.org/abs/2604.19334)|null|
+|**2026-04-21**|**Learning to Credit the Right Steps: Objective-aware Process Optimization for Visual Generation**|Rui Li et.al.|[2604.19234](http://arxiv.org/abs/2604.19234)|null|
+|**2026-04-21**|**Attention-based Multi-modal Deep Learning Model of Spatio-temporal Crop Yield Prediction with Satellite, Soil and Climate Data**|Gopal Krishna Shyam et.al.|[2604.19217](http://arxiv.org/abs/2604.19217)|null|
+|**2026-04-21**|**Deep Image Prior for photoacoustic tomography can mitigate limited-view artifacts**|Hanna Pulkkinen et.al.|[2604.19176](http://arxiv.org/abs/2604.19176)|null|
+|**2026-04-21**|**ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|[2604.19007](http://arxiv.org/abs/2604.19007)|null|
+|**2026-04-20**|**VOLT: Volumetric Wide-Field Microscopy via 3D-Native Probabilistic Transport**|Yetao He et.al.|[2604.18807](http://arxiv.org/abs/2604.18807)|null|
+|**2026-04-20**|**A Controlled Benchmark of Visual State-Space Backbones with Domain-Shift and Boundary Analysis for Remote-Sensing Segmentation**|Nichula Wasalathilaka et.al.|[2604.18721](http://arxiv.org/abs/2604.18721)|null|
 |**2026-04-20**|**Trustworthy Endoscopic Super-Resolution**|Julio Silva-Rodríguez et.al.|[2604.18001](http://arxiv.org/abs/2604.18001)|null|
 |**2026-04-20**|**Optimally Bridging Semantics and Data: Generative Semantic Communication via Schrödinger Bridge**|Dahua Gao et.al.|[2604.17802](http://arxiv.org/abs/2604.17802)|null|
 |**2026-04-19**|**Multi-Camera Self-Calibration in Sports Motion Capture: Leveraging Human and Stick Poses**|Fan Yang et.al.|[2604.17567](http://arxiv.org/abs/2604.17567)|null|
@@ -513,6 +527,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network**|Shuo Feng et.al.|[2604.19240](http://arxiv.org/abs/2604.19240)|null|
 |**2026-04-20**|**One-Step Diffusion with Inverse Residual Fields for Unsupervised Industrial Anomaly Detection**|Boan Zhang et.al.|[2604.18393](http://arxiv.org/abs/2604.18393)|null|
 |**2026-04-19**|**Scalable DDPM-Polycube: An Extended Diffusion-Based Method for Hexahedral Mesh and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2604.17266](http://arxiv.org/abs/2604.17266)|null|
 |**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
