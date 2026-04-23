@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.22
+### Automatically Updated on 2026.04.23
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -204,6 +204,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**CKM Beyond Channel Gain: Spatial Correlation Map Construction with Deep Learning**|Z. Chen et.al.|[2604.20684](http://arxiv.org/abs/2604.20684)|null|
+|**2026-04-22**|**Adaptive Multi-UAV Relay Deployment Framework in Satellite Aerial Ground Integrated Systems**|Bhola et.al.|[2604.20466](http://arxiv.org/abs/2604.20466)|null|
+|**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
+|**2026-04-22**|**Secure Rate-Distortion-Perception: A Randomized Distributed Function Computation Approach for Realism**|Gustaf Åhlgren et.al.|[2604.20245](http://arxiv.org/abs/2604.20245)|null|
+|**2026-04-22**|**Maximum Likelihood Reconstruction for Multi-Look Digital Holography with Markov-Modeled Speckle Correlation**|Xi Chen et.al.|[2604.20154](http://arxiv.org/abs/2604.20154)|null|
 |**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
 |**2026-04-21**|**Face Anything: 4D Face Reconstruction from Any Image Sequence**|Umut Kocasari et.al.|[2604.19702](http://arxiv.org/abs/2604.19702)|null|
 |**2026-04-21**|**Defining Robust Ultrasound Quality Metrics via an Ultrasound Foundation Model**|Ziyang Huang et.al.|[2604.19512](http://arxiv.org/abs/2604.19512)|null|
