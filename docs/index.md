@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.26
+### Automatically Updated on 2026.04.27
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -207,11 +207,22 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Useful nonrobust features are ubiquitous in biomedical images**|Coenraad Mouton et.al.|[2604.22579](http://arxiv.org/abs/2604.22579)|null|
+|**2026-04-24**|**Are Natural-Domain Foundation Models Effective for Accelerated Cardiac MRI Reconstruction?**|Anam Hashmi et.al.|[2604.22557](http://arxiv.org/abs/2604.22557)|null|
+|**2026-04-24**|**Video Analysis and Generation via a Semantic Progress Function**|Gal Metzer et.al.|[2604.22554](http://arxiv.org/abs/2604.22554)|null|
+|**2026-04-24**|**MTT-Bench: Predicting Social Dominance in Mice via Multimodal Large Language Models**|Yunquan Chen et.al.|[2604.22492](http://arxiv.org/abs/2604.22492)|null|
+|**2026-04-24**|**Improving Driver Drowsiness Detection via Personalized EAR/MAR Thresholds and CNN-Based Classification**|Gökdeniz Ersoy et.al.|[2604.22479](http://arxiv.org/abs/2604.22479)|null|
+|**2026-04-24**|**HFS-TriNet: A Three-Branch Collaborative Feature Learning Network for Prostate Cancer Classification from TRUS Videos**|Xu Lu et.al.|[2604.22388](http://arxiv.org/abs/2604.22388)|null|
+|**2026-04-24**|**Selective Depthwise Separable Convolution for Lightweight Joint Source-Channel Coding in Wireless Image Transmission**|Ming Ye et.al.|[2604.22338](http://arxiv.org/abs/2604.22338)|null|
+|**2026-04-24**|**DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning**|Joonmyung Choi et.al.|[2604.22281](http://arxiv.org/abs/2604.22281)|null|
+|**2026-04-24**|**Multimodal Diffusion to Mutually Enhance Polarized Light and Low Resolution EBSD Data**|Harry Dong et.al.|[2604.22212](http://arxiv.org/abs/2604.22212)|null|
+|**2026-04-24**|**CKM Beyond Channel Gain: Spatial Correlation Map Construction with Deep Learning**|Z. Chen et.al.|[2604.20684](http://arxiv.org/abs/2604.20684)|null|
+|**2026-04-23**|**FLARE-BO: Fused Luminance and Adaptive Retinex Enhancement via Bayesian Optimisation for Low-Light Robotic Vision**|Nathan Shankar et.al.|[2604.22093](http://arxiv.org/abs/2604.22093)|null|
+|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](http://arxiv.org/abs/2604.21960)|null|
 |**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|null|
 |**2026-04-23**|**A microwave super-resolution imaging approach towards breast cancer margin mapping**|Harry Penketh et.al.|[2604.21636](http://arxiv.org/abs/2604.21636)|null|
 |**2026-04-23**|**DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction**|Shiyan Su et.al.|[2604.21518](http://arxiv.org/abs/2604.21518)|null|
 |**2026-04-22**|**EDU-Net: Retinal Pathological Fluid Segmentation in OCT Images with Multiscale Feature Fusion and Boundary Optimization**|Zijun Lei et.al.|[2604.20918](http://arxiv.org/abs/2604.20918)|null|
-|**2026-04-22**|**CKM Beyond Channel Gain: Spatial Correlation Map Construction with Deep Learning**|Z. Chen et.al.|[2604.20684](http://arxiv.org/abs/2604.20684)|null|
 |**2026-04-22**|**Adaptive Multi-UAV Relay Deployment Framework in Satellite Aerial Ground Integrated Systems**|Bhola et.al.|[2604.20466](http://arxiv.org/abs/2604.20466)|null|
 |**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
 |**2026-04-22**|**Secure Rate-Distortion-Perception: A Randomized Distributed Function Computation Approach for Realism**|Gustaf Åhlgren et.al.|[2604.20245](http://arxiv.org/abs/2604.20245)|null|
