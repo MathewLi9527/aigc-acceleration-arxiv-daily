@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.04.29
+### Automatically Updated on 2026.04.30
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -210,6 +210,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation**|Akshay Karjol et.al.|[2604.26857](http://arxiv.org/abs/2604.26857)|null|
+|**2026-04-29**|**Circular Phase Representation and Geometry-Aware Optimization for Ptychographic Image Reconstruction**|Carson Yu Liu et.al.|[2604.26664](http://arxiv.org/abs/2604.26664)|null|
+|**2026-04-29**|**Adaptive Transform Coding for Semantic Compression**|Andriy Enttsel et.al.|[2604.26492](http://arxiv.org/abs/2604.26492)|null|
+|**2026-04-29**|**OmniTrend: Content-Context Modeling for Scalable Social Popularity Prediction**|Liliang Ye et.al.|[2604.26252](http://arxiv.org/abs/2604.26252)|null|
+|**2026-04-29**|**MetaSR: Content-Adaptive Metadata Orchestration for Generative Super-Resolution**|Jiaqi Guo et.al.|[2604.26244](http://arxiv.org/abs/2604.26244)|null|
+|**2026-04-29**|**StreamGuard: Exploring a 5G Architecture for Efficient, Quality of Experience-Aware Video Conferencing**|Xuyang Cao et.al.|[2604.26223](http://arxiv.org/abs/2604.26223)|null|
+|**2026-04-29**|**Robust Grounding with MLLMs Against Occlusion and Small Objects via Language-Guided Semantic Cues**|Beomchan Park et.al.|[2604.24036](http://arxiv.org/abs/2604.24036)|null|
 |**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
 |**2026-04-28**|**Exploring Remote Photoplethysmography for Neonatal Pain Detection from Facial Videos**|Ashutosh Dhamaniya et.al.|[2604.25680](http://arxiv.org/abs/2604.25680)|null|
 |**2026-04-28**|**Recommending Usability Improvements with Multimodal Large Language Models**|Sebastian Lubos et.al.|[2604.25420](http://arxiv.org/abs/2604.25420)|null|
@@ -224,7 +231,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-04-27**|**Semantic Segmentation for Histopathology using Learned Regularization based on Global Proportions**|Yangping Li et.al.|[2604.24347](http://arxiv.org/abs/2604.24347)|null|
 |**2026-04-27**|**Deep Learning-Enabled Dissolved Oxygen Sensing in Biofouling Environments for Ocean Monitoring**|Nikolaos Salaris et.al.|[2604.24236](http://arxiv.org/abs/2604.24236)|null|
 |**2026-04-27**|**Bridging Restoration and Generation Manifolds in One-Step Diffusion for Real-World Super-Resolution**|Shyang-En Weng et.al.|[2604.24136](http://arxiv.org/abs/2604.24136)|null|
-|**2026-04-27**|**Robust Grounding with MLLMs against Occlusion and Small Objects via Language-guided Semantic Cues**|Beomchan Park et.al.|[2604.24036](http://arxiv.org/abs/2604.24036)|null|
 |**2026-04-27**|**Shared-kernel Wavelet Neural Networks for Poisson Image Reconstruction**|Yuanhao Gong et.al.|[2604.24000](http://arxiv.org/abs/2604.24000)|null|
 |**2026-04-26**|**ZID-Net: Zero-Inference Diffusion Prior Decoupling Network for Single Image Dehazing**|Xinheng Li et.al.|[2604.23709](http://arxiv.org/abs/2604.23709)|null|
 |**2026-04-26**|**GS-DOT: Gaussian splatting-based image reconstruction for diffuse optical tomography**|Jingjing Jiang et.al.|[2604.23675](http://arxiv.org/abs/2604.23675)|null|
