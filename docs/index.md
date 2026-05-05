@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.04
+### Automatically Updated on 2026.05.05
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,10 +21,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-03**|**TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks**|Quanchen Zou et.al.|[2605.01761](http://arxiv.org/abs/2605.01761)|null|
+|**2026-05-03**|**Video Active Perception: Effective Inference-Time Long-Form Video Understanding with Vision-Language Models**|Martin Q. Ma et.al.|[2605.01662](http://arxiv.org/abs/2605.01662)|null|
+|**2026-05-02**|**Valley3: Scaling Omni Foundation Models for E-commerce**|Zeyu Chen et.al.|[2605.01278](http://arxiv.org/abs/2605.01278)|null|
 |**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
 |**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
 |**2026-04-26**|**SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**|Yunnan Wang et.al.|[2604.07990](http://arxiv.org/abs/2604.07990)|null|
 |**2026-04-25**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
+|**2026-04-24**|**BRITE: A Benchmark for Reliable and Interpretable T2V Evaluation on Implausible Scenarios**|Advait Tilak et.al.|[2605.00873](http://arxiv.org/abs/2605.00873)|null|
 |**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
 |**2026-04-23**|**KD-CVG: A Knowledge-Driven Approach for Creative Video Generation**|Linkai Liu et.al.|[2604.21362](http://arxiv.org/abs/2604.21362)|null|
 |**2026-04-23**|**Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation**|Boxun Xu et.al.|[2604.21221](http://arxiv.org/abs/2604.21221)|null|
@@ -210,7 +214,25 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Cool-chic 5.0: Faster Encoding and Inter-Feature Entropy Modeling for Overfitted Image Compression**|Théo Ladune et.al.|[2605.02726](http://arxiv.org/abs/2605.02726)|null|
+|**2026-05-04**|**Biological Spatial Priors Regularize Foundation Model Representations for Cross-Site MSI Generalization in Colorectal Cancer**|Dasari Naga Raju et.al.|[2605.02660](http://arxiv.org/abs/2605.02660)|null|
+|**2026-05-04**|**TRACED: In vivo imaging of extracellular intrinsic diffusivity, tortuosity, cell size distribution and cell density in human glioma patients**|Joshua K. Marchant et.al.|[2605.02615](http://arxiv.org/abs/2605.02615)|null|
+|**2026-05-04**|**Development and Validation of an Integrated LiDAR-Camera System for Real-Time Monitoring of Underground Longwall Operations**|Pasindu Ranasinghe et.al.|[2605.02516](http://arxiv.org/abs/2605.02516)|null|
+|**2026-05-04**|**DriftDecode: One-Step Wireless Image Decoding via Drifting-Inspired Detail Recovery**|Jingwen Fu et.al.|[2605.02325](http://arxiv.org/abs/2605.02325)|null|
+|**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](http://arxiv.org/abs/2605.02086)|null|
+|**2026-05-03**|**Deep Speckle Holography Redefines Label-free Nanoparticle Phenotyping**|Yanmin Zhu et.al.|[2605.01982](http://arxiv.org/abs/2605.01982)|null|
+|**2026-05-03**|**Cross-Layer Energy Analysis of Multimodal Training on Grace Hopper Superchips**|Mahmoud Ahmed et.al.|[2605.01938](http://arxiv.org/abs/2605.01938)|null|
+|**2026-05-03**|**Cardiac Mesh Flow: One-Step Generation of 3D+t Cardiac Four-Chamber Meshes via Flow Matching**|Qiang Ma et.al.|[2605.01884](http://arxiv.org/abs/2605.01884)|null|
+|**2026-05-02**|**Omni-Fake: Benchmarking Unified Multimodal Social Media Deepfake Detection**|Tianxiao Li et.al.|[2605.01638](http://arxiv.org/abs/2605.01638)|null|
+|**2026-05-02**|**Automatic Aberration Correction for Transcranial Functional and Super-Resolution Ultrasound Imaging in Rodents and Nonhuman Primates**|Paul Xing et.al.|[2605.01538](http://arxiv.org/abs/2605.01538)|null|
+|**2026-05-02**|**Quaternion Nonlinear Transform-Induced Nuclear Norm for Low-Rank Tensor Completion**|Biswarup Karmakar et.al.|[2605.01467](http://arxiv.org/abs/2605.01467)|null|
+|**2026-05-02**|**A Target-Free Harmonization Method for MRI**|Minjun Kim et.al.|[2605.01282](http://arxiv.org/abs/2605.01282)|null|
+|**2026-05-02**|**GameScope: A Multi-Attribute, Multi-Codec Benchmark Dataset for Gaming Video Quality Assessment**|Rajesh Sureddi et.al.|[2605.01272](http://arxiv.org/abs/2605.01272)|null|
+|**2026-05-02**|**Multimodal Confidence Modeling in Audio-Visual Quality Assessment**|Mayesha Maliha R. Mithila et.al.|[2605.01219](http://arxiv.org/abs/2605.01219)|null|
+|**2026-05-02**|**Evolution of NVENC Efficiency: A Longitudinal Analysis of HQ and UHQ Tuning Efficiency, Latency and Energy Trade-offs**|Kasidis Arunruangsirilert et.al.|[2605.01187](http://arxiv.org/abs/2605.01187)|null|
+|**2026-05-01**|**Reconstruction Interval Z-Phase Dependence of AI Detection Sensitivity in CT Lung Nodule Screening**|Dan Soliman et.al.|[2605.00971](http://arxiv.org/abs/2605.00971)|null|
 |**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[2605.00793](http://arxiv.org/abs/2605.00793)|null|
+|**2026-05-01**|**Quantum Gradient-Based Approach for Edge and Corner Detection Using Sobel Kernels**|Mohammad Aamir Sohail et.al.|[2605.00744](http://arxiv.org/abs/2605.00744)|null|
 |**2026-05-01**|**FedKPer: Tackling Generalization and Personalization in Medical Federated Learning via Knowledge Personalization**|Zoe Fowler et.al.|[2605.00698](http://arxiv.org/abs/2605.00698)|null|
 |**2026-05-01**|**CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection**|Hang Wang et.al.|[2605.00630](http://arxiv.org/abs/2605.00630)|null|
 |**2026-05-01**|**Multi-frame Restoration for High-rate Lissajous Confocal Laser Endomicroscopy**|Minhee Lee et.al.|[2605.00527](http://arxiv.org/abs/2605.00527)|null|
@@ -603,6 +625,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction**|Aoyu Liu et.al.|[2605.02464](http://arxiv.org/abs/2605.02464)|null|
 |**2026-05-01**|**Scale-Aware Adversarial Analysis: A Diagnostic for Generative AI in Multiscale Complex Systems**|Mengke Zhao et.al.|[2605.00510](http://arxiv.org/abs/2605.00510)|null|
 |**2026-04-24**|**VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation**|Nikoo Moradi et.al.|[2604.22942](http://arxiv.org/abs/2604.22942)|null|
 |**2026-04-21**|**Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network**|Shuo Feng et.al.|[2604.19240](http://arxiv.org/abs/2604.19240)|null|
