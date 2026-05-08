@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.07
+### Automatically Updated on 2026.05.08
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -215,6 +215,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.|[2605.06628](http://arxiv.org/abs/2605.06628)|null|
+|**2026-05-07**|**Histogramless Time-Domain Sketched Fluorescence Lifetime Imaging**|Zhenya Zang et.al.|[2605.06532](http://arxiv.org/abs/2605.06532)|null|
+|**2026-05-07**|**SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation**|YaoYang Liu et.al.|[2605.06356](http://arxiv.org/abs/2605.06356)|null|
+|**2026-05-06**|**Tumor-aware augmentation with task-guided attention analysis improves rectal cancer segmentation from magnetic resonance images**|Aneesh Rangnekar et.al.|[2605.05522](http://arxiv.org/abs/2605.05522)|null|
+|**2026-05-06**|**Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections**|Vinit Katariya et.al.|[2605.05402](http://arxiv.org/abs/2605.05402)|null|
 |**2026-05-06**|**MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge**|Perry E. Radau et.al.|[2605.05175](http://arxiv.org/abs/2605.05175)|null|
 |**2026-05-06**|**CTseg: A Tool for Brain CT Segmentation, Spatial Normalisation, and Volumetrics**|Mikael Brudfors et.al.|[2605.05154](http://arxiv.org/abs/2605.05154)|null|
 |**2026-05-06**|**External Validation of Deep Learning Models for BI-RADS Breast Density Prediction from Ultrasound Images**|Yuxuan Chen et.al.|[2605.05082](http://arxiv.org/abs/2605.05082)|null|
@@ -638,6 +644,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation**|Zhixuan Shen et.al.|[2605.05960](http://arxiv.org/abs/2605.05960)|null|
 |**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
 |**2026-05-05**|**Graph Reconstruction from Differentially Private GNN Explanations**|Rishi Raj Sahoo et.al.|[2605.03388](http://arxiv.org/abs/2605.03388)|null|
 |**2026-05-04**|**ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction**|Aoyu Liu et.al.|[2605.02464](http://arxiv.org/abs/2605.02464)|null|
