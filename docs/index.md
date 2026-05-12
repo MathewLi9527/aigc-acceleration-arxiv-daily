@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.11
+### Automatically Updated on 2026.05.12
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -217,6 +217,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
+|**2026-05-11**|**Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition**|David F. Ramirez et.al.|[2605.10772](http://arxiv.org/abs/2605.10772)|null|
+|**2026-05-11**|**Geospatial-Temporal Sensemaking of Remote Sensing Activity Detections with Multimodal Large Language Model**|David F. Ramirez et.al.|[2605.10739](http://arxiv.org/abs/2605.10739)|null|
+|**2026-05-11**|**Set-Based Groupwise Registration for Variable-Length, Variable-Contrast Cardiac MRI**|Yi Zhang et.al.|[2605.10571](http://arxiv.org/abs/2605.10571)|null|
+|**2026-05-11**|**Improving Human Image Animation via Semantic Representation Alignment**|Chang Liu et.al.|[2605.10523](http://arxiv.org/abs/2605.10523)|null|
+|**2026-05-11**|**Progressive Photorealistic Simplification**|Adi Rosenthal et.al.|[2605.10409](http://arxiv.org/abs/2605.10409)|null|
+|**2026-05-11**|**Learning to Focus Synthetic Aperture Radar On-line with State-Space Models**|Sebastian Fieldhouse et.al.|[2605.10340](http://arxiv.org/abs/2605.10340)|null|
+|**2026-05-11**|**Polarization-Aware Ray-Tracing Enhanced Back-Projection Algorithm for Microwave Imaging in Complex Multipath Environments**|Han Na et.al.|[2605.10081](http://arxiv.org/abs/2605.10081)|null|
+|**2026-05-11**|**A Stability Benchmark of Generative Regularizers for Inverse Problems**|Alexander Denker et.al.|[2605.10076](http://arxiv.org/abs/2605.10076)|null|
+|**2026-05-11**|**Tube-Structured Incremental Semantic HARQ for Generative Video Receivers**|Xuesong Wang et.al.|[2605.09897](http://arxiv.org/abs/2605.09897)|null|
+|**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699](http://arxiv.org/abs/2605.09699)|null|
+|**2026-05-10**|**XTinyU-Net: Training-Free U-Net Scaling via Initialization-Time Sensitivity**|Alvin Kimbowa et.al.|[2605.09639](http://arxiv.org/abs/2605.09639)|null|
+|**2026-05-10**|**Image-Based Whole-Heart Cardiac Flow Simulations in Health and Congenital Heart Disease**|Fanwei Kong et.al.|[2605.09629](http://arxiv.org/abs/2605.09629)|null|
+|**2026-05-10**|**Uncertainty-Guided Dual-Domain Learning for Reliable Skin Lesion Segmentation**|Duwei Dai et.al.|[2605.09600](http://arxiv.org/abs/2605.09600)|null|
+|**2026-05-10**|**Annotation-free deep learning for detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI**|Mingxuan Liu et.al.|[2605.09575](http://arxiv.org/abs/2605.09575)|null|
+|**2026-05-10**|**ML-CLIPSim: Multi-Layer CLIP Similarity for Machine-Oriented Image Quality**|Feng Ding et.al.|[2605.09479](http://arxiv.org/abs/2605.09479)|null|
+|**2026-05-10**|**CAGS: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting**|Daheng Yin et.al.|[2605.09279](http://arxiv.org/abs/2605.09279)|null|
+|**2026-05-10**|**Cross-Modal Semantic-Enhanced Diffusion Framework for Diabetic Retinopathy Grading**|Yiqun Wang et.al.|[2605.09242](http://arxiv.org/abs/2605.09242)|null|
+|**2026-05-09**|**Establishing Robust Retinal Eye Tracking: A Weakly Supervised Algorithmic Framework**|Bo Wen et.al.|[2605.09181](http://arxiv.org/abs/2605.09181)|null|
+|**2026-05-09**|**Combined Diffusion-Relaxation MRI to Assess Muscle Microstructure and Composition**|Matteo Figini et.al.|[2605.09091](http://arxiv.org/abs/2605.09091)|null|
 |**2026-05-08**|**Uncertainty Quantification for Cardiac Shape Reconstruction with Deep Signed Distance Functions via MCMC methods**|Jan Verhülsdonk et.al.|[2605.07987](http://arxiv.org/abs/2605.07987)|null|
 |**2026-05-08**|**GenAI Powered Dynamic Causal Inference with Unstructured Data**|Kentaro Nakamura et.al.|[2605.07834](http://arxiv.org/abs/2605.07834)|null|
 |**2026-05-08**|**TextLDM: Language Modeling with Continuous Latent Diffusion**|Jiaxiu Jiang et.al.|[2605.07748](http://arxiv.org/abs/2605.07748)|null|
@@ -656,15 +676,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
+|**2026-05-09**|**Supersampling Stable Diffusion and More: An Approach for Interpolating Neural Networks Using Common Interpolation Methods**|Md Abu Obaida Zishan et.al.|[2605.08698](http://arxiv.org/abs/2605.08698)|null|
+|**2026-05-09**|**VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation**|Nikoo Moradi et.al.|[2604.22942](http://arxiv.org/abs/2604.22942)|null|
 |**2026-05-08**|**On the Tradeoffs of On-Device Generative Models in Federated Predictive Maintenance Systems**|Usevalad Milasheuski et.al.|[2605.07860](http://arxiv.org/abs/2605.07860)|null|
 |**2026-05-08**|**On the Robustness of Distribution Support under Diffusion Guidance**|Ruijia Cao et.al.|[2605.07220](http://arxiv.org/abs/2605.07220)|null|
+|**2026-05-07**|**Multimodal Emotion Recognition via Causal-Diffusion Bridge (Affect-Diff)**|Ankit Sanjyal et.al.|[2605.08252](http://arxiv.org/abs/2605.08252)|null|
 |**2026-05-07**|**Why DDIM Hallucinates More than DDPM: A Theoretical Analysis of Reverse Dynamics**|Muhammad H. Ashiq et.al.|[2605.06831](http://arxiv.org/abs/2605.06831)|null|
 |**2026-05-07**|**Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation**|Zhixuan Shen et.al.|[2605.05960](http://arxiv.org/abs/2605.05960)|null|
-|**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
 |**2026-05-05**|**Graph Reconstruction from Differentially Private GNN Explanations**|Rishi Raj Sahoo et.al.|[2605.03388](http://arxiv.org/abs/2605.03388)|null|
 |**2026-05-04**|**ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction**|Aoyu Liu et.al.|[2605.02464](http://arxiv.org/abs/2605.02464)|null|
 |**2026-05-01**|**Scale-Aware Adversarial Analysis: A Diagnostic for Generative AI in Multiscale Complex Systems**|Mengke Zhao et.al.|[2605.00510](http://arxiv.org/abs/2605.00510)|null|
-|**2026-04-24**|**VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation**|Nikoo Moradi et.al.|[2604.22942](http://arxiv.org/abs/2604.22942)|null|
 |**2026-04-21**|**Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network**|Shuo Feng et.al.|[2604.19240](http://arxiv.org/abs/2604.19240)|null|
 |**2026-04-20**|**One-Step Diffusion with Inverse Residual Fields for Unsupervised Industrial Anomaly Detection**|Boan Zhang et.al.|[2604.18393](http://arxiv.org/abs/2604.18393)|null|
 |**2026-04-19**|**Scalable DDPM-Polycube: An Extended Diffusion-Based Method for Hexahedral Mesh and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2604.17266](http://arxiv.org/abs/2604.17266)|null|
