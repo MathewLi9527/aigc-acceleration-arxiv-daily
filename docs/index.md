@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.12
+### Automatically Updated on 2026.05.13
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -217,6 +217,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Images in Sentences: Scaling Interleaved Instructions for Unified Visual Generation**|Yabo Zhang et.al.|[2605.12305](http://arxiv.org/abs/2605.12305)|null|
+|**2026-05-12**|**EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras**|Luming Wang et.al.|[2605.12297](http://arxiv.org/abs/2605.12297)|null|
+|**2026-05-12**|**A Comparative Analysis of CT Degradation for LDCT Nodule Classification using Radiomics**|Jiaying Liu et.al.|[2605.12164](http://arxiv.org/abs/2605.12164)|null|
+|**2026-05-12**|**GATA2Floor: Graph attention for floor counting in street-view facades**|Ngoc Tan Le et.al.|[2605.11863](http://arxiv.org/abs/2605.11863)|null|
+|**2026-05-12**|**DiffSegLung: Diffusion Radiomic Distillation for Unsupervised Lung Pathology Segmentation**|Rezkellah Noureddine Khiati et.al.|[2605.11758](http://arxiv.org/abs/2605.11758)|null|
+|**2026-05-12**|**NexOP: Joint Optimization of NEX-Aware k-space Sampling and Image Reconstruction for Low-Field MRI**|Tal Oved et.al.|[2605.11583](http://arxiv.org/abs/2605.11583)|null|
+|**2026-05-12**|**FEFormer: Frequency-enhanced Vision Transformer for Generic Knowledge Extraction and Adaptive Feature Fusion in Volumetric Medical Image Segmentation**|Jin Yang et.al.|[2605.11434](http://arxiv.org/abs/2605.11434)|null|
+|**2026-05-11**|**SplitFed-CL: A Split Federated Co-Learning Framework for Medical Image Segmentation with Inaccurate Labels**|Zahra Hafezi Kafshgari et.al.|[2605.11060](http://arxiv.org/abs/2605.11060)|null|
 |**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
 |**2026-05-11**|**Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition**|David F. Ramirez et.al.|[2605.10772](http://arxiv.org/abs/2605.10772)|null|
 |**2026-05-11**|**Geospatial-Temporal Sensemaking of Remote Sensing Activity Detections with Multimodal Large Language Model**|David F. Ramirez et.al.|[2605.10739](http://arxiv.org/abs/2605.10739)|null|
@@ -676,6 +684,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Is Monotonic Sampling Necessary in Diffusion Models?**|Muhammad Haris Khan et.al.|[2605.11773](http://arxiv.org/abs/2605.11773)|null|
 |**2026-05-11**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
 |**2026-05-09**|**Supersampling Stable Diffusion and More: An Approach for Interpolating Neural Networks Using Common Interpolation Methods**|Md Abu Obaida Zishan et.al.|[2605.08698](http://arxiv.org/abs/2605.08698)|null|
 |**2026-05-09**|**VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation**|Nikoo Moradi et.al.|[2604.22942](http://arxiv.org/abs/2604.22942)|null|
