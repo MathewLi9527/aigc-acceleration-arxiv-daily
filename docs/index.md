@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.14
+### Automatically Updated on 2026.05.15
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-13**|**TeDiO: Temporal Diagonal Optimization for Training-Free Coherent Video Diffusion**|Nurislam Tursynbek et.al.|[2605.14136](http://arxiv.org/abs/2605.14136)|null|
 |**2026-05-08**|**GenAI Powered Dynamic Causal Inference with Unstructured Data**|Kentaro Nakamura et.al.|[2605.07834](http://arxiv.org/abs/2605.07834)|null|
 |**2026-05-07**|**Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation**|Ernie Chu et.al.|[2605.06892](http://arxiv.org/abs/2605.06892)|null|
 |**2026-05-06**|**FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation**|Yuanzhi Wang et.al.|[2605.04702](http://arxiv.org/abs/2605.04702)|null|
@@ -217,6 +219,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
+|**2026-05-14**|**FaSST: Fast Sparsifying Secondary Transform**|Darukeesan Pakiyarajah et.al.|[2605.15086](http://arxiv.org/abs/2605.15086)|null|
+|**2026-05-14**|**A CUBS-Compatible Ultrasound Morphology and Uncertainty-Aware Baseline for Carotid Intima-Media Segmentation and Preliminary Risk Prediction**|Aueaphum Aueawatthanaphisut et.al.|[2605.14949](http://arxiv.org/abs/2605.14949)|null|
+|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|null|
+|**2026-05-14**|**Denoising for Neuromorphic Cameras Based on Graph Spectral Features**|Shimpei Harada et.al.|[2605.14734](http://arxiv.org/abs/2605.14734)|null|
+|**2026-05-14**|**An Attention-Enhanced Network with Joint Dehazing and Retinex-Based Enhancement for Underwater Images**|Sahana Ray et.al.|[2605.14677](http://arxiv.org/abs/2605.14677)|null|
+|**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|
+|**2026-05-14**|**PROVE: A Perceptual RemOVal cohErence Benchmark for Visual Media**|Fuhao Li et.al.|[2605.14534](http://arxiv.org/abs/2605.14534)|null|
+|**2026-05-14**|**Physics-Based iOCT Sonification for Real-time Interaction Awareness in Subretinal Injection**|Luis D. Reyes Vargas et.al.|[2605.14500](http://arxiv.org/abs/2605.14500)|null|
+|**2026-05-14**|**ForcingDAS: Unified and Robust Data Assimilation via Diffusion Forcing**|Yixuan Jia et.al.|[2605.14285](http://arxiv.org/abs/2605.14285)|null|
+|**2026-05-13**|**CoReDiT: Spatial Coherence-Guided Token Pruning and Reconstruction for Efficient Diffusion Transformers**|Zhuojin Li et.al.|[2605.14191](http://arxiv.org/abs/2605.14191)|null|
+|**2026-05-13**|**Keyed Nonlinear Transform: Lightweight Privacy-Enhancing Feature Sharing for Medical Image Analysis**|Haebom Lee et.al.|[2605.14123](http://arxiv.org/abs/2605.14123)|null|
 |**2026-05-13**|**An Underwater Dehazing Network with Implicit Transmission Estimation**|Sahana Ray et.al.|[2605.13720](http://arxiv.org/abs/2605.13720)|null|
 |**2026-05-13**|**Learning to Optimize Radiotherapy Plans via Fluence Maps Diffusion Model Generation and LSTM-based Optimization**|Isabella Poles et.al.|[2605.13713](http://arxiv.org/abs/2605.13713)|null|
 |**2026-05-13**|**SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models**|Vladislav Makarov et.al.|[2605.13667](http://arxiv.org/abs/2605.13667)|null|
@@ -695,10 +709,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Supersampling Stable Diffusion and Beyond: A Seamless, Training-Free Approach for Scaling Neural Networks Using Common Interpolation Methods**|Md Abu Obaida Zishan et.al.|[2605.08698](http://arxiv.org/abs/2605.08698)|null|
 |**2026-05-13**|**Sampling from Flow Language Models via Marginal-Conditioned Bridges**|Iskander Azangulov et.al.|[2605.13681](http://arxiv.org/abs/2605.13681)|null|
 |**2026-05-12**|**Is Monotonic Sampling Necessary in Diffusion Models?**|Muhammad Haris Khan et.al.|[2605.11773](http://arxiv.org/abs/2605.11773)|null|
 |**2026-05-11**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
-|**2026-05-09**|**Supersampling Stable Diffusion and More: An Approach for Interpolating Neural Networks Using Common Interpolation Methods**|Md Abu Obaida Zishan et.al.|[2605.08698](http://arxiv.org/abs/2605.08698)|null|
 |**2026-05-09**|**VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation**|Nikoo Moradi et.al.|[2604.22942](http://arxiv.org/abs/2604.22942)|null|
 |**2026-05-08**|**On the Tradeoffs of On-Device Generative Models in Federated Predictive Maintenance Systems**|Usevalad Milasheuski et.al.|[2605.07860](http://arxiv.org/abs/2605.07860)|null|
 |**2026-05-08**|**On the Robustness of Distribution Support under Diffusion Guidance**|Ruijia Cao et.al.|[2605.07220](http://arxiv.org/abs/2605.07220)|null|
