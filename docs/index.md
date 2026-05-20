@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.19
+### Automatically Updated on 2026.05.20
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models**|Wooseok Jeon et.al.|[2605.19398](http://arxiv.org/abs/2605.19398)|null|
 |**2026-05-18**|**Aurora: Unified Video Editing with a Tool-Using Agent**|Yongsheng Yu et.al.|[2605.18748](http://arxiv.org/abs/2605.18748)|null|
 |**2026-05-18**|**GeoFlow: Enforcing Implicit Geometric Consistency in Video Generation**|Jan Ackermann et.al.|[2605.18365](http://arxiv.org/abs/2605.18365)|null|
 |**2026-05-18**|**CodeBind: Decoupled Representation Learning for Multimodal Alignment with Unified Compositional Codebook**|Zeyu Chen et.al.|[2605.18257](http://arxiv.org/abs/2605.18257)|null|
@@ -227,6 +228,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Probability-Conserving Flow Guidance**|Parsa Esmati et.al.|[2605.20079](http://arxiv.org/abs/2605.20079)|null|
+|**2026-05-19**|**FGSVQA: Frequency-Guided Short-form Video Quality Assessment**|Xinyi Wang et.al.|[2605.20016](http://arxiv.org/abs/2605.20016)|null|
+|**2026-05-19**|**Set Shaping Theory as a Complementary Payload-Shaping Layer for Steganography**|Aida Koch et.al.|[2605.19885](http://arxiv.org/abs/2605.19885)|null|
+|**2026-05-19**|**Aero-World: Action-Conditioned Aerial Video Generation from Inertial Controls**|Abdul Mohaimen Al Radi et.al.|[2605.19728](http://arxiv.org/abs/2605.19728)|null|
+|**2026-05-19**|**Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2605.19621](http://arxiv.org/abs/2605.19621)|null|
+|**2026-05-19**|**Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models**|Wooseok Jeon et.al.|[2605.19398](http://arxiv.org/abs/2605.19398)|null|
+|**2026-05-19**|**Perception-Aware Video Semantic Communication**|Yinhuan Huang et.al.|[2605.19397](http://arxiv.org/abs/2605.19397)|null|
+|**2026-05-19**|**LMM-Track4D: Eliciting 4D Dynamic Reasoning in LMMs via Trajectory-Grounded Dialogue**|Chaoyue Li et.al.|[2605.19390](http://arxiv.org/abs/2605.19390)|null|
+|**2026-05-19**|**Next-Acceleration-Scale Prediction for Autoregressive MRI Reconstruction**|Yilmaz Korkmaz et.al.|[2605.19354](http://arxiv.org/abs/2605.19354)|null|
+|**2026-05-18**|**An evaluation framework for sparse 4D (3D + time) imaging reconstruction via bootstrapped cross-validation**|Yuhe Zhang et.al.|[2605.19160](http://arxiv.org/abs/2605.19160)|null|
+|**2026-05-18**|**LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators**|Xinhe Zhang et.al.|[2605.19060](http://arxiv.org/abs/2605.19060)|null|
+|**2026-05-18**|**From Division to Decision: Leveraging Temporal Cell-Stage Segmentation for Embryo Transferability Prediction**|Yasmine Hachani et.al.|[2605.18923](http://arxiv.org/abs/2605.18923)|null|
 |**2026-05-18**|**Spectral Progressive Diffusion for Efficient Image and Video Generation**|Howard Xiao et.al.|[2605.18736](http://arxiv.org/abs/2605.18736)|null|
 |**2026-05-18**|**Dynamic MRI Reconstruction Via Dual Deep Priors and Low-Rank Plus Sparse Modeling**|Yongliang Sun et.al.|[2605.18709](http://arxiv.org/abs/2605.18709)|null|
 |**2026-05-18**|**Lance: Unified Multimodal Modeling by Multi-Task Synergy**|Fengyi Fu et.al.|[2605.18678](http://arxiv.org/abs/2605.18678)|null|
