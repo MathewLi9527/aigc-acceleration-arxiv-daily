@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.25
+### Automatically Updated on 2026.05.27
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**PARE: Pruning and Adaptive Routing for Efficient Video Generation**|Yutong Wang et.al.|[2605.27336](http://arxiv.org/abs/2605.27336)|null|
+|**2026-05-26**|**Tail-Aware HiFloat4: W4A4 Post-Training Quantization for Wan2.2**|Zhanfeng Feng et.al.|[2605.26628](http://arxiv.org/abs/2605.26628)|null|
+|**2026-05-25**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
+|**2026-05-25**|**Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models**|Yiwei Xie et.al.|[2605.25941](http://arxiv.org/abs/2605.25941)|null|
+|**2026-05-24**|**X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling**|Baolu Li et.al.|[2605.24892](http://arxiv.org/abs/2605.24892)|null|
 |**2026-05-22**|**DrawVideo: Generating Long Video from Storyboard Keyframe Sketches**|Chuanzhi Xu et.al.|[2605.23508](http://arxiv.org/abs/2605.23508)|null|
 |**2026-05-20**|**BodyReLux: Temporally Consistent Full-Body Video Relighting**|Li Ma et.al.|[2605.21766](http://arxiv.org/abs/2605.21766)|null|
 |**2026-05-20**|**Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models**|Wooseok Jeon et.al.|[2605.19398](http://arxiv.org/abs/2605.19398)|null|
@@ -231,6 +236,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**PARE: Pruning and Adaptive Routing for Efficient Video Generation**|Yutong Wang et.al.|[2605.27336](http://arxiv.org/abs/2605.27336)|null|
+|**2026-05-26**|**PlayClass: Automated Play Behaviour Classification in Poultry**|Prince Ravi Leow et.al.|[2605.27304](http://arxiv.org/abs/2605.27304)|null|
+|**2026-05-26**|**TWIST: Closed-Loop token Synchronization for Application-Aware Wireless Digital Twins**|Sige Liu et.al.|[2605.27205](http://arxiv.org/abs/2605.27205)|null|
+|**2026-05-26**|**Unsupervised Deep Image Prior for Sparse-View and Limited-Angle Electron Tomography**|Serge Brosset et.al.|[2605.27139](http://arxiv.org/abs/2605.27139)|null|
+|**2026-05-26**|**Timestep-Aware SVDQuant-GPTQ for W4A4 Quantization of Wan2.2-I2V**|Junhao Wu et.al.|[2605.27003](http://arxiv.org/abs/2605.27003)|null|
+|**2026-05-26**|**Unveiling magma plumbing systems for volcanic eruptions and crustal accretion via active-seismic matrix imaging**|Baptiste Hériard-Dubreuil et.al.|[2605.26988](http://arxiv.org/abs/2605.26988)|null|
+|**2026-05-26**|**GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting**|Pedro Martin et.al.|[2605.26880](http://arxiv.org/abs/2605.26880)|null|
+|**2026-05-26**|**Reconstructing 3D Neural Hemodynamics using Sparse Ultrasound Localization Microscopy Data**|Jipeng Yan et.al.|[2605.26752](http://arxiv.org/abs/2605.26752)|null|
+|**2026-05-26**|**Measuring Prediction Uncertainty in Neural Cellular Automata**|Ario Sadafi et.al.|[2605.26726](http://arxiv.org/abs/2605.26726)|null|
+|**2026-05-26**|**FM-fMRI: Event Conditioned Flow Matching for Rest-to-Task fMRI Time-Series Synthesis**|Peiyu Duan et.al.|[2605.26423](http://arxiv.org/abs/2605.26423)|null|
+|**2026-05-25**|**Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion**|Tuna Tuncer et.al.|[2605.26266](http://arxiv.org/abs/2605.26266)|null|
+|**2026-05-25**|**Prospective evaluation of multimodal respiratory failure prediction: Do chest X-rays improve performance beyond EHR signals?**|Xiaolei Lu et.al.|[2605.26255](http://arxiv.org/abs/2605.26255)|null|
+|**2026-05-25**|**LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV**|Tengfei Liu et.al.|[2605.26244](http://arxiv.org/abs/2605.26244)|null|
+|**2026-05-25**|**RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation**|Jiahao Zhang et.al.|[2605.26241](http://arxiv.org/abs/2605.26241)|null|
+|**2026-05-25**|**How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?**|Benjamin Herb et.al.|[2605.25940](http://arxiv.org/abs/2605.25940)|null|
+|**2026-05-25**|**A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation**|Zhengrui Guo et.al.|[2605.25878](http://arxiv.org/abs/2605.25878)|null|
+|**2026-05-25**|**Parameter-Efficient CT Reconstruction via Deep Graph Laplacian Regularization**|Veera Varuni Radhakrishnan et.al.|[2605.25348](http://arxiv.org/abs/2605.25348)|null|
+|**2026-05-25**|**Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution**|Tianshuo Xu et.al.|[2605.25333](http://arxiv.org/abs/2605.25333)|null|
+|**2026-05-24**|**Methodology for Creating a Clinically Verified Dermoscopic Image Dataset**|Kozachok Elena Sergeevna et.al.|[2605.25168](http://arxiv.org/abs/2605.25168)|null|
+|**2026-05-24**|**Hybrid Full Waveform Inversion Assisted by Rytov Approximation for Musculoskeletal Ultrasound Computed Tomography**|Yifei Sun et.al.|[2605.25139](http://arxiv.org/abs/2605.25139)|null|
 |**2026-05-22**|**Exploring deep learning for Event-Based Saliency Prediction with a Transformer-based model**|Romaric Mazna et.al.|[2605.23790](http://arxiv.org/abs/2605.23790)|null|
 |**2026-05-22**|**DrawVideo: Generating Long Video from Storyboard Keyframe Sketches**|Chuanzhi Xu et.al.|[2605.23508](http://arxiv.org/abs/2605.23508)|null|
 |**2026-05-22**|**VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation**|Junwen Tan et.al.|[2605.23381](http://arxiv.org/abs/2605.23381)|null|
@@ -805,10 +830,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**PIDM-DP: Physics-Informed Diffusion with Dormand-Prince Integration for Chaotic System Identification and State Reconstruction across Multiple Dynamical Regimes**|Shailendra Dabral et.al.|[2605.26619](http://arxiv.org/abs/2605.26619)|null|
+|**2026-05-23**|**A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models**|Jiayi Fu et.al.|[2605.22586](http://arxiv.org/abs/2605.22586)|null|
 |**2026-05-22**|**Diffusion Fluid Antenna Systems for Resilient ISAC**|Noor Waqar et.al.|[2605.23649](http://arxiv.org/abs/2605.23649)|null|
 |**2026-05-22**|**On the Robustness of Distribution Support under Diffusion Guidance**|Ruijia Cao et.al.|[2605.07220](http://arxiv.org/abs/2605.07220)|null|
 |**2026-05-21**|**The Value of Covariance Matching in Gaussian DDPMs and the Lanczos Sampler**|Md Sahil Akhtar et.al.|[2605.22723](http://arxiv.org/abs/2605.22723)|null|
-|**2026-05-21**|**A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models**|Jiayi Fu et.al.|[2605.22586](http://arxiv.org/abs/2605.22586)|null|
 |**2026-05-18**|**Wasserstein bounds for denoising diffusion probabilistic models via the Föllmer process**|Yuta Koike et.al.|[2605.18069](http://arxiv.org/abs/2605.18069)|null|
 |**2026-05-18**|**A note on connections between the Föllmer process and the denoising diffusion probabilistic model**|Yuta Koike et.al.|[2605.18040](http://arxiv.org/abs/2605.18040)|null|
 |**2026-05-17**|**Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling**|Tianyue Yang et.al.|[2605.17546](http://arxiv.org/abs/2605.17546)|null|
