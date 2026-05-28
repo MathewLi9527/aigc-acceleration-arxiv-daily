@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.05.27
+### Automatically Updated on 2026.05.28
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,11 +21,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning**|Yunyang Ge et.al.|[2605.28691](http://arxiv.org/abs/2605.28691)|null|
+|**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
+|**2026-05-27**|**Sketch2Motion: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization**|Gaurav Rai et.al.|[2605.28394](http://arxiv.org/abs/2605.28394)|null|
+|**2026-05-27**|**Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation**|Mariam Hassan et.al.|[2605.28230](http://arxiv.org/abs/2605.28230)|null|
+|**2026-05-27**|**Refining Multidimensional Video Reward Models via Disentangled Influence Functions**|Muyao Wang et.al.|[2605.28203](http://arxiv.org/abs/2605.28203)|null|
+|**2026-05-27**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
 |**2026-05-26**|**PARE: Pruning and Adaptive Routing for Efficient Video Generation**|Yutong Wang et.al.|[2605.27336](http://arxiv.org/abs/2605.27336)|null|
 |**2026-05-26**|**Tail-Aware HiFloat4: W4A4 Post-Training Quantization for Wan2.2**|Zhanfeng Feng et.al.|[2605.26628](http://arxiv.org/abs/2605.26628)|null|
-|**2026-05-25**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
 |**2026-05-25**|**Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models**|Yiwei Xie et.al.|[2605.25941](http://arxiv.org/abs/2605.25941)|null|
 |**2026-05-24**|**X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling**|Baolu Li et.al.|[2605.24892](http://arxiv.org/abs/2605.24892)|null|
+|**2026-05-22**|**RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity in Retrieval?**|Arijit Ghosh et.al.|[2605.27436](http://arxiv.org/abs/2605.27436)|null|
 |**2026-05-22**|**DrawVideo: Generating Long Video from Storyboard Keyframe Sketches**|Chuanzhi Xu et.al.|[2605.23508](http://arxiv.org/abs/2605.23508)|null|
 |**2026-05-20**|**BodyReLux: Temporally Consistent Full-Body Video Relighting**|Li Ma et.al.|[2605.21766](http://arxiv.org/abs/2605.21766)|null|
 |**2026-05-20**|**Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models**|Wooseok Jeon et.al.|[2605.19398](http://arxiv.org/abs/2605.19398)|null|
@@ -236,6 +242,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**Deep Learning Strain Estimation: Is Physics-Based Simulation the Solution?**|Thierry Judge et.al.|[2605.28697](http://arxiv.org/abs/2605.28697)|null|
+|**2026-05-27**|**Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation**|Mariam Hassan et.al.|[2605.28230](http://arxiv.org/abs/2605.28230)|null|
+|**2026-05-27**|**VidPrism: Heterogeneous Mixture of Experts for Image-to-Video Transfer**|Rui Lin et.al.|[2605.28229](http://arxiv.org/abs/2605.28229)|null|
+|**2026-05-27**|**VCap: Hypergeometric Rewards for Weak-to-Strong Visual Captioning**|Xingyu Lu et.al.|[2605.28023](http://arxiv.org/abs/2605.28023)|null|
+|**2026-05-27**|**Benchmarking Ultrasound Foundation Models for Fetal Plane Classification**|Leya Barrientos et.al.|[2605.27796](http://arxiv.org/abs/2605.27796)|null|
+|**2026-05-26**|**Tensor Memory: Fixed-Size Recurrent State for Long-Horizon Transformers**|Kabir Swain et.al.|[2605.27686](http://arxiv.org/abs/2605.27686)|null|
 |**2026-05-26**|**PARE: Pruning and Adaptive Routing for Efficient Video Generation**|Yutong Wang et.al.|[2605.27336](http://arxiv.org/abs/2605.27336)|null|
 |**2026-05-26**|**PlayClass: Automated Play Behaviour Classification in Poultry**|Prince Ravi Leow et.al.|[2605.27304](http://arxiv.org/abs/2605.27304)|null|
 |**2026-05-26**|**TWIST: Closed-Loop token Synchronization for Application-Aware Wireless Digital Twins**|Sige Liu et.al.|[2605.27205](http://arxiv.org/abs/2605.27205)|null|
@@ -830,6 +842,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**Inpainting-Style Conditional Diffusion for Multivariable Time Series Forecasting**|Kourosh Kiani et.al.|[2605.28324](http://arxiv.org/abs/2605.28324)|null|
+|**2026-05-27**|**Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models**|Ken Takeda et.al.|[2605.27975](http://arxiv.org/abs/2605.27975)|null|
 |**2026-05-26**|**PIDM-DP: Physics-Informed Diffusion with Dormand-Prince Integration for Chaotic System Identification and State Reconstruction across Multiple Dynamical Regimes**|Shailendra Dabral et.al.|[2605.26619](http://arxiv.org/abs/2605.26619)|null|
 |**2026-05-23**|**A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models**|Jiayi Fu et.al.|[2605.22586](http://arxiv.org/abs/2605.22586)|null|
 |**2026-05-22**|**Diffusion Fluid Antenna Systems for Resilient ISAC**|Noor Waqar et.al.|[2605.23649](http://arxiv.org/abs/2605.23649)|null|
