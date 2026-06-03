@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.01
+### Automatically Updated on 2026.06.03
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,7 +21,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-01**|**Spatial-Temporal Decoupled Reference Conditioning for Identity-Preserving Text-to-Video Generation**|Yuheng Chen et.al.|[2606.02441](http://arxiv.org/abs/2606.02441)|null|
+|**2026-05-31**|**SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation**|Yingzi Ma et.al.|[2606.01481](http://arxiv.org/abs/2606.01481)|null|
+|**2026-05-31**|**Knowledge-Intensive Video Generation**|Chenxu Wang et.al.|[2606.01285](http://arxiv.org/abs/2606.01285)|null|
+|**2026-05-31**|**Boundary-Protection W8A8 HiFloat8 Quantization for Large-Scale Text-to-Video Diffusion Transformers**|Yiming Zhao et.al.|[2606.00957](http://arxiv.org/abs/2606.00957)|null|
+|**2026-05-29**|**TIGER: Traceable Inference with Graph-Based Evidence Routing for Mitigating Hallucinations in Multimodal Generation**|Kaixiang Zhao et.al.|[2606.00232](http://arxiv.org/abs/2606.00232)|null|
 |**2026-05-29**|**TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation**|Ruotong Liao et.al.|[2605.31590](http://arxiv.org/abs/2605.31590)|null|
+|**2026-05-29**|**X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling**|Baolu Li et.al.|[2605.24892](http://arxiv.org/abs/2605.24892)|null|
 |**2026-05-28**|**DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution**|Hidir Yesiltepe et.al.|[2605.30431](http://arxiv.org/abs/2605.30431)|null|
 |**2026-05-28**|**VPG: Visual Prefix Guidance for Autoregressive Image and Video Generation**|Xinyao Liao et.al.|[2605.30317](http://arxiv.org/abs/2605.30317)|null|
 |**2026-05-28**|**KGEdit: Ambiguity-Aware Knowledge Graphs for Training-Free Precise Video Generation and Editing**|Mingshu Cai et.al.|[2605.29509](http://arxiv.org/abs/2605.29509)|null|
@@ -34,7 +40,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-05-26**|**PARE: Pruning and Adaptive Routing for Efficient Video Generation**|Yutong Wang et.al.|[2605.27336](http://arxiv.org/abs/2605.27336)|null|
 |**2026-05-26**|**Tail-Aware HiFloat4: W4A4 Post-Training Quantization for Wan2.2**|Zhanfeng Feng et.al.|[2605.26628](http://arxiv.org/abs/2605.26628)|null|
 |**2026-05-25**|**Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models**|Yiwei Xie et.al.|[2605.25941](http://arxiv.org/abs/2605.25941)|null|
-|**2026-05-24**|**X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling**|Baolu Li et.al.|[2605.24892](http://arxiv.org/abs/2605.24892)|null|
 |**2026-05-22**|**RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity in Retrieval?**|Arijit Ghosh et.al.|[2605.27436](http://arxiv.org/abs/2605.27436)|null|
 |**2026-05-22**|**DrawVideo: Generating Long Video from Storyboard Keyframe Sketches**|Chuanzhi Xu et.al.|[2605.23508](http://arxiv.org/abs/2605.23508)|null|
 |**2026-05-20**|**BodyReLux: Temporally Consistent Full-Body Video Relighting**|Li Ma et.al.|[2605.21766](http://arxiv.org/abs/2605.21766)|null|
@@ -246,6 +251,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation**|Haobo Li et.al.|[2606.03972](http://arxiv.org/abs/2606.03972)|null|
+|**2026-06-02**|**SEAOTTER: Sensor Embedded Autoencoding with One-Time Transcode for Efficient Reconstruction**|Dan Jacobellis et.al.|[2606.03940](http://arxiv.org/abs/2606.03940)|null|
+|**2026-06-02**|**Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching**|Yoad Tewel et.al.|[2606.03911](http://arxiv.org/abs/2606.03911)|null|
+|**2026-06-02**|**When BBR Meets Live Streaming**|Xu Yan et.al.|[2606.03468](http://arxiv.org/abs/2606.03468)|null|
+|**2026-06-02**|**SMAC: Spatial-Modal Joint Modeling and Adaptive Representation Collapse for Multimodal Object Tracking**|Meijing Gao et.al.|[2606.03370](http://arxiv.org/abs/2606.03370)|null|
+|**2026-06-02**|**Do Real-World Datasets Contain Natural Experiments? An Empirical Study Using Causal Feature Selection**|Gautam Gare et.al.|[2606.03251](http://arxiv.org/abs/2606.03251)|null|
+|**2026-06-02**|**Learning to Solve, Forgetting to Retain: Correct-Set Turnover in RLVR**|Chuanyu Qin et.al.|[2606.03087](http://arxiv.org/abs/2606.03087)|null|
+|**2026-06-01**|**Hand Trajectory Fusion for Egocentric Natural Language Query Grounding**|Enmin Zhong et.al.|[2606.02962](http://arxiv.org/abs/2606.02962)|null|
+|**2026-06-01**|**AtlasGS: Brain MRI Spatial Resolution Harmonization With Shared Gaussian Geometry**|Yifan Gao et.al.|[2606.02961](http://arxiv.org/abs/2606.02961)|null|
+|**2026-06-01**|**Depth from Dual Differential Defocus and Stereo Consensus**|Junjie Luo et.al.|[2606.02906](http://arxiv.org/abs/2606.02906)|null|
+|**2026-06-01**|**Cosmos 3: Omnimodal World Models for Physical AI**| Aditi et.al.|[2606.02800](http://arxiv.org/abs/2606.02800)|null|
+|**2026-06-01**|**Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting**|Yunlong Zhou et.al.|[2606.02661](http://arxiv.org/abs/2606.02661)|null|
+|**2026-06-01**|**From Zero to Hero: Training-Free Custom Concept Spawning in World Models**|Kiymet Akdemir et.al.|[2606.02575](http://arxiv.org/abs/2606.02575)|null|
+|**2026-06-01**|**Symmetry-Aware 9D Pose Estimation with Sim(3)-Consistent Feature and Spherical Inception Convolution**|Panfei Cheng et.al.|[2606.02219](http://arxiv.org/abs/2606.02219)|null|
+|**2026-06-01**|**Predicting the risk of colorectal anastomotic leak based on preoperative mapping of the blood supply of the bowel**|Zahra Tabatabaei et.al.|[2606.02156](http://arxiv.org/abs/2606.02156)|null|
+|**2026-06-01**|**LALE: Lightweight-Transformer Architecture for Land-Cover Estimation**|Ümit Mert Çağlar et.al.|[2606.02092](http://arxiv.org/abs/2606.02092)|null|
+|**2026-06-01**|**Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization**|Jingyun Liang et.al.|[2606.02000](http://arxiv.org/abs/2606.02000)|null|
+|**2026-06-01**|**Face Liveness Detection Using RGB and Thermal Image Fusion**|Merve Erşan et.al.|[2606.01836](http://arxiv.org/abs/2606.01836)|null|
+|**2026-06-01**|**Hist2Style: Histogram-Guided Stylization with Bilateral Grids**|Dekel Galor et.al.|[2606.01819](http://arxiv.org/abs/2606.01819)|null|
+|**2026-06-01**|**MoRE: A Mixture-of-Experts-Based Task-Adaptive End-to-End Network for Multimodal MRI Reconstruction**|Yuyang Li et.al.|[2606.01784](http://arxiv.org/abs/2606.01784)|null|
 |**2026-05-29**|**Self-Tuning Regularization for Image Scanning Microscopy**|Sofia Agostoni et.al.|[2605.31426](http://arxiv.org/abs/2605.31426)|null|
 |**2026-05-29**|**MoE-dqINR: A Unified Mixture-of-Experts Implicit Neural Representation Framework for Scan-Specific Dynamic and Quantitative MRI Reconstruction**|Yinzhe Wu et.al.|[2605.31302](http://arxiv.org/abs/2605.31302)|null|
 |**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
@@ -867,6 +892,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Flicker-DDPM: Accelerating Denoising Diffusion via 1/f Colored Noise Injection**|Kexiang Mao et.al.|[2606.03393](http://arxiv.org/abs/2606.03393)|null|
 |**2026-05-28**|**Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models**|Ken Takeda et.al.|[2605.27975](http://arxiv.org/abs/2605.27975)|null|
 |**2026-05-28**|**Why DDIM Hallucinates More Than DDPM: A Theoretical Analysis of Reverse Dynamics**|Muhammad H. Ashiq et.al.|[2605.06831](http://arxiv.org/abs/2605.06831)|null|
 |**2026-05-27**|**Inpainting-Style Conditional Diffusion for Multivariable Time Series Forecasting**|Kourosh Kiani et.al.|[2605.28324](http://arxiv.org/abs/2605.28324)|null|
