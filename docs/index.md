@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.07
+### Automatically Updated on 2026.06.08
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance**|Duc Tri Tran et.al.|[2606.07161](http://arxiv.org/abs/2606.07161)|null|
 |**2026-06-03**|**Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation**|Tobia Poppi et.al.|[2606.05290](http://arxiv.org/abs/2606.05290)|null|
 |**2026-06-03**|**Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control**|Jihoon Hong et.al.|[2606.04775](http://arxiv.org/abs/2606.04775)|null|
 |**2026-06-02**|**Building The Ph(ysical)AI Layer Of Machine Intelligence**|Ulbert Jose Botero et.al.|[2606.04106](http://arxiv.org/abs/2606.04106)|null|
@@ -254,11 +255,24 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Impact of Synthetic Lesional MR Images in Automated Focal Cortical Dysplasia Detection in Low-Data Scenarios**|Prabhjot Kaur et.al.|[2606.07381](http://arxiv.org/abs/2606.07381)|null|
+|**2026-06-05**|**EvoGS: Constructing Continuous-Layered Gaussian Splatting with Evolution Tree for Scalable 3D Streaming**|Yuang Shi et.al.|[2606.07179](http://arxiv.org/abs/2606.07179)|null|
+|**2026-06-05**|**Beyond Universality: The GCC-FER Dataset and Culture-Aware Adaptation for Dynamic Facial Expression Recognition**|Sonalika Singh et.al.|[2606.07063](http://arxiv.org/abs/2606.07063)|null|
+|**2026-06-05**|**DaX: Learning General Pathology Representations Across Scales**|Bokai Zhao et.al.|[2606.06983](http://arxiv.org/abs/2606.06983)|null|
+|**2026-06-05**|**A 3D Formulation of the Extended Phaseless Rytov Approximation**|Wanqin Ma et.al.|[2606.06933](http://arxiv.org/abs/2606.06933)|null|
+|**2026-06-05**|**Physics-Driven Semantic Scattering Structure Understanding of Aircraft Target in SAR Images**|Yifei Yin et.al.|[2606.06847](http://arxiv.org/abs/2606.06847)|null|
+|**2026-06-04**|**Compute-Optimal Network Design for Echocardiography Myocardial Segmentation and Perfusion Quantification using Neural Scaling Laws**|Clara Rodrigo González et.al.|[2606.06725](http://arxiv.org/abs/2606.06725)|null|
+|**2026-06-04**|**RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Fixed-Viewpoint Video**|Shichong Peng et.al.|[2606.06685](http://arxiv.org/abs/2606.06685)|null|
+|**2026-06-04**|**Smooth Hard-Thresholding for Singular Values with Stein's Unbiased Risk Estimate**|Guanzhong Yang et.al.|[2606.06632](http://arxiv.org/abs/2606.06632)|null|
+|**2026-06-04**|**ErA: Error-Aware Deep Unrolling Network for Single Image Defocus Deblurring**|Tu Vo et.al.|[2606.06540](http://arxiv.org/abs/2606.06540)|null|
 |**2026-06-04**|**A Vision-language Framework for Comparative Reasoning in Radiology**|Tengfei Zhang et.al.|[2606.06407](http://arxiv.org/abs/2606.06407)|null|
 |**2026-06-04**|**Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them**|Woojung Han et.al.|[2606.06361](http://arxiv.org/abs/2606.06361)|null|
+|**2026-06-04**|**Deployed trusted-node quantum key distribution over 300 km with a multi-core fiber access link**|Martin Clason et.al.|[2606.06107](http://arxiv.org/abs/2606.06107)|null|
 |**2026-06-04**|**ReCache: Learning Budget-Aware Caching Schedules for Diffusion Models via REINFORCE**|Mishan Aliev et.al.|[2606.06060](http://arxiv.org/abs/2606.06060)|null|
 |**2026-06-04**|**LongSpace: Exploring Long-Horizon Spatial Memory from Perception to Recall in Video**|Shiqiang Lang et.al.|[2606.05677](http://arxiv.org/abs/2606.05677)|null|
 |**2026-06-04**|**V2V-Bench: A Comprehensive Benchmark for Video-to-Video Generation Evaluation**|Tao Liu et.al.|[2606.05665](http://arxiv.org/abs/2606.05665)|null|
+|**2026-06-03**|**DSU-Net: An Attention-Enhanced Dense Skip U-Net for Breast Lesion Segmentation in Mammographic Images**|Reza Bozorgpour et.al.|[2606.06537](http://arxiv.org/abs/2606.06537)|null|
+|**2026-06-03**|**Attention Consistent Longitudinal Medical Visual Question Answering Guided by Vision Foundation Models**|Jialin Wu et.al.|[2606.06534](http://arxiv.org/abs/2606.06534)|null|
 |**2026-06-03**|**Anti-Hyperspectral Anomaly Detection: A First Study on Stealthy Lipschitz-Forcing Perturbations Against Unknown Detectors**|Chia-Hsiang Lin et.al.|[2606.05369](http://arxiv.org/abs/2606.05369)|null|
 |**2026-06-03**|**Oklch+: A Three-Parameter Extension of Oklab for Improved Color Difference Prediction**|Naoyuki Uchida et.al.|[2606.05255](http://arxiv.org/abs/2606.05255)|null|
 |**2026-06-03**|**An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers**|Gandhimathi Padmanaban et.al.|[2606.05149](http://arxiv.org/abs/2606.05149)|null|
@@ -910,6 +924,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**DirectAudioEdit: Inversion-Free Text-Guided Audio Editing via Diffusion Prediction Contrast**|Zhengkun Ge et.al.|[2606.07356](http://arxiv.org/abs/2606.07356)|null|
+|**2026-06-04**|**Physics Guided Generative Optimization for Trotter Suzuki Decomposition**|WenBin Yan et.al.|[2605.13268](http://arxiv.org/abs/2605.13268)|null|
 |**2026-06-03**|**HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation**|Hongfan Gao et.al.|[2606.05239](http://arxiv.org/abs/2606.05239)|null|
 |**2026-06-03**|**Flicker-DDPM: Accelerating Denoising Diffusion via 1/f Colored Noise Injection**|KeXiang Mao et.al.|[2606.03393](http://arxiv.org/abs/2606.03393)|null|
 |**2026-05-28**|**Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models**|Ken Takeda et.al.|[2605.27975](http://arxiv.org/abs/2605.27975)|null|
