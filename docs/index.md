@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.09
+### Automatically Updated on 2026.06.10
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -259,6 +259,16 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Multimodal Brain Tumour Classification Using Feature Fusion**|Wajih ul Islam et.al.|[2606.11107](http://arxiv.org/abs/2606.11107)|null|
+|**2026-06-09**|**Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models**|Bowen Ping et.al.|[2606.11025](http://arxiv.org/abs/2606.11025)|null|
+|**2026-06-09**|**Low-Dose 3D Bonding Mapping Through "Soft" Core-Loss EELS Tomography and Unsupervised Deep Learning**|Mario Pelaez-Fernandez et.al.|[2606.10893](http://arxiv.org/abs/2606.10893)|null|
+|**2026-06-09**|**++nnU-Net: Scaling nnU-Net with Prefix-Based Data Augmentation**|Ana Sofia Santos et.al.|[2606.10713](http://arxiv.org/abs/2606.10713)|null|
+|**2026-06-09**|**Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices**|Daniel del Pozo Bueno et.al.|[2606.10547](http://arxiv.org/abs/2606.10547)|null|
+|**2026-06-09**|**Overlapped Wavelet Diffusion for Low-Light Image Enhancement**|Fen Peng et.al.|[2606.10280](http://arxiv.org/abs/2606.10280)|null|
+|**2026-06-08**|**POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET**|Jonathan Schwartz et.al.|[2606.10255](http://arxiv.org/abs/2606.10255)|null|
+|**2026-06-08**|**Laplace-Mixture Dipole Inversion for Quantitative Susceptibility Mapping**|Shuai Huang et.al.|[2606.10240](http://arxiv.org/abs/2606.10240)|null|
+|**2026-06-08**|**A Large Scale Open-Source Image and Video Dataset for Robust Wildfire Detection and Classification**|Emadeldeen Hamdan et.al.|[2606.10174](http://arxiv.org/abs/2606.10174)|null|
+|**2026-06-08**|**Deep Slice Interpolation for Reducing Through-Plane Anisotropy and Noise in Head CT**|Luis Cortés Ferre et.al.|[2606.09953](http://arxiv.org/abs/2606.09953)|null|
 |**2026-06-08**|**Vendor-agnostic 4D Phase Contrast MRI: a complete open-source pipeline for velocities, displacement, and strain analysis**|Marta B. Maggioni et.al.|[2606.09444](http://arxiv.org/abs/2606.09444)|null|
 |**2026-06-08**|**CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning**|Penghui Yang et.al.|[2606.09393](http://arxiv.org/abs/2606.09393)|null|
 |**2026-06-08**|**Dynamic XR Rendering Offloading Based on Feature-Based Quality Assessment**|Sige Liu et.al.|[2606.09330](http://arxiv.org/abs/2606.09330)|null|
@@ -940,6 +950,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
 |**2026-06-08**|**PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws**|Danqi Zhuang et.al.|[2606.09816](http://arxiv.org/abs/2606.09816)|null|
 |**2026-06-05**|**DirectAudioEdit: Inversion-Free Text-Guided Audio Editing via Diffusion Prediction Contrast**|Zhengkun Ge et.al.|[2606.07356](http://arxiv.org/abs/2606.07356)|null|
 |**2026-06-04**|**Physics Guided Generative Optimization for Trotter Suzuki Decomposition**|WenBin Yan et.al.|[2605.13268](http://arxiv.org/abs/2605.13268)|null|
