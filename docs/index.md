@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.10
+### Automatically Updated on 2026.06.11
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,9 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation**|Xu Zhang et.al.|[2606.11969](http://arxiv.org/abs/2606.11969)|null|
+|**2026-06-10**|**Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding**|Hyomin Kim et.al.|[2606.11838](http://arxiv.org/abs/2606.11838)|null|
+|**2026-06-10**|**CoVEBench: Can Video Editing Models Handle Complex Instructions?**|Jiangtao Wu et.al.|[2606.08415](http://arxiv.org/abs/2606.08415)|null|
 |**2026-06-08**|**Conan-embedding-v3: Fusing Modality-Specific Models for Omni-Modal Embedding**|Shiyu Li et.al.|[2606.09331](http://arxiv.org/abs/2606.09331)|null|
 |**2026-06-08**|**OmniGen-AR: AutoRegressive Any-to-Image Generation**|Junke Wang et.al.|[2606.09156](http://arxiv.org/abs/2606.09156)|null|
-|**2026-06-07**|**CoVEBench: Can Video Editing Models Handle Complex Instructions?**|Jiangtao Wu et.al.|[2606.08415](http://arxiv.org/abs/2606.08415)|null|
 |**2026-06-06**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923](http://arxiv.org/abs/2606.07923)|null|
 |**2026-06-05**|**TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance**|Duc Tri Tran et.al.|[2606.07161](http://arxiv.org/abs/2606.07161)|null|
 |**2026-06-03**|**Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation**|Tobia Poppi et.al.|[2606.05290](http://arxiv.org/abs/2606.05290)|null|
@@ -259,7 +261,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-09**|**Multimodal Brain Tumour Classification Using Feature Fusion**|Wajih ul Islam et.al.|[2606.11107](http://arxiv.org/abs/2606.11107)|null|
+|**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
+|**2026-06-10**|**An Electric Potential-Augmented Benchmark Dataset for Physics-Guided Image Reconstruction of Electrical Capacitance Tomography**|Xinqi Zhang et.al.|[2606.12226](http://arxiv.org/abs/2606.12226)|null|
+|**2026-06-10**|**An Indoor Localization Technique Utilizing Passive Tags and 3-D Microwave Passive Radar Imaging**|Quanfeng Wang et.al.|[2606.12123](http://arxiv.org/abs/2606.12123)|null|
+|**2026-06-10**|**MSUE: Multi-Modal Soccer Understanding Expert**|Litao Li et.al.|[2606.12106](http://arxiv.org/abs/2606.12106)|null|
+|**2026-06-10**|**Non-frontal face recognition using GANs and memristor-based classifiers**|Semih Vazgecen et.al.|[2606.12074](http://arxiv.org/abs/2606.12074)|null|
+|**2026-06-10**|**AVIS: Adaptive Test-Time Scaling for Vision-Language Models**|Ahmadreza Jeddi et.al.|[2606.11576](http://arxiv.org/abs/2606.11576)|null|
+|**2026-06-10**|**Multimodal Brain Tumour Classification Using Feature Fusion**|Wajih ul Islam et.al.|[2606.11107](http://arxiv.org/abs/2606.11107)|null|
+|**2026-06-09**|**FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI**|Mo Wang et.al.|[2606.11500](http://arxiv.org/abs/2606.11500)|null|
+|**2026-06-09**|**Intelligent Skin Cancer Detection Using a Multispectral Metasurface and a Hybrid**|Afsane Saee Arezoomand et.al.|[2606.11287](http://arxiv.org/abs/2606.11287)|null|
 |**2026-06-09**|**Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models**|Bowen Ping et.al.|[2606.11025](http://arxiv.org/abs/2606.11025)|null|
 |**2026-06-09**|**Low-Dose 3D Bonding Mapping Through "Soft" Core-Loss EELS Tomography and Unsupervised Deep Learning**|Mario Pelaez-Fernandez et.al.|[2606.10893](http://arxiv.org/abs/2606.10893)|null|
 |**2026-06-09**|**++nnU-Net: Scaling nnU-Net with Prefix-Based Data Augmentation**|Ana Sofia Santos et.al.|[2606.10713](http://arxiv.org/abs/2606.10713)|null|
