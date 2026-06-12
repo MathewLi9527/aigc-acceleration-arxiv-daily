@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.11
+### Automatically Updated on 2026.06.12
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
 |**2026-06-10**|**SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation**|Xu Zhang et.al.|[2606.11969](http://arxiv.org/abs/2606.11969)|null|
 |**2026-06-10**|**Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding**|Hyomin Kim et.al.|[2606.11838](http://arxiv.org/abs/2606.11838)|null|
 |**2026-06-10**|**CoVEBench: Can Video Editing Models Handle Complex Instructions?**|Jiangtao Wu et.al.|[2606.08415](http://arxiv.org/abs/2606.08415)|null|
@@ -261,6 +262,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving**|Xinwei Qiang et.al.|[2606.13501](http://arxiv.org/abs/2606.13501)|null|
+|**2026-06-11**|**Masked and Predictive Self-Supervised Foundation Models for 3D Brain MRI**|Esra Ergün et.al.|[2606.13315](http://arxiv.org/abs/2606.13315)|null|
+|**2026-06-11**|**HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers**|Guozhen Zhang et.al.|[2606.13289](http://arxiv.org/abs/2606.13289)|null|
+|**2026-06-11**|**An Extensible and Lightweight Unified Architecture for Demosaicing Pixel-bin Image Sensors**|Saurabh Kumar et.al.|[2606.13136](http://arxiv.org/abs/2606.13136)|null|
+|**2026-06-11**|**JOMP: Jointly-Optimized Mixed-Precision Quantization Across Neural Video Coding Frameworks and Buffering Strategies**|Yu-Hsiang Lin et.al.|[2606.13110](http://arxiv.org/abs/2606.13110)|null|
+|**2026-06-11**|**OpenMedQ: Broad Open Pretraining for Medical Vision-Language Models**|Ibrahim Gulluk et.al.|[2606.12953](http://arxiv.org/abs/2606.12953)|null|
+|**2026-06-11**|**Acquisition state behaves as a structured, measurable variable governing lung-nodule AI: kernel-driven measurement instability and noise-driven detection fragility, invisible to DICOM metadata**|Daniel Soliman et.al.|[2606.12824](http://arxiv.org/abs/2606.12824)|null|
+|**2026-06-10**|**Fed-FBD: Federated Functional Block Diversification for Isolation, Privacy, and Surgical Unlearning**|Weijie Chen et.al.|[2606.12679](http://arxiv.org/abs/2606.12679)|null|
 |**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
 |**2026-06-10**|**An Electric Potential-Augmented Benchmark Dataset for Physics-Guided Image Reconstruction of Electrical Capacitance Tomography**|Xinqi Zhang et.al.|[2606.12226](http://arxiv.org/abs/2606.12226)|null|
 |**2026-06-10**|**An Indoor Localization Technique Utilizing Passive Tags and 3-D Microwave Passive Radar Imaging**|Quanfeng Wang et.al.|[2606.12123](http://arxiv.org/abs/2606.12123)|null|
@@ -960,6 +969,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Smoothed-KL Reweighting: A Principled Account and Matching Rule for SNR-Based Diffusion Training**|Lei Li et.al.|[2606.13433](http://arxiv.org/abs/2606.13433)|null|
 |**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
 |**2026-06-08**|**PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws**|Danqi Zhuang et.al.|[2606.09816](http://arxiv.org/abs/2606.09816)|null|
 |**2026-06-05**|**DirectAudioEdit: Inversion-Free Text-Guided Audio Editing via Diffusion Prediction Contrast**|Zhengkun Ge et.al.|[2606.07356](http://arxiv.org/abs/2606.07356)|null|
