@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.15
+### Automatically Updated on 2026.06.16
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,12 +21,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](http://arxiv.org/abs/2606.16742)|null|
+|**2026-06-15**|**RGFVR: Reference-Guided Face Video Restoration with Flow Matching**|Cem Eteke et.al.|[2606.16401](http://arxiv.org/abs/2606.16401)|null|
+|**2026-06-13**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
 |**2026-06-12**|**VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling**|Xunzhi Xiang et.al.|[2606.14162](http://arxiv.org/abs/2606.14162)|null|
 |**2026-06-11**|**CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation**|Sharath Girish et.al.|[2606.13768](http://arxiv.org/abs/2606.13768)|null|
-|**2026-06-11**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
 |**2026-06-10**|**SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation**|Xu Zhang et.al.|[2606.11969](http://arxiv.org/abs/2606.11969)|null|
 |**2026-06-10**|**Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding**|Hyomin Kim et.al.|[2606.11838](http://arxiv.org/abs/2606.11838)|null|
 |**2026-06-10**|**CoVEBench: Can Video Editing Models Handle Complex Instructions?**|Jiangtao Wu et.al.|[2606.08415](http://arxiv.org/abs/2606.08415)|null|
+|**2026-06-08**|**Temporally Consistent and Controllable Video Generation of 2D Cine CMR via Latent Space Motion Modeling**|Yiheng Cao et.al.|[2606.14759](http://arxiv.org/abs/2606.14759)|null|
 |**2026-06-08**|**Conan-embedding-v3: Fusing Modality-Specific Models for Omni-Modal Embedding**|Shiyu Li et.al.|[2606.09331](http://arxiv.org/abs/2606.09331)|null|
 |**2026-06-08**|**OmniGen-AR: AutoRegressive Any-to-Image Generation**|Junke Wang et.al.|[2606.09156](http://arxiv.org/abs/2606.09156)|null|
 |**2026-06-06**|**Larch: Learned Query Optimization for Semantic Predicates**|Fuheng Zhao et.al.|[2606.07923](http://arxiv.org/abs/2606.07923)|null|
@@ -264,6 +267,25 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies**|Xiuwei Xu et.al.|[2606.17040](http://arxiv.org/abs/2606.17040)|null|
+|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**| DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
+|**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
+|**2026-06-15**|**Conditioning Deep Anatomical Prior Knowledge for Reconstruction of Multispectral Optoacoustic Tomography Images**|Sarah Franceschin et.al.|[2606.16835](http://arxiv.org/abs/2606.16835)|null|
+|**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](http://arxiv.org/abs/2606.16742)|null|
+|**2026-06-15**|**Optimizing Multiple Feature Types for Image Inpainting in the Linear and Nonlinear Setting**|Vassillen Chizhov et.al.|[2606.16581](http://arxiv.org/abs/2606.16581)|null|
+|**2026-06-15**|**SP $^3$ : Spherical Priors for Plug-and-Play Restoration**|Sean Man et.al.|[2606.16396](http://arxiv.org/abs/2606.16396)|null|
+|**2026-06-15**|**Input-Dependent Fisher Information for Local Sensitivity Analysis of Medical Image Classifiers**|Sourya Sengupta. Mark A. Anastasio et.al.|[2606.16362](http://arxiv.org/abs/2606.16362)|null|
+|**2026-06-15**|**Learned Image Compression for Vision-Language-Action Models**|Hyeonjun Kim et.al.|[2606.16253](http://arxiv.org/abs/2606.16253)|null|
+|**2026-06-15**|**MOSAIC: Mobile Object Segmentation under Adverse Imaging Conditions for Rapid L-PBF Keyhole Behavior Characterization**|Garrett Mathesen et.al.|[2606.16186](http://arxiv.org/abs/2606.16186)|null|
+|**2026-06-15**|**Closed-Loop Triplet Synergistic Generation for Long-Form Video**|Xinlei Yin et.al.|[2606.16184](http://arxiv.org/abs/2606.16184)|null|
+|**2026-06-15**|**Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos**|Ke Li et.al.|[2606.16124](http://arxiv.org/abs/2606.16124)|null|
+|**2026-06-15**|**Variable-Rate Deep Image Compression based on Low-Rank Adaptation by Progressive Learning**|Xing-Yu Xu et.al.|[2606.16107](http://arxiv.org/abs/2606.16107)|null|
+|**2026-06-14**|**A Surface-based Multimodal Framework for Multitask Analysis in Alzheimer's Disease**|Shuo Huang et.al.|[2606.15692](http://arxiv.org/abs/2606.15692)|null|
+|**2026-06-13**|**Chroma-gated, differentiable OKLCH interpolation: Continuous Oklab fallback for color-cast reduction**|Naoyuki Uchida et.al.|[2606.15352](http://arxiv.org/abs/2606.15352)|null|
+|**2026-06-13**|**Multi-view feature High-order Fusion for Space Weak Object Detection and Segmentation**|Weilong Guo et.al.|[2606.15118](http://arxiv.org/abs/2606.15118)|null|
+|**2026-06-12**|**Interpretable and Frugal Learning Systems Employing Multiresolution Pyramids and Volterra Kernels**|Kishore Kumar Tarafdar et.al.|[2606.15011](http://arxiv.org/abs/2606.15011)|null|
+|**2026-06-12**|**Polyp-D2ATL: Deep Domain-Adaptive Transfer Learning for Colorectal Polyp Classification under Label Distribution Shift**|Sajad Jabarzadeh Ghandilu et.al.|[2606.15000](http://arxiv.org/abs/2606.15000)|null|
+|**2026-06-12**|**Leptomeningeal Collateral Detection on DSA via Vessel-Graph Neural Networks**|Junyong Cao et.al.|[2606.14828](http://arxiv.org/abs/2606.14828)|null|
 |**2026-06-12**|**Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning**|Denise Marini et.al.|[2606.14568](http://arxiv.org/abs/2606.14568)|null|
 |**2026-06-12**|**Spectrum Aware Illumination Estimation Using Multispectral Image**|Hyejin Oh et.al.|[2606.14248](http://arxiv.org/abs/2606.14248)|null|
 |**2026-06-12**|**VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling**|Xunzhi Xiang et.al.|[2606.14162](http://arxiv.org/abs/2606.14162)|null|
@@ -979,6 +1001,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks**|Eslam Eldeeb et.al.|[2606.16331](http://arxiv.org/abs/2606.16331)|null|
+|**2026-06-13**|**Lesion-DDPM: Lesion-Enhanced 3D Diffusion for MS MRI Synthesis**|Weidong Zhang et.al.|[2606.15457](http://arxiv.org/abs/2606.15457)|null|
 |**2026-06-12**|**Diffusion-Refined Segmentation and Vision-Language Interpretation for Pediatric Brain Tumor MRI**|Wentao Ke et.al.|[2606.14072](http://arxiv.org/abs/2606.14072)|null|
 |**2026-06-11**|**Smoothed-KL Reweighting: A Principled Account and Matching Rule for SNR-Based Diffusion Training**|Lei Li et.al.|[2606.13433](http://arxiv.org/abs/2606.13433)|null|
 |**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
