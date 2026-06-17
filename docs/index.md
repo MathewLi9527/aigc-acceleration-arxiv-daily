@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.16
+### Automatically Updated on 2026.06.17
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Reasoning Text-to-Video Retrieval for Operating Room Clips via Action-Driven Digital Twins**|Yiqing Shen et.al.|[2606.17298](http://arxiv.org/abs/2606.17298)|null|
+|**2026-06-15**|**Pulling The REINS: Training-Free Safety Alignment of Video Diffusion Models via Representation Steering**|Rohit Kundu et.al.|[2606.17257](http://arxiv.org/abs/2606.17257)|null|
 |**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](http://arxiv.org/abs/2606.16742)|null|
 |**2026-06-15**|**RGFVR: Reference-Guided Face Video Restoration with Flow Matching**|Cem Eteke et.al.|[2606.16401](http://arxiv.org/abs/2606.16401)|null|
 |**2026-06-13**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
@@ -267,6 +269,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Multiscale reconstruction of protein conformations from cryo-EM images**|David Y. W. Thong et.al.|[2606.18058](http://arxiv.org/abs/2606.18058)|null|
+|**2026-06-16**|**Perceptually-Weighted Video Quality Metric for Asymmetric Encoded Sports Videos**|Anna Meyer et.al.|[2606.17869](http://arxiv.org/abs/2606.17869)|null|
+|**2026-06-16**|**Fine-UNETR for PSMA PET/CT Lesion Segmentation: Automated Tumor Quantification and Overall Survival Stratification in Prostate Cancer**|Mansour Abtahi et.al.|[2606.17570](http://arxiv.org/abs/2606.17570)|null|
+|**2026-06-16**|**Feynman Kac Reweighted Schrödinger Bridge Matching for Surface-Based Tau PET Harmonization**|Jianwei Zhang et.al.|[2606.17420](http://arxiv.org/abs/2606.17420)|null|
+|**2026-06-16**|**MeiBRD: Meta-Learning Intraoperative Biomechanical Residual Deformation**|Casey Meisenzahl et.al.|[2606.17379](http://arxiv.org/abs/2606.17379)|null|
+|**2026-06-15**|**Phenotyping TPF via Self-Supervised Learning: A Label-Agnostic Framework with Expert Validation**|Miral Elnakib et.al.|[2606.17295](http://arxiv.org/abs/2606.17295)|null|
+|**2026-06-15**|**Pulling The REINS: Training-Free Safety Alignment of Video Diffusion Models via Representation Steering**|Rohit Kundu et.al.|[2606.17257](http://arxiv.org/abs/2606.17257)|null|
 |**2026-06-15**|**R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies**|Xiuwei Xu et.al.|[2606.17040](http://arxiv.org/abs/2606.17040)|null|
 |**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**| DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
 |**2026-06-15**|**Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets**|Chirantan Sen Mukherjee et.al.|[2606.16951](http://arxiv.org/abs/2606.16951)|null|
@@ -1001,6 +1010,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Condition-Wise Sinkhorn Drifting for One-Shot Learned Channel Simulation**|Rick Fritschek et.al.|[2606.17893](http://arxiv.org/abs/2606.17893)|null|
+|**2026-06-16**|**Do We Really Need Diffusion? A Fast U-Net for Paired Medical Image Translation**|Alicia Pirwass et.al.|[2606.17675](http://arxiv.org/abs/2606.17675)|null|
 |**2026-06-15**|**Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks**|Eslam Eldeeb et.al.|[2606.16331](http://arxiv.org/abs/2606.16331)|null|
 |**2026-06-13**|**Lesion-DDPM: Lesion-Enhanced 3D Diffusion for MS MRI Synthesis**|Weidong Zhang et.al.|[2606.15457](http://arxiv.org/abs/2606.15457)|null|
 |**2026-06-12**|**Diffusion-Refined Segmentation and Vision-Language Interpretation for Pediatric Brain Tumor MRI**|Wentao Ke et.al.|[2606.14072](http://arxiv.org/abs/2606.14072)|null|
