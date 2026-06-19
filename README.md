@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.18
+### Automatically Updated on 2026.06.19
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -29,6 +29,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**LooseControlVideo: Directorial Video Control using Spatial Blocking**|Shariq Farooq Bhat et.al.|[2606.19495](http://arxiv.org/abs/2606.19495)|null|
 |**2026-06-17**|**Learning Robust Pair Confidence for Multimodal Emotion-Cause Pair Extraction**|Zhuangzhuang Pan et.al.|[2606.18893](http://arxiv.org/abs/2606.18893)|null|
 |**2026-06-16**|**Data-Forcing Distillation: Restoring Diversity and Fidelity in Few-Step Video Generation**|Siyi Chen et.al.|[2606.18478](http://arxiv.org/abs/2606.18478)|null|
 |**2026-06-16**|**CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation**|Sharath Girish et.al.|[2606.13768](http://arxiv.org/abs/2606.13768)|null|
@@ -275,12 +276,19 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
 |**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Zhenyu Xie et.al.|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## Image-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence**|Yalun Dai et.al.|[2606.20515](http://arxiv.org/abs/2606.20515)|null|
+|**2026-06-18**|**Pixel-Level Residual Diffusion Transformer: Scalable 3D CT Volume Generation**|Zhenkai Zhang et.al.|[2606.20112](http://arxiv.org/abs/2606.20112)|null|
+|**2026-06-18**|**The Hidden Evolution of Disguised Visual Context inside the VLM**|Wish Suharitdamrong et.al.|[2606.20077](http://arxiv.org/abs/2606.20077)|null|
+|**2026-06-18**|**SIMBA: ABidirectional Retrieval Forward Simulation Framework for Modeling FY-4A GIIRS Hyperspectral Infrared Radiances Toward NWP Applications**|Jingdong Shen et.al.|[2606.19943](http://arxiv.org/abs/2606.19943)|null|
+|**2026-06-18**|**Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance**|Qingyun Yang et.al.|[2606.19767](http://arxiv.org/abs/2606.19767)|null|
+|**2026-06-18**|**TeleMorpher: Toward Robust Simultaneous Motion-Location Editing**|Haengbok Chung et.al.|[2606.19676](http://arxiv.org/abs/2606.19676)|null|
+|**2026-06-17**|**FrequencyFormer: A Co-Designed Sensor-to-Processor Pipeline for Frequency-Domain Vision Transformer Inference**|Chengwei Zhou et.al.|[2606.19574](http://arxiv.org/abs/2606.19574)|null|
 |**2026-06-17**|**Beyond Algorithms: Conceptual Innovation in Medical Imaging AI**|Mark A. Anastasio et.al.|[2606.19270](http://arxiv.org/abs/2606.19270)|null|
 |**2026-06-17**|**Optimized Multi-Contrast Self-Supervised MRI Reconstruction using Learned k-space Partitioning**|Brenden Kadota et.al.|[2606.19182](http://arxiv.org/abs/2606.19182)|null|
 |**2026-06-17**|**Pulse: Training Acceleration for Large Diffusion Models with Automatic Pipeline Parallelism**|Boran Sun et.al.|[2606.19163](http://arxiv.org/abs/2606.19163)|null|
@@ -995,7 +1003,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184](http://arxiv.org/abs/2603.15184)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## Video Editing
 
@@ -1034,7 +1042,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -1047,6 +1055,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-06-15**|**Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks**|Eslam Eldeeb et.al.|[2606.16331](http://arxiv.org/abs/2606.16331)|null|
 |**2026-06-13**|**Lesion-DDPM: Lesion-Enhanced 3D Diffusion for MS MRI Synthesis**|Weidong Zhang et.al.|[2606.15457](http://arxiv.org/abs/2606.15457)|null|
 |**2026-06-12**|**Diffusion-Refined Segmentation and Vision-Language Interpretation for Pediatric Brain Tumor MRI**|Wentao Ke et.al.|[2606.14072](http://arxiv.org/abs/2606.14072)|null|
+|**2026-06-11**|**Performance Analysis and Optimization of 3D Generative Diffusion Models across GPU Architectures**|Jeeho Ryoo et.al.|[2606.19365](http://arxiv.org/abs/2606.19365)|null|
 |**2026-06-11**|**Smoothed-KL Reweighting: A Principled Account and Matching Rule for SNR-Based Diffusion Training**|Lei Li et.al.|[2606.13433](http://arxiv.org/abs/2606.13433)|null|
 |**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
 |**2026-06-08**|**PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws**|Danqi Zhuang et.al.|[2606.09816](http://arxiv.org/abs/2606.09816)|null|
@@ -1336,7 +1345,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-02**|**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**|Aryan Goyal et.al.|[2603.01686](http://arxiv.org/abs/2603.01686)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## Real-time Generation
 
@@ -1376,7 +1385,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-09**|**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**|Lei Wang et.al.|[2603.08258](http://arxiv.org/abs/2603.08258)|null|
 |**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## DiT Acceleration
 
@@ -1398,7 +1407,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2025-08-26**|**Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**|Liding Zhang et.al.|[2508.19168](http://arxiv.org/abs/2508.19168)|null|
 |**2025-05-16**|**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**|Haipeng Fang et.al.|[2505.11707](http://arxiv.org/abs/2505.11707)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 Notes: 
 
