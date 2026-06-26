@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.25
+### Automatically Updated on 2026.06.26
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
 |**2026-06-24**|**DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation**|Nan Chen et.al.|[2606.26058](http://arxiv.org/abs/2606.26058)|null|
 |**2026-06-24**|**Follow Your Track: Precise Skeleton Animation Controlled by 3D Trajectories**|Yueting Liu et.al.|[2606.25344](http://arxiv.org/abs/2606.25344)|null|
 |**2026-06-24**|**Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation**|Atin Pothiraj et.al.|[2606.25306](http://arxiv.org/abs/2606.25306)|null|
@@ -283,6 +284,23 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**SAM2Matting: Generalized Image and Video Matting**|Ruiqi Shen et.al.|[2606.27339](http://arxiv.org/abs/2606.27339)|null|
+|**2026-06-25**|**Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT**|Siqi Chen et.al.|[2606.27084](http://arxiv.org/abs/2606.27084)|null|
+|**2026-06-25**|**Enabling self-supervised learned primal dual with Noise2Inverse**|Antti Sällinen et.al.|[2606.26991](http://arxiv.org/abs/2606.26991)|null|
+|**2026-06-25**|**Event-based Gaze Control System for Accurate Real-time Spin Estimation in Professional Ball Games**|Yunpu Hu et.al.|[2606.26780](http://arxiv.org/abs/2606.26780)|null|
+|**2026-06-25**|**LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration**|Xuyue Huang et.al.|[2606.26778](http://arxiv.org/abs/2606.26778)|null|
+|**2026-06-25**|**Calibrated Harmonic Overlaid Implicit Neural Representations for Multi-Dimensional Data**|Honghang Chen et.al.|[2606.26763](http://arxiv.org/abs/2606.26763)|null|
+|**2026-06-25**|**Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution**|Haofei Song et.al.|[2606.26716](http://arxiv.org/abs/2606.26716)|null|
+|**2026-06-25**|**MLFFM-SegDiff: A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation**|Jingjun Gu et.al.|[2606.26712](http://arxiv.org/abs/2606.26712)|null|
+|**2026-06-25**|**Adaptive Randomized Pivoting for Tensor Singular Value Decomposition Model**|Ahmadsho Akdodshoev et.al.|[2606.26688](http://arxiv.org/abs/2606.26688)|null|
+|**2026-06-25**|**FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics**|Langyi Chen et.al.|[2606.26636](http://arxiv.org/abs/2606.26636)|null|
+|**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|null|
+|**2026-06-24**|**Revealing Mammographic Phenotypes in Deep Learning Breast Cancer Risk Models**|Ruiyu Jia et.al.|[2606.26431](http://arxiv.org/abs/2606.26431)|null|
+|**2026-06-24**|**Design Guidelines for In-line X-ray Inspection in Advanced Packaging Technology: A CoWoS Case Study**|Katayoon Yahyaei et.al.|[2606.26430](http://arxiv.org/abs/2606.26430)|null|
+|**2026-06-24**|**Nanoelectromechanical Systems (NEMS) for Hardware Security in Advanced Packaging**|Himanandhan Reddy Kottur et.al.|[2606.26426](http://arxiv.org/abs/2606.26426)|null|
+|**2026-06-24**|**An Evaluation of ABR Switching for Time-Shifted Clients in MoQ**|Abanisenioluwa Orojo et.al.|[2606.26368](http://arxiv.org/abs/2606.26368)|null|
+|**2026-06-24**|**Rendering Novel Views of MRI Using 3D Gaussian Splatting**|Robin Y. Park et.al.|[2606.26236](http://arxiv.org/abs/2606.26236)|null|
+|**2026-06-24**|**Self-Supervised Tree-level Biomass Estimation in Urban Environments From Airborne LiDAR and Optical Observations**|Jose Bermudez et.al.|[2606.26194](http://arxiv.org/abs/2606.26194)|null|
 |**2026-06-24**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](http://arxiv.org/abs/2606.25956)|null|
 |**2026-06-24**|**Improving Richardson--Lucy Deconvolution with Diffusion Priors for Fluorescence Microscopy**|Hao Chen et.al.|[2606.25924](http://arxiv.org/abs/2606.25924)|null|
 |**2026-06-24**|**1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis**|Raphaela Kreiser et.al.|[2606.25620](http://arxiv.org/abs/2606.25620)|null|
