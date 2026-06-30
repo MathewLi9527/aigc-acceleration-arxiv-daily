@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.28
+### Automatically Updated on 2026.06.30
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
 |**2026-06-24**|**DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation**|Nan Chen et.al.|[2606.26058](http://arxiv.org/abs/2606.26058)|null|
 |**2026-06-24**|**Follow Your Track: Precise Skeleton Animation Controlled by 3D Trajectories**|Yueting Liu et.al.|[2606.25344](http://arxiv.org/abs/2606.25344)|null|
@@ -284,6 +285,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking**|Kai Luo et.al.|[2606.30476](http://arxiv.org/abs/2606.30476)|null|
+|**2026-06-29**|**HiRes: A Hierarchical Cascaded Method for Resistor Value Identification**|Rama Y. AlHamidi et.al.|[2606.30179](http://arxiv.org/abs/2606.30179)|null|
+|**2026-06-29**|**CylindTrack: Depth-Aware Cylindrical Motion Modeling for Panoramic Multi-Object Tracking**|Buyin Deng et.al.|[2606.30097](http://arxiv.org/abs/2606.30097)|null|
+|**2026-06-29**|**Rigel: Self-Distilled Score Adaptation for Image and Video Captioning Evaluation**|Shuitsu Koyama et.al.|[2606.29997](http://arxiv.org/abs/2606.29997)|null|
+|**2026-06-29**|**A multi-architecture study of specificity refinement and false-positive mechanism analysis in prostate MRI**|Yongbo Shu et.al.|[2606.29977](http://arxiv.org/abs/2606.29977)|null|
+|**2026-06-29**|**Data-Efficient Multimodal Alignment for Histopathology-based Molecular Prediction**|Dominik Winter et.al.|[2606.29949](http://arxiv.org/abs/2606.29949)|null|
+|**2026-06-28**|**W4A4 Quantization for Inference on Wan2.2-I2V-A14B**|Yidong Chen et.al.|[2606.29337](http://arxiv.org/abs/2606.29337)|null|
+|**2026-06-28**|**Performance Analysis of Hardware-Accelerated 10-Bit 4:2:2 Encoding with Split-Frame Encoding for High-Fidelity V-PCC Streaming**|Kasidis Arunruangsirilert et.al.|[2606.29179](http://arxiv.org/abs/2606.29179)|null|
+|**2026-06-28**|**A Self-Supervised Learning Framework for Video Encoding Complexity Clustering**|Krishna Srikar Durbha et.al.|[2606.29166](http://arxiv.org/abs/2606.29166)|null|
+|**2026-06-28**|**Spatially Localized Image Degradation Embeddings for Image Quality Assessment**|Krishna Srikar Durbha et.al.|[2606.29162](http://arxiv.org/abs/2606.29162)|null|
+|**2026-06-27**|**Complete virtual unwrapping and reading of a rolled Herculaneum papyrus**|Giorgio Angelotti et.al.|[2606.29085](http://arxiv.org/abs/2606.29085)|null|
+|**2026-06-27**|**Learning from Acquisition: Metadata-driven Multimodal Pre-training for Cardiac MRI**|Xueyi Fu et.al.|[2606.28991](http://arxiv.org/abs/2606.28991)|null|
+|**2026-06-27**|**Cross-Sensor SAR Data Generation Using Diffusion Models and Feature Migration**|Xuanting Wu et.al.|[2606.28922](http://arxiv.org/abs/2606.28922)|null|
+|**2026-06-27**|**A Task-Driven and Quality-Assured Agent Framework for SAR Data Generation**|Xuanting Wu et.al.|[2606.28896](http://arxiv.org/abs/2606.28896)|null|
+|**2026-06-27**|**BLUE: A Stale-Pixel Optical-Flow Compositor for Entropy-Efficient Surveillance Video Encoding**|Shubham Baid et.al.|[2606.28753](http://arxiv.org/abs/2606.28753)|null|
+|**2026-06-27**|**A Neuroimaging Simulation Framework for Developing and Evaluating Causal AI**|Eryn Libert-Scott et.al.|[2606.28684](http://arxiv.org/abs/2606.28684)|null|
+|**2026-06-26**|**Envisage: Diffusion-Based Rhinoplasty Goal Visualization with Mask-Decomposed Evaluation**|Mudit Agarwal et.al.|[2606.28628](http://arxiv.org/abs/2606.28628)|null|
+|**2026-06-26**|**HDDPM: Heteroscedastic Denoising Diffusion Probabilistic Model for Quantitative Low-Count Brain PET Recovery**|Raymond Confidence et.al.|[2606.28513](http://arxiv.org/abs/2606.28513)|null|
+|**2026-06-26**|**Anatomy-Grounded Synthetic Coronary Angiography for Geometry-Informed Multi-View Matching**|In Kyu Lee et.al.|[2606.28474](http://arxiv.org/abs/2606.28474)|null|
+|**2026-06-26**|**Enhanced Neural Video Representation Compression across Extreme Complexity and Quality Scales**|Ho Man Kwan et.al.|[2606.28163](http://arxiv.org/abs/2606.28163)|null|
 |**2026-06-25**|**SAM2Matting: Generalized Image and Video Matting**|Ruiqi Shen et.al.|[2606.27339](http://arxiv.org/abs/2606.27339)|null|
 |**2026-06-25**|**Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT**|Siqi Chen et.al.|[2606.27084](http://arxiv.org/abs/2606.27084)|null|
 |**2026-06-25**|**Enabling self-supervised learned primal dual with Noise2Inverse**|Antti Sällinen et.al.|[2606.26991](http://arxiv.org/abs/2606.26991)|null|
@@ -1110,6 +1131,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation**|Wentao Qu et.al.|[2606.30147](http://arxiv.org/abs/2606.30147)|null|
+|**2026-06-26**|**HDDPM: Heteroscedastic Denoising Diffusion Probabilistic Model for Quantitative Low-Count Brain PET Recovery**|Raymond Confidence et.al.|[2606.28513](http://arxiv.org/abs/2606.28513)|null|
 |**2026-06-23**|**High-Fidelity Synthetic Transmission Electron Microscopy Image Generation Using Diffusion Probabilistic Models for Data-Limited Semiconductor Metrology**|Johannes Boehm et.al.|[2606.24817](http://arxiv.org/abs/2606.24817)|null|
 |**2026-06-23**|**The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space**|Yian Yao et.al.|[2606.24157](http://arxiv.org/abs/2606.24157)|null|
 |**2026-06-22**|**Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models**|Rishabh Sharma et.al.|[2606.24000](http://arxiv.org/abs/2606.24000)|null|
