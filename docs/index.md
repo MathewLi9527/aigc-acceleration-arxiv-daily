@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.06.30
+### Automatically Updated on 2026.07.02
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
 |**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
 |**2026-06-24**|**DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation**|Nan Chen et.al.|[2606.26058](http://arxiv.org/abs/2606.26058)|null|
@@ -285,6 +286,19 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Group-invariant Coresets for Data-efficient Active Learning**|L. C. Ayres et.al.|[2607.01089](http://arxiv.org/abs/2607.01089)|null|
+|**2026-07-01**|**Image-Domain Tilt Constrained Distributed Fusion for Maneuvering UAV Tracking with Multi-Camera Electro-Optical Observations**|Minxing Sun et.al.|[2607.01008](http://arxiv.org/abs/2607.01008)|null|
+|**2026-07-01**|**TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control**|Omer Sela et.al.|[2607.00861](http://arxiv.org/abs/2607.00861)|null|
+|**2026-07-01**|**Predicting Lethal Outcome (Cause) And Understanding Key Biomarkers Linked With Acute Myocardial Infarction Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies**|Sagnik Ghosh et.al.|[2607.00472](http://arxiv.org/abs/2607.00472)|null|
+|**2026-07-01**|**MalariAI: A Label-Resilient Decoupled Framework for Universal Cell Segmentation and Explainable Stage Classification in Dense Malaria Blood Smears**|Kaysarul Anas Apurba et.al.|[2607.00385](http://arxiv.org/abs/2607.00385)|null|
+|**2026-07-01**|**Enhancing Prostate Cancer Segmentation for Multi-Domain Generalization using a novel Parallel-Route Coherent Mixup Regularization Training**|Josiah Simeth et.al.|[2607.00370](http://arxiv.org/abs/2607.00370)|null|
+|**2026-07-01**|**Polarimetric SAR Model Fitting for Soil Moisture Retrieval: Study of PALSAR-2 data over a Heterogeneous Mine Environment in Finland**|Oleg Antropov et.al.|[2607.00294](http://arxiv.org/abs/2607.00294)|null|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033](http://arxiv.org/abs/2606.32033)|null|
+|**2026-06-30**|**ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs**|Yuhao Wang et.al.|[2606.31982](http://arxiv.org/abs/2606.31982)|null|
+|**2026-06-30**|**No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs**|Haojian Huang et.al.|[2606.31933](http://arxiv.org/abs/2606.31933)|null|
+|**2026-06-30**|**Distortion-Corrected Diffusion MRI Using Rotated-View EPI and Joint Field-Map/Image Estimation with Gaussian Primitives**|Wenqi Huang et.al.|[2606.31521](http://arxiv.org/abs/2606.31521)|null|
+|**2026-06-30**|**Accelerating Merge with Motion Vector Difference via Filter Difference Analysis for VVenC**|Xinmin Feng et.al.|[2606.31084](http://arxiv.org/abs/2606.31084)|null|
+|**2026-06-29**|**Exponential-Family Tensor Completion via Nonconvex Dual Total-Variation Regularization**|Wenfei Cao et.al.|[2606.30958](http://arxiv.org/abs/2606.30958)|null|
 |**2026-06-29**|**PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking**|Kai Luo et.al.|[2606.30476](http://arxiv.org/abs/2606.30476)|null|
 |**2026-06-29**|**HiRes: A Hierarchical Cascaded Method for Resistor Value Identification**|Rama Y. AlHamidi et.al.|[2606.30179](http://arxiv.org/abs/2606.30179)|null|
 |**2026-06-29**|**CylindTrack: Depth-Aware Cylindrical Motion Modeling for Panoramic Multi-Object Tracking**|Buyin Deng et.al.|[2606.30097](http://arxiv.org/abs/2606.30097)|null|
