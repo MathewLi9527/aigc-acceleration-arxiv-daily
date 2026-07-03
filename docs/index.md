@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.02
+### Automatically Updated on 2026.07.03
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Arachne: Orchestrating Cascades for Efficient Text-to-Video Model Training**|Peng Yu et.al.|[2607.01701](http://arxiv.org/abs/2607.01701)|null|
+|**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
 |**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
 |**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
@@ -286,6 +288,16 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**|Donghyun Lee et.al.|[2607.02461](http://arxiv.org/abs/2607.02461)|null|
+|**2026-07-02**|**MARVEL: Margin-Aware Robust von Mises-Fischer Expert Learning for Long-Tailed Out-of-Distribution Detection**|A. S. Anudeep et.al.|[2607.02435](http://arxiv.org/abs/2607.02435)|null|
+|**2026-07-02**|**Self-Auditing Residual Drifting for Pathology-Preserving Accelerated Knee MRI**|Qing Lyu et.al.|[2607.02428](http://arxiv.org/abs/2607.02428)|null|
+|**2026-07-02**|**Predicting Early Stages Of Alzheimer's Disease And Identifying Key Biomarkers Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies**|Debopriya Ghosh et.al.|[2607.02142](http://arxiv.org/abs/2607.02142)|null|
+|**2026-07-02**|**Population-Scale Segmentation of Penile Tissue in DIXON MRI using Deep Learning for Quantitative Phenotyping in Male Reproductive Health**|Jan Ernsting et.al.|[2607.02127](http://arxiv.org/abs/2607.02127)|null|
+|**2026-07-02**|**NeoMap: Training-free Novel-View Synthesis from Single Images and Videos**|Jinxi Li et.al.|[2607.01962](http://arxiv.org/abs/2607.01962)|null|
+|**2026-07-02**|**QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers**|Kyobin Choo et.al.|[2607.01869](http://arxiv.org/abs/2607.01869)|null|
+|**2026-07-02**|**Quantum-Inspired Vision: Leveraging Wave-Particle Duality for Low-Illumination Enhancement**|Yiquan Gao et.al.|[2607.01731](http://arxiv.org/abs/2607.01731)|null|
+|**2026-07-01**|**Anti-Prompt: Image Protection against Text-Guided Image-to-Video Generation**|Yeonghwan Song et.al.|[2607.01499](http://arxiv.org/abs/2607.01499)|null|
+|**2026-07-01**|**Rethinking Generic Object Tracking Toward Human-Level Perceptual Intelligence**|Shih-Fang Chen et.al.|[2607.01395](http://arxiv.org/abs/2607.01395)|null|
 |**2026-07-01**|**Group-invariant Coresets for Data-efficient Active Learning**|L. C. Ayres et.al.|[2607.01089](http://arxiv.org/abs/2607.01089)|null|
 |**2026-07-01**|**Image-Domain Tilt Constrained Distributed Fusion for Maneuvering UAV Tracking with Multi-Camera Electro-Optical Observations**|Minxing Sun et.al.|[2607.01008](http://arxiv.org/abs/2607.01008)|null|
 |**2026-07-01**|**TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control**|Omer Sela et.al.|[2607.00861](http://arxiv.org/abs/2607.00861)|null|
