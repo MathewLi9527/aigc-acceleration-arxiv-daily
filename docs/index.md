@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.08
+### Automatically Updated on 2026.07.09
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -295,10 +295,20 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Context-Aware Slum Mapping in Sub-Saharan Africa Using Sentinel-1 Texture and Local Climate Zones**|Peterson Chepkilot et.al.|[2607.07532](http://arxiv.org/abs/2607.07532)|null|
+|**2026-07-08**|**SoccerNet 2026 Challenges Results**|Anthony Cioppa et.al.|[2607.07320](http://arxiv.org/abs/2607.07320)|null|
+|**2026-07-08**|**Towards Accurate and Fast Clinical Body Composition: A Resource-Efficient Hierarchical Segmentation Framework for Multi-Source CT**|Xiaodi Shen et.al.|[2607.07177](http://arxiv.org/abs/2607.07177)|null|
+|**2026-07-08**|**Prior-matched evaluation of operational Earth-observation classifiers: a three-number reporting method demonstrated on Sentinel-1 internal-wave detection**|Joao Pinelo et.al.|[2607.07146](http://arxiv.org/abs/2607.07146)|null|
+|**2026-07-08**|**From Data Completeness to Data Sufficiency: A Task-Driven Imaging Framework for Intraoperative CBCT under Quality-Time-Dose Trade-offs**|Yi Jia et.al.|[2607.07039](http://arxiv.org/abs/2607.07039)|null|
+|**2026-07-08**|**AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning**|Kyuan Oh et.al.|[2607.07033](http://arxiv.org/abs/2607.07033)|null|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856](http://arxiv.org/abs/2607.06856)|null|
+|**2026-07-07**|**Format-Controlled Multi-Scale JPEG Compression Response Analysis for Image-Level Forgery Screening**|Sujith K Mandala et.al.|[2607.06615](http://arxiv.org/abs/2607.06615)|null|
 |**2026-07-07**|**TMF-RSE: Tri-Modal Fusion with Regional Semantics and Evidential Uncertainty for Lung Severity Scoring**|Fadi Abdeladhim Zidi et.al.|[2607.06356](http://arxiv.org/abs/2607.06356)|null|
 |**2026-07-07**|**Fast Alternating Radial Beamforming for Speed-of-Sound Imaging Based on Apparent Speckle Shifts**|Dieter Schweizer et.al.|[2607.06244](http://arxiv.org/abs/2607.06244)|null|
 |**2026-07-07**|**Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**|Tianyuan Zhang et.al.|[2607.05783](http://arxiv.org/abs/2607.05783)|null|
 |**2026-07-07**|**FORGE: Towards Functional Tool-Use Generalization via Keypoint Trajectory Reasoning**|Chuhao Zhou et.al.|[2607.05780](http://arxiv.org/abs/2607.05780)|null|
+|**2026-07-06**|**Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents**|Kelly Li et.al.|[2607.06598](http://arxiv.org/abs/2607.06598)|null|
+|**2026-07-06**|**Reconfigurable Radiology Labels Without Relabeling**|Jean-Benoit Delbrouck et.al.|[2607.06597](http://arxiv.org/abs/2607.06597)|null|
 |**2026-07-06**|**A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog**|Amir Pouladi et.al.|[2607.05467](http://arxiv.org/abs/2607.05467)|null|
 |**2026-07-06**|**FlowMark: Mask-Guided Video Watermarking**|Vishal Asnani et.al.|[2607.05261](http://arxiv.org/abs/2607.05261)|null|
 |**2026-07-06**|**Reduced-complexity Adaptive Loop Filtering via Input-dependent Graph Filters**|Wen-Yang Lu et.al.|[2607.04985](http://arxiv.org/abs/2607.04985)|null|
