@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.12
+### Automatically Updated on 2026.07.13
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 |**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
 |**2026-07-07**|**Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation**|Anna Córdoba et.al.|[2607.06481](http://arxiv.org/abs/2607.06481)|null|
 |**2026-07-07**|**FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration**|Jin Jiang et.al.|[2607.06389](http://arxiv.org/abs/2607.06389)|null|
@@ -296,12 +297,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Differential Analysis of Multispectral Images for Terrain Identification**|Omar Kashmar et.al.|[2607.09319](http://arxiv.org/abs/2607.09319)|null|
+|**2026-07-10**|**Joint-Embedding Predictive Architecture for Solar PV Panel Fault Classification**|Seyyedhamid Azimidokht et.al.|[2607.09205](http://arxiv.org/abs/2607.09205)|null|
+|**2026-07-10**|**Generative Communications: Overview, Technologies, and Trends**|Wenjun Zhang et.al.|[2607.09183](http://arxiv.org/abs/2607.09183)|null|
+|**2026-07-10**|**Beyond Metadata: CAPRA for Hidden Subgroup Analysis under Missing Metadata in Medical Imaging**|Yawen Li et.al.|[2607.09102](http://arxiv.org/abs/2607.09102)|null|
+|**2026-07-10**|**Partial-Reference IQA Based on Hermite-Gauss Structural Prediction and Texture Deviation**|Paolo Giannitrapani et.al.|[2607.08563](http://arxiv.org/abs/2607.08563)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
-|**2026-07-09**|**Partial-Reference IQA Based on Hermite-Gauss Structural Prediction and Texture Deviation**|Paolo Giannitrapani et.al.|[2607.08563](http://arxiv.org/abs/2607.08563)|null|
 |**2026-07-09**|**Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints**|Javier Izquierdo et.al.|[2607.08465](http://arxiv.org/abs/2607.08465)|null|
 |**2026-07-09**|**Classical versus Deep Mirror-Symmetry Scoring: A Benchmark of Thirteen Methods**|Maximilian Woehrer et.al.|[2607.08379](http://arxiv.org/abs/2607.08379)|null|
 |**2026-07-09**|**ConRad: Efficient Conformal Prediction for Radiomics**|Matt Y. Cheung et.al.|[2607.08084](http://arxiv.org/abs/2607.08084)|null|
 |**2026-07-09**|**SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft**|Yiyong Sun et.al.|[2607.08033](http://arxiv.org/abs/2607.08033)|null|
+|**2026-07-08**|**HemoPIC: A Physics-Informed Cerebral Hemodynamics Digital Twin for Brain Perfusion**|Yi-Chen Lee et.al.|[2607.08799](http://arxiv.org/abs/2607.08799)|null|
 |**2026-07-08**|**Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments**|Erik Jagnandan et.al.|[2607.07885](http://arxiv.org/abs/2607.07885)|null|
 |**2026-07-08**|**False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation**|Linus Juni et.al.|[2607.07852](http://arxiv.org/abs/2607.07852)|null|
 |**2026-07-08**|**Towards Robust Semantic Video Transmission over Block Erasure Channels**|Nargis Fayaz et.al.|[2607.07823](http://arxiv.org/abs/2607.07823)|null|
@@ -1211,6 +1217,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|null|
 |**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](http://arxiv.org/abs/2607.05636)|null|
 |**2026-06-29**|**T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation**|Wentao Qu et.al.|[2606.30147](http://arxiv.org/abs/2606.30147)|null|
 |**2026-06-26**|**HDDPM: Heteroscedastic Denoising Diffusion Probabilistic Model for Quantitative Low-Count Brain PET Recovery**|Raymond Confidence et.al.|[2606.28513](http://arxiv.org/abs/2606.28513)|null|
