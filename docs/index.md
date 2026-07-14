@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.13
+### Automatically Updated on 2026.07.14
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data**|Valentin Gabeff et.al.|[2607.09876](http://arxiv.org/abs/2607.09876)|null|
 |**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 |**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
 |**2026-07-07**|**Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation**|Anna Córdoba et.al.|[2607.06481](http://arxiv.org/abs/2607.06481)|null|
@@ -297,6 +298,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
+|**2026-07-13**|**Diffusion MRI preprocessing affects ADC estimation and automatic PI-RADS v2.1 classification in bi-parametric prostate MRI**|Christos Kanakis et.al.|[2607.11385](http://arxiv.org/abs/2607.11385)|null|
+|**2026-07-13**|**SAIL: Perceptual Quality-Aware Rate Control for Cloud Gaming**|Houde Qian et.al.|[2607.11231](http://arxiv.org/abs/2607.11231)|null|
+|**2026-07-12**|**X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance**|Mingxu Liu et.al.|[2607.10873](http://arxiv.org/abs/2607.10873)|null|
+|**2026-07-12**|**AU-Guided Synthetic Video Generation for Micro-Expression Recognition**|Pei-Sze Tan et.al.|[2607.10860](http://arxiv.org/abs/2607.10860)|null|
+|**2026-07-12**|**MUX-USCT: A Noise-Robust Neural Network for Ultrasound Computed Tomography**|Yuchen Yuan et.al.|[2607.10648](http://arxiv.org/abs/2607.10648)|null|
+|**2026-07-12**|**Quantum Compressed Sensing CT Reconstruction Algorithm Based on Penalized Weighted Least Squares and Guided Total Variation**|Yuwen Zhang et.al.|[2607.10566](http://arxiv.org/abs/2607.10566)|null|
+|**2026-07-12**|**Projection-Domain Sensitivity Analysis of Vertebral DRRs Under Intrinsic Calibration Perturbation**|Lin Li et.al.|[2607.10551](http://arxiv.org/abs/2607.10551)|null|
+|**2026-07-11**|**Differentiable Proxy Learning for Adaptive Quantization Control in H.264 Video Coding**|Qihan Xu et.al.|[2607.10478](http://arxiv.org/abs/2607.10478)|null|
+|**2026-07-11**|**On the Real-World Generalisability of Optical Flow Models**|Petter Reijalt et.al.|[2607.10470](http://arxiv.org/abs/2607.10470)|null|
+|**2026-07-11**|**Vertical Fusion: Condensing Internal Representations for Robust ViT Classification**|Francesco Di Salvo et.al.|[2607.10391](http://arxiv.org/abs/2607.10391)|null|
+|**2026-07-11**|**LFD: Enabling Real-World Lensless Face Recognition with a Large-Scale Dataset**|Junho Kim et.al.|[2607.10094](http://arxiv.org/abs/2607.10094)|null|
+|**2026-07-11**|**Label-Free Target-Domain Adaptation for Unconstrained Event-Image Feature Matching via Dual-Stage Distillation**|Zhonghua Yi et.al.|[2607.10082](http://arxiv.org/abs/2607.10082)|null|
+|**2026-07-11**|**A neuromorphic vision system for open-world visual intelligence**|Jiankai Yin et.al.|[2607.10066](http://arxiv.org/abs/2607.10066)|null|
+|**2026-07-10**|**Tomo-center: an AI-based rotation-axis center finder for synchrotron micro- and nano-tomography**|Songyuan Tang et.al.|[2607.09916](http://arxiv.org/abs/2607.09916)|null|
+|**2026-07-10**|**Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling**|Chicago Y. Park et.al.|[2607.09892](http://arxiv.org/abs/2607.09892)|null|
+|**2026-07-10**|**Slide-Level Active Learning Reduces Annotation Burden in H&E images**|Mahsa Vali et.al.|[2607.09831](http://arxiv.org/abs/2607.09831)|null|
+|**2026-07-10**|**Tracking Intermittent Particles with Self-Learned Visual Features**|Raphael Reme et.al.|[2607.09829](http://arxiv.org/abs/2607.09829)|null|
+|**2026-07-10**|**Robustness and Stability Analysis of Differentiable Shift-Variant FBP for Cone-Beam CT under Challenging Acquisition Settings**|Chengze Ye et.al.|[2607.09828](http://arxiv.org/abs/2607.09828)|null|
 |**2026-07-10**|**Differential Analysis of Multispectral Images for Terrain Identification**|Omar Kashmar et.al.|[2607.09319](http://arxiv.org/abs/2607.09319)|null|
 |**2026-07-10**|**Joint-Embedding Predictive Architecture for Solar PV Panel Fault Classification**|Seyyedhamid Azimidokht et.al.|[2607.09205](http://arxiv.org/abs/2607.09205)|null|
 |**2026-07-10**|**Generative Communications: Overview, Technologies, and Trends**|Wenjun Zhang et.al.|[2607.09183](http://arxiv.org/abs/2607.09183)|null|
