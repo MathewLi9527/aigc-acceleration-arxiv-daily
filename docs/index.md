@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.14
+### Automatically Updated on 2026.07.15
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
 |**2026-07-10**|**Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data**|Valentin Gabeff et.al.|[2607.09876](http://arxiv.org/abs/2607.09876)|null|
 |**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 |**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
@@ -34,7 +35,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|null|
 |**2026-07-02**|**Arachne: Orchestrating Cascades for Efficient Text-to-Video Model Training**|Peng Yu et.al.|[2607.01701](http://arxiv.org/abs/2607.01701)|null|
 |**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
-|**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
 |**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
 |**2026-06-24**|**DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation**|Nan Chen et.al.|[2606.26058](http://arxiv.org/abs/2606.26058)|null|
@@ -298,7 +298,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-14**|**Exact and Calibrated Diffusion Reconstruction for Digital Breast Tomosynthesis**|Imade Bouftini et.al.|[2607.12937](http://arxiv.org/abs/2607.12937)|null|
+|**2026-07-14**|**GeoFovea-GS: Geometry-Aware Cross-Layer Gaussian Splatting for Wireless Aerial VR**|Zeyi Ren et.al.|[2607.12641](http://arxiv.org/abs/2607.12641)|null|
+|**2026-07-14**|**Spatially-Aligned Chroma from Luma Prediction for Lossless JPEG XS Raw Image Compression**|Taizo Suzuki et.al.|[2607.12636](http://arxiv.org/abs/2607.12636)|null|
+|**2026-07-14**|**Improving Autonomous Nano-drones Performance via Automated End-to-End Optimization and Deployment of DNNs**|Vlad Niculescu et.al.|[2607.12593](http://arxiv.org/abs/2607.12593)|null|
+|**2026-07-14**|**Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function**|Xiao-qiang Zhai et.al.|[2607.12586](http://arxiv.org/abs/2607.12586)|null|
+|**2026-07-14**|**What Does Goodness Measure? A Likelihood-Ratio Account of Forward-Forward Learning**|Paolo Giannitrapani et.al.|[2607.12501](http://arxiv.org/abs/2607.12501)|null|
+|**2026-07-14**|**IQA-T1: Tool-based Visual Evidence Reasoning for Image Quality Assessment**|Jinjian Wu et.al.|[2607.12375](http://arxiv.org/abs/2607.12375)|null|
+|**2026-07-14**|**MobileSAM2: Lightweight Segment Anything for Spatial Intelligence**|Kai Jiang et.al.|[2607.12297](http://arxiv.org/abs/2607.12297)|null|
+|**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
+|**2026-07-13**|**Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification**|Sabahattin Mert Daloglu et.al.|[2607.12054](http://arxiv.org/abs/2607.12054)|null|
+|**2026-07-13**|**HPC-Enabled Video-based Coastal Wave Parameter Estimation Using V-JEPA and Deep Spatiotemporal Learning**|Abubakar Hamisu Kamagata et.al.|[2607.11998](http://arxiv.org/abs/2607.11998)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 |**2026-07-13**|**Diffusion MRI preprocessing affects ADC estimation and automatic PI-RADS v2.1 classification in bi-parametric prostate MRI**|Christos Kanakis et.al.|[2607.11385](http://arxiv.org/abs/2607.11385)|null|
 |**2026-07-13**|**SAIL: Perceptual Quality-Aware Rate Control for Cloud Gaming**|Houde Qian et.al.|[2607.11231](http://arxiv.org/abs/2607.11231)|null|
@@ -1238,6 +1249,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Uncertainty-Aware Crack Growth Forecasting via Conditional Denoising Diffusion Models for Phase-Field Fracture**|Jahnavi Krishna Koda et.al.|[2607.11971](http://arxiv.org/abs/2607.11971)|null|
 |**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|null|
 |**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](http://arxiv.org/abs/2607.05636)|null|
 |**2026-06-29**|**T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation**|Wentao Qu et.al.|[2606.30147](http://arxiv.org/abs/2606.30147)|null|
