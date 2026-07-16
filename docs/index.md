@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.15
+### Automatically Updated on 2026.07.16
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
+|**2026-07-15**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-07-14**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
 |**2026-07-10**|**Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data**|Valentin Gabeff et.al.|[2607.09876](http://arxiv.org/abs/2607.09876)|null|
 |**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
@@ -35,7 +37,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|null|
 |**2026-07-02**|**Arachne: Orchestrating Cascades for Efficient Text-to-Video Model Training**|Peng Yu et.al.|[2607.01701](http://arxiv.org/abs/2607.01701)|null|
 |**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
-|**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
 |**2026-06-24**|**DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation**|Nan Chen et.al.|[2606.26058](http://arxiv.org/abs/2606.26058)|null|
 |**2026-06-24**|**Follow Your Track: Precise Skeleton Animation Controlled by 3D Trajectories**|Yueting Liu et.al.|[2606.25344](http://arxiv.org/abs/2606.25344)|null|
@@ -298,17 +299,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](http://arxiv.org/abs/2607.13812)|null|
+|**2026-07-15**|**Prospective clinical indication, post-hoc report leakage, and fusion design in multi-image chest radiograph classification: a patient-clustered evaluation**|Kamran Shahid et.al.|[2607.13800](http://arxiv.org/abs/2607.13800)|null|
+|**2026-07-15**|**N-O Cool-chic: reconcile fast encoding with lightweight decoding for neural image compression**|Théophile Blard et.al.|[2607.13723](http://arxiv.org/abs/2607.13723)|null|
+|**2026-07-15**|**Video to All-in-focus Image Reconstruction Algorithm for Automated Microscopic Urinalysis**|Chinmay Nema et.al.|[2607.13601](http://arxiv.org/abs/2607.13601)|null|
+|**2026-07-15**|**Bring Music The Horizon: Music-Driven 360 $^\circ$ Video Generation**|Kai Hsu Tsai et.al.|[2607.13471](http://arxiv.org/abs/2607.13471)|null|
+|**2026-07-15**|**What Does Goodness Measure? A Likelihood-Ratio Account of Forward-Forward Learning**|Paolo Giannitrapani et.al.|[2607.12501](http://arxiv.org/abs/2607.12501)|null|
+|**2026-07-15**|**Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification**|Sabahattin Mert Daloglu et.al.|[2607.12054](http://arxiv.org/abs/2607.12054)|null|
+|**2026-07-14**|**Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization**|Yuxin Huang et.al.|[2607.13336](http://arxiv.org/abs/2607.13336)|null|
+|**2026-07-14**|**Continuously Evolving Deepfake Detection: An Architecture and Public-Benchmark Evaluation of a Dynamic Detection System**|Ken Jon Miyachi et.al.|[2607.13234](http://arxiv.org/abs/2607.13234)|null|
+|**2026-07-14**|**Efficient Computing for Medical Image Acquisition and Reconstruction**|Xiao Wang et.al.|[2607.13204](http://arxiv.org/abs/2607.13204)|null|
+|**2026-07-14**|**No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA**|Suraj Karki et.al.|[2607.13106](http://arxiv.org/abs/2607.13106)|null|
 |**2026-07-14**|**Exact and Calibrated Diffusion Reconstruction for Digital Breast Tomosynthesis**|Imade Bouftini et.al.|[2607.12937](http://arxiv.org/abs/2607.12937)|null|
 |**2026-07-14**|**GeoFovea-GS: Geometry-Aware Cross-Layer Gaussian Splatting for Wireless Aerial VR**|Zeyi Ren et.al.|[2607.12641](http://arxiv.org/abs/2607.12641)|null|
 |**2026-07-14**|**Spatially-Aligned Chroma from Luma Prediction for Lossless JPEG XS Raw Image Compression**|Taizo Suzuki et.al.|[2607.12636](http://arxiv.org/abs/2607.12636)|null|
 |**2026-07-14**|**Improving Autonomous Nano-drones Performance via Automated End-to-End Optimization and Deployment of DNNs**|Vlad Niculescu et.al.|[2607.12593](http://arxiv.org/abs/2607.12593)|null|
 |**2026-07-14**|**Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function**|Xiao-qiang Zhai et.al.|[2607.12586](http://arxiv.org/abs/2607.12586)|null|
-|**2026-07-14**|**What Does Goodness Measure? A Likelihood-Ratio Account of Forward-Forward Learning**|Paolo Giannitrapani et.al.|[2607.12501](http://arxiv.org/abs/2607.12501)|null|
 |**2026-07-14**|**IQA-T1: Tool-based Visual Evidence Reasoning for Image Quality Assessment**|Jinjian Wu et.al.|[2607.12375](http://arxiv.org/abs/2607.12375)|null|
 |**2026-07-14**|**MobileSAM2: Lightweight Segment Anything for Spatial Intelligence**|Kai Jiang et.al.|[2607.12297](http://arxiv.org/abs/2607.12297)|null|
 |**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-13**|**Calibrated Selective Prediction Using Deep Ensembles for ROI-Based Thyroid Nodule Ultrasound Classification Under Dataset Shift: A Retrospective Evaluation**|Md. Sadibul Hasan Sadib et.al.|[2607.12075](http://arxiv.org/abs/2607.12075)|null|
-|**2026-07-13**|**Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification**|Sabahattin Mert Daloglu et.al.|[2607.12054](http://arxiv.org/abs/2607.12054)|null|
 |**2026-07-13**|**HPC-Enabled Video-based Coastal Wave Parameter Estimation Using V-JEPA and Deep Spatiotemporal Learning**|Abubakar Hamisu Kamagata et.al.|[2607.11998](http://arxiv.org/abs/2607.11998)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 |**2026-07-13**|**Diffusion MRI preprocessing affects ADC estimation and automatic PI-RADS v2.1 classification in bi-parametric prostate MRI**|Christos Kanakis et.al.|[2607.11385](http://arxiv.org/abs/2607.11385)|null|
