@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.16
+### Automatically Updated on 2026.07.17
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships**|Xinyu Liu et.al.|[2607.14681](http://arxiv.org/abs/2607.14681)|null|
+|**2026-07-16**|**Uni-AdaVD: Universal Concept Erasure for Visual Generation via Orthogonal Value Decomposition**|Qifan Zhou et.al.|[2607.14521](http://arxiv.org/abs/2607.14521)|null|
+|**2026-07-15**|**Inference-Time Concept Suppression and Video-Centric Evaluation for Text-to-Video Models**|Wenxuan Chen et.al.|[2607.14194](http://arxiv.org/abs/2607.14194)|null|
 |**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
 |**2026-07-15**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-07-14**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
@@ -299,8 +302,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**|Yushi Huang et.al.|[2607.15273](http://arxiv.org/abs/2607.15273)|null|
+|**2026-07-16**|**ESAR: Event-Based Synthetic Aperture Reconstruction**|Harbir Antil et.al.|[2607.15073](http://arxiv.org/abs/2607.15073)|null|
+|**2026-07-16**|**Deep Scene-Driven Ordering of Hadamard Basis for Single-Pixel Spectral Imaging**|Brayan Monroy et.al.|[2607.15045](http://arxiv.org/abs/2607.15045)|null|
+|**2026-07-16**|**Domain Adaptation of Mismatched Proximal Denoiser for Plug-and-Play Image Reconstruction**|Guixian Xu et.al.|[2607.14894](http://arxiv.org/abs/2607.14894)|null|
+|**2026-07-16**|**ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships**|Xinyu Liu et.al.|[2607.14681](http://arxiv.org/abs/2607.14681)|null|
+|**2026-07-16**|**Compression of 3D Gaussian Splatting Data Using GPU-friendly Graphics Texture Coding**|Amir Said et.al.|[2607.14513](http://arxiv.org/abs/2607.14513)|null|
+|**2026-07-16**|**Prospective clinical indication, post-hoc report leakage, and fusion design in multi-image chest radiograph classification: a patient-clustered evaluation**|Kamran Shahid et.al.|[2607.13800](http://arxiv.org/abs/2607.13800)|null|
+|**2026-07-15**|**Emergent Region-Level Facial Correspondence in Frozen Vision Foundation Models**|Izaldein Al-Zyoud et.al.|[2607.14423](http://arxiv.org/abs/2607.14423)|null|
+|**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|
+|**2026-07-15**|**FORCE-Interior: A Poisson Flow Generative Prior for Interior Tomography Reconstruction**|Kang Chen et.al.|[2607.14320](http://arxiv.org/abs/2607.14320)|null|
+|**2026-07-15**|**3D Lane Detection with Odometry for High-Speed Vehicle Racing**|Omoruyi Atekha et.al.|[2607.14248](http://arxiv.org/abs/2607.14248)|null|
+|**2026-07-15**|**A Hybrid Framework for Blood Vessel Morphology Classification: Discrete Geometry-based Tortuosity Feature Measurement, Information Gain-based Feature Selection, and Random Forest Classification**|Yu Zhong et.al.|[2607.14195](http://arxiv.org/abs/2607.14195)|null|
+|**2026-07-15**|**RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination**|Haotian Liang et.al.|[2607.14187](http://arxiv.org/abs/2607.14187)|null|
+|**2026-07-15**|**OvAi Focus: AI-based Multi-class Segmentation of Functional Ovaries and Adnexal Masses in Gynecological Ultrasound**|Niccolò Tallone et.al.|[2607.14179](http://arxiv.org/abs/2607.14179)|null|
 |**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](http://arxiv.org/abs/2607.13812)|null|
-|**2026-07-15**|**Prospective clinical indication, post-hoc report leakage, and fusion design in multi-image chest radiograph classification: a patient-clustered evaluation**|Kamran Shahid et.al.|[2607.13800](http://arxiv.org/abs/2607.13800)|null|
 |**2026-07-15**|**N-O Cool-chic: reconcile fast encoding with lightweight decoding for neural image compression**|Théophile Blard et.al.|[2607.13723](http://arxiv.org/abs/2607.13723)|null|
 |**2026-07-15**|**Video to All-in-focus Image Reconstruction Algorithm for Automated Microscopic Urinalysis**|Chinmay Nema et.al.|[2607.13601](http://arxiv.org/abs/2607.13601)|null|
 |**2026-07-15**|**Bring Music The Horizon: Music-Driven 360 $^\circ$ Video Generation**|Kai Hsu Tsai et.al.|[2607.13471](http://arxiv.org/abs/2607.13471)|null|
