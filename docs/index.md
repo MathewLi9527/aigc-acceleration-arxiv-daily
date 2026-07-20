@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.19
+### Automatically Updated on 2026.07.20
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -302,6 +302,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs**|Like Liu et.al.|[2607.16193](http://arxiv.org/abs/2607.16193)|null|
+|**2026-07-17**|**FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation**|Hao Liu et.al.|[2607.16190](http://arxiv.org/abs/2607.16190)|null|
+|**2026-07-17**|**Physics-Based Deep Spatiotemporal Hyperlocal Radar Nowcasting with a Multi-Variable U-Net for High-Resolution Precipitation Forecasting**|Akshay Sunil et.al.|[2607.16080](http://arxiv.org/abs/2607.16080)|null|
+|**2026-07-17**|**Robust Monitoring of Arc Welding Processes: A Generalizable Framework with DVAE and Particle Filter**|Yue Cao et.al.|[2607.16013](http://arxiv.org/abs/2607.16013)|null|
+|**2026-07-17**|**DebrisTracer: Reliable Tracking in Hypervelocity Impact Fast Imaging**|Théophane Loloum et.al.|[2607.15986](http://arxiv.org/abs/2607.15986)|null|
+|**2026-07-17**|**DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction**|Chi Zhang et.al.|[2607.15846](http://arxiv.org/abs/2607.15846)|null|
+|**2026-07-17**|**MSTF-Net: A UAV-Oriented Multi-Spectral Video Segmentation Method via Modality-Robust, Scale-Adaptive, and Consistent Fusion**|Chenwei Wang et.al.|[2607.15628](http://arxiv.org/abs/2607.15628)|null|
+|**2026-07-17**|**Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models**|Rakshanda Hassan Abhinandan et.al.|[2607.15565](http://arxiv.org/abs/2607.15565)|null|
 |**2026-07-16**|**MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**|Yushi Huang et.al.|[2607.15273](http://arxiv.org/abs/2607.15273)|null|
 |**2026-07-16**|**ESAR: Event-Based Synthetic Aperture Reconstruction**|Harbir Antil et.al.|[2607.15073](http://arxiv.org/abs/2607.15073)|null|
 |**2026-07-16**|**Deep Scene-Driven Ordering of Hadamard Basis for Single-Pixel Spectral Imaging**|Brayan Monroy et.al.|[2607.15045](http://arxiv.org/abs/2607.15045)|null|
