@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.20
+### Automatically Updated on 2026.07.21
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation**|Zhenjie Liu et.al.|[2607.17985](http://arxiv.org/abs/2607.17985)|null|
+|**2026-07-19**|**Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models**|Xingkai Peng et.al.|[2607.17279](http://arxiv.org/abs/2607.17279)|null|
+|**2026-07-19**|**The generator is the tracker: Multi-object tracking by painting persistent identity colours**|Haiyu Yang et.al.|[2607.17120](http://arxiv.org/abs/2607.17120)|null|
+|**2026-07-18**|**When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation**|Siwei Meng et.al.|[2607.16947](http://arxiv.org/abs/2607.16947)|null|
+|**2026-07-18**|**Multi-Dimensional Quality Assessment for AI-Generated Human-Centric Videos: Dataset and Model**|Sijing Wu et.al.|[2607.16742](http://arxiv.org/abs/2607.16742)|null|
 |**2026-07-16**|**ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships**|Xinyu Liu et.al.|[2607.14681](http://arxiv.org/abs/2607.14681)|null|
 |**2026-07-16**|**Uni-AdaVD: Universal Concept Erasure for Visual Generation via Orthogonal Value Decomposition**|Qifan Zhou et.al.|[2607.14521](http://arxiv.org/abs/2607.14521)|null|
 |**2026-07-15**|**Inference-Time Concept Suppression and Video-Centric Evaluation for Text-to-Video Models**|Wenxuan Chen et.al.|[2607.14194](http://arxiv.org/abs/2607.14194)|null|
@@ -302,6 +307,16 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry**|Dingyun Zhang et.al.|[2607.18227](http://arxiv.org/abs/2607.18227)|null|
+|**2026-07-20**|**SAMRI-3D: Adapting SAM2 for 3D MRI Segmentation with Global Volume Tokens**|Zhao Wang et.al.|[2607.18014](http://arxiv.org/abs/2607.18014)|null|
+|**2026-07-20**|**Remote Awareness of Seafloor Images Collected by AUVs over Low-Bandwidth Communication Links**|Adrian Bodenmann et.al.|[2607.18013](http://arxiv.org/abs/2607.18013)|null|
+|**2026-07-20**|**Luminosity-Adaptive Contrast Enhancement Using CLAHE for Retinal Fundus Images with Quantitative Validation and Comparative Analysis**|K. Mithra et.al.|[2607.17691](http://arxiv.org/abs/2607.17691)|null|
+|**2026-07-20**|**Attention from Above: A Multimodal Model for Drone-Based Object Localization**|Hyun-Ki Jung et.al.|[2607.17669](http://arxiv.org/abs/2607.17669)|null|
+|**2026-07-19**|**Stability and Robustness Analysis of Regularized Reconstruction Methods for Low-Dose Computed Tomography in Parallel-Beam Geometry**|Mohamed Berrada et.al.|[2607.17298](http://arxiv.org/abs/2607.17298)|null|
+|**2026-07-19**|**Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction**|Tharusha Fonseka et.al.|[2607.17042](http://arxiv.org/abs/2607.17042)|null|
+|**2026-07-18**|**C3DIR: A Deep Learning 3-Dimensional Cloud Property Retrieval Scheme for Passive Satellite Imagers**|Charles H. White et.al.|[2607.16929](http://arxiv.org/abs/2607.16929)|null|
+|**2026-07-18**|**A Unified Multisensor Machine-Learning Framework for Live Fuel Moisture Content Retrieval**|Valerio Pampanoni et.al.|[2607.16714](http://arxiv.org/abs/2607.16714)|null|
+|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|null|
 |**2026-07-17**|**Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs**|Like Liu et.al.|[2607.16193](http://arxiv.org/abs/2607.16193)|null|
 |**2026-07-17**|**FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation**|Hao Liu et.al.|[2607.16190](http://arxiv.org/abs/2607.16190)|null|
 |**2026-07-17**|**Physics-Based Deep Spatiotemporal Hyperlocal Radar Nowcasting with a Multi-Variable U-Net for High-Resolution Precipitation Forecasting**|Akshay Sunil et.al.|[2607.16080](http://arxiv.org/abs/2607.16080)|null|
