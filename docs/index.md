@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.26
+### Automatically Updated on 2026.07.27
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -313,6 +313,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434](http://arxiv.org/abs/2607.22434)|null|
+|**2026-07-24**|**Time-Reversed Imaging: A Multimodal Benchmark and Framework for Reconstructing Past Human-Environment Interactions**|Jorge Bacca et.al.|[2607.22352](http://arxiv.org/abs/2607.22352)|null|
+|**2026-07-24**|**The Lift Spectrum: How Measurement-to-Space Adaptivity Shapes Robustness in Image-Free Single-Pixel Sensing**|Yuyuan Han et.al.|[2607.22077](http://arxiv.org/abs/2607.22077)|null|
+|**2026-07-24**|**Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement**|Mohammadreza Narimani et.al.|[2607.21881](http://arxiv.org/abs/2607.21881)|null|
+|**2026-07-23**|**Toward High-Fidelity 3D Point-Cloud Learning for Brain Folding Morphology Prediction Using Trans-Unet**|Geran Zhao et.al.|[2607.21840](http://arxiv.org/abs/2607.21840)|null|
+|**2026-07-23**|**Quantum Adaptive Sensing for Accelerated MRI**|Asmit Ganguly et.al.|[2607.21737](http://arxiv.org/abs/2607.21737)|null|
 |**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
 |**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-23**|**HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors**|Siyu Li et.al.|[2607.21281](http://arxiv.org/abs/2607.21281)|null|
@@ -1324,6 +1330,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Spectral Prior for Reducing Exposure Bias in Diffusion Models**|Yuya Kobayashi et.al.|[2607.22091](http://arxiv.org/abs/2607.22091)|null|
 |**2026-07-21**|**Denoising Subordinated Probabilistic Models: Diffusion with a Tempered-Stable Volatility Clock, and What the Noise Mechanism Actually Controls**|Junchi Shen et.al.|[2607.19218](http://arxiv.org/abs/2607.19218)|null|
 |**2026-07-13**|**SevDiff: Severity-Conditioned Diffusion for Long-Tail Conflict Trajectory Generation**|Eni Solomon Laughter et.al.|[2607.20549](http://arxiv.org/abs/2607.20549)|null|
 |**2026-07-13**|**Uncertainty-Aware Crack Growth Forecasting via Conditional Denoising Diffusion Models for Phase-Field Fracture**|Jahnavi Krishna Koda et.al.|[2607.11971](http://arxiv.org/abs/2607.11971)|null|
