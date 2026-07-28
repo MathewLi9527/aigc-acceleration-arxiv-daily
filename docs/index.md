@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.27
+### Automatically Updated on 2026.07.28
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
 |**2026-07-23**|**GroupVideo: Multi-Identity Customized Text-to-Video Generation**|Xinyang Song et.al.|[2607.21027](http://arxiv.org/abs/2607.21027)|null|
 |**2026-07-23**|**Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval**|Kyeongmo Chae et.al.|[2607.20984](http://arxiv.org/abs/2607.20984)|null|
 |**2026-07-22**|**OSVE: One Step Video Editing with One Step Diffusion Models**|Habin Lim et.al.|[2607.19895](http://arxiv.org/abs/2607.19895)|null|
@@ -313,6 +314,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Efficient Ultrasound Image Segmentation with Token-Conditioned Neural Cellular Automata**|Fangyijie Wang et.al.|[2607.24529](http://arxiv.org/abs/2607.24529)|null|
+|**2026-07-27**|**Rapid quantitative chemical composition mapping using model-based MRI reconstruction with field inhomogeneity correction**|Artyom Tsanda et.al.|[2607.24441](http://arxiv.org/abs/2607.24441)|null|
+|**2026-07-27**|**RPG-VST: Robust Poisson-Gaussian Variance Stabilization for Blind RAW Denoising**|Wenbin Wang et.al.|[2607.24291](http://arxiv.org/abs/2607.24291)|null|
+|**2026-07-27**|**When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents**|Marina Gardella et.al.|[2607.24077](http://arxiv.org/abs/2607.24077)|null|
+|**2026-07-27**|**Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification**|Haopeng Li et.al.|[2607.24027](http://arxiv.org/abs/2607.24027)|null|
+|**2026-07-26**|**OmniCache: Multidimensional Hierarchical Feature Caching For Diffusion Models**|Zhaoyuan He et.al.|[2607.23844](http://arxiv.org/abs/2607.23844)|null|
+|**2026-07-26**|**A Controlled Visual-Backbone Benchmark for Multimodal Short-Term Solar Irradiance Forecasting**|Oshadha Samarakoon et.al.|[2607.23633](http://arxiv.org/abs/2607.23633)|null|
+|**2026-07-26**|**Segmentation Robustness and Predictive Utility in Glioblastoma Radiomics: Evidence for a Trade-off in Survival Modelling**|Mariya Miteva et.al.|[2607.23626](http://arxiv.org/abs/2607.23626)|null|
+|**2026-07-26**|**Collusion-Resistant Image-Agnostic Watermarking for Multi-Screen Shooting**|Mingyue Chen et.al.|[2607.23553](http://arxiv.org/abs/2607.23553)|null|
+|**2026-07-26**|**VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation**|Tianxiao Chen et.al.|[2607.23472](http://arxiv.org/abs/2607.23472)|null|
+|**2026-07-26**|**Direction-adaptive Mamba: Spatial-Frequency Dual-Domain Collaborative Learning for PolSAR Image Classification**|Junfei Shi et.al.|[2607.23464](http://arxiv.org/abs/2607.23464)|null|
+|**2026-07-25**|**Investigating the Visual Cues of CNNs for Vascular Segmentation: A Case Study in Microscopy and Fundus Imaging**|Weslley dos Santos Silva et.al.|[2607.23371](http://arxiv.org/abs/2607.23371)|null|
+|**2026-07-25**|**Codebook Capacity Governs Perceptual Quality Across Resolutions in Hierarchical Discrete Video Compression**|Manikanta Kotthapalli et.al.|[2607.23366](http://arxiv.org/abs/2607.23366)|null|
+|**2026-07-25**|**Trainable Nonexpansive Denoisers for Contractive Image Reconstruction**|Arghya Sinha et.al.|[2607.23347](http://arxiv.org/abs/2607.23347)|null|
+|**2026-07-25**|**Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration**|Minheng Chen et.al.|[2607.23343](http://arxiv.org/abs/2607.23343)|null|
+|**2026-07-25**|**Stabilizing Deep Reconstruction Operators with Contractive Anchoring**|Arghya Sinha et.al.|[2607.23341](http://arxiv.org/abs/2607.23341)|null|
+|**2026-07-25**|**A Reference-Free Framework for Evaluating Single-Frame ISP Pipelines**|Yujin Cho et.al.|[2607.23321](http://arxiv.org/abs/2607.23321)|null|
+|**2026-07-25**|**Optimized Embedded Implementation of Hyperspectral-Multispectral Image Fusion on Raspberry Pi**|Salah Eddine Brezini et.al.|[2607.23136](http://arxiv.org/abs/2607.23136)|null|
+|**2026-07-25**|**PriSAR: 3D Geometric-Prior-Guided Diffusion for Parameter-Controlled SAR Image Generation**|Fan Zhang et.al.|[2607.22963](http://arxiv.org/abs/2607.22963)|null|
+|**2026-07-25**|**HALLELUAI: A Hallucination-Aware AI System for Ultra-Realistic Image-to-Video Generation at Scale**|Aniket Sakpal et.al.|[2607.22959](http://arxiv.org/abs/2607.22959)|null|
 |**2026-07-24**|**Robot Learning to Communicate through Projected Visual Abstractions**|Danyang Yan et.al.|[2607.22434](http://arxiv.org/abs/2607.22434)|null|
 |**2026-07-24**|**Time-Reversed Imaging: A Multimodal Benchmark and Framework for Reconstructing Past Human-Environment Interactions**|Jorge Bacca et.al.|[2607.22352](http://arxiv.org/abs/2607.22352)|null|
 |**2026-07-24**|**The Lift Spectrum: How Measurement-to-Space Adaptivity Shapes Robustness in Image-Free Single-Pixel Sensing**|Yuyuan Han et.al.|[2607.22077](http://arxiv.org/abs/2607.22077)|null|
@@ -1330,6 +1351,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**Perturbation-Aware Diffusion-Guided Hybrid Segmentation for Robust and Annotation-Efficient Plant Stress Phenotyping**|Gurbhit Chaurakoti et.al.|[2607.23680](http://arxiv.org/abs/2607.23680)|null|
 |**2026-07-24**|**Spectral Prior for Reducing Exposure Bias in Diffusion Models**|Yuya Kobayashi et.al.|[2607.22091](http://arxiv.org/abs/2607.22091)|null|
 |**2026-07-21**|**Denoising Subordinated Probabilistic Models: Diffusion with a Tempered-Stable Volatility Clock, and What the Noise Mechanism Actually Controls**|Junchi Shen et.al.|[2607.19218](http://arxiv.org/abs/2607.19218)|null|
 |**2026-07-13**|**SevDiff: Severity-Conditioned Diffusion for Long-Tail Conflict Trajectory Generation**|Eni Solomon Laughter et.al.|[2607.20549](http://arxiv.org/abs/2607.20549)|null|
