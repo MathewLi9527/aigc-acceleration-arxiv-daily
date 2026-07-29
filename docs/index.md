@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.28
+### Automatically Updated on 2026.07.29
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
 |**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
 |**2026-07-23**|**GroupVideo: Multi-Identity Customized Text-to-Video Generation**|Xinyang Song et.al.|[2607.21027](http://arxiv.org/abs/2607.21027)|null|
 |**2026-07-23**|**Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval**|Kyeongmo Chae et.al.|[2607.20984](http://arxiv.org/abs/2607.20984)|null|
@@ -314,6 +315,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Wonder: Video World Model Done Better**|Jiacong Xu et.al.|[2607.26037](http://arxiv.org/abs/2607.26037)|null|
+|**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
+|**2026-07-28**|**SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming**|Muhammad Talha et.al.|[2607.25971](http://arxiv.org/abs/2607.25971)|null|
+|**2026-07-28**|**Face De-Identification: A Domain-Centric Survey from Capture to Processing**|Hui Wei et.al.|[2607.25926](http://arxiv.org/abs/2607.25926)|null|
+|**2026-07-28**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
+|**2026-07-28**|**Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision**|Ruijie Su et.al.|[2607.25321](http://arxiv.org/abs/2607.25321)|null|
+|**2026-07-28**|**Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection**|Sagar Lekhak et.al.|[2607.25310](http://arxiv.org/abs/2607.25310)|null|
+|**2026-07-28**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|null|
+|**2026-07-27**|**Analysis of the Shortcut Learning and Clever Hans Effect in CNN based ECG Image Classification**|Abhay Kumar Pathak et.al.|[2607.25117](http://arxiv.org/abs/2607.25117)|null|
+|**2026-07-27**|**OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**|Zihan Li et.al.|[2607.25108](http://arxiv.org/abs/2607.25108)|null|
+|**2026-07-27**|**Low-Latency Generative Semantic Communication via Channel-Realization Flow Matching**|Fan Gao et.al.|[2607.24876](http://arxiv.org/abs/2607.24876)|null|
 |**2026-07-27**|**Efficient Ultrasound Image Segmentation with Token-Conditioned Neural Cellular Automata**|Fangyijie Wang et.al.|[2607.24529](http://arxiv.org/abs/2607.24529)|null|
 |**2026-07-27**|**Rapid quantitative chemical composition mapping using model-based MRI reconstruction with field inhomogeneity correction**|Artyom Tsanda et.al.|[2607.24441](http://arxiv.org/abs/2607.24441)|null|
 |**2026-07-27**|**RPG-VST: Robust Poisson-Gaussian Variance Stabilization for Blind RAW Denoising**|Wenbin Wang et.al.|[2607.24291](http://arxiv.org/abs/2607.24291)|null|
@@ -1351,6 +1363,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
+|**2026-07-28**|**T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation**|Wentao Qu et.al.|[2606.30147](http://arxiv.org/abs/2606.30147)|null|
 |**2026-07-26**|**Perturbation-Aware Diffusion-Guided Hybrid Segmentation for Robust and Annotation-Efficient Plant Stress Phenotyping**|Gurbhit Chaurakoti et.al.|[2607.23680](http://arxiv.org/abs/2607.23680)|null|
 |**2026-07-24**|**Spectral Prior for Reducing Exposure Bias in Diffusion Models**|Yuya Kobayashi et.al.|[2607.22091](http://arxiv.org/abs/2607.22091)|null|
 |**2026-07-21**|**Denoising Subordinated Probabilistic Models: Diffusion with a Tempered-Stable Volatility Clock, and What the Noise Mechanism Actually Controls**|Junchi Shen et.al.|[2607.19218](http://arxiv.org/abs/2607.19218)|null|
@@ -1358,7 +1372,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-07-13**|**Uncertainty-Aware Crack Growth Forecasting via Conditional Denoising Diffusion Models for Phase-Field Fracture**|Jahnavi Krishna Koda et.al.|[2607.11971](http://arxiv.org/abs/2607.11971)|null|
 |**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|null|
 |**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](http://arxiv.org/abs/2607.05636)|null|
-|**2026-06-29**|**T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation**|Wentao Qu et.al.|[2606.30147](http://arxiv.org/abs/2606.30147)|null|
 |**2026-06-26**|**HDDPM: Heteroscedastic Denoising Diffusion Probabilistic Model for Quantitative Low-Count Brain PET Recovery**|Raymond Confidence et.al.|[2606.28513](http://arxiv.org/abs/2606.28513)|null|
 |**2026-06-23**|**High-Fidelity Synthetic Transmission Electron Microscopy Image Generation Using Diffusion Probabilistic Models for Data-Limited Semiconductor Metrology**|Johannes Boehm et.al.|[2606.24817](http://arxiv.org/abs/2606.24817)|null|
 |**2026-06-23**|**The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space**|Yian Yao et.al.|[2606.24157](http://arxiv.org/abs/2606.24157)|null|
