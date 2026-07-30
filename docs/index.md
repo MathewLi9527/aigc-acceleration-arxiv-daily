@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.07.29
+### Automatically Updated on 2026.07.30
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,8 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models**|Taewon Kang et.al.|[2607.26706](http://arxiv.org/abs/2607.26706)|null|
+|**2026-07-29**|**Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation**|Xiangbo Gao et.al.|[2607.26694](http://arxiv.org/abs/2607.26694)|null|
+|**2026-07-29**|**CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling**|Yuyang Huang et.al.|[2607.26529](http://arxiv.org/abs/2607.26529)|null|
+|**2026-07-29**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
 |**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
-|**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
 |**2026-07-23**|**GroupVideo: Multi-Identity Customized Text-to-Video Generation**|Xinyang Song et.al.|[2607.21027](http://arxiv.org/abs/2607.21027)|null|
 |**2026-07-23**|**Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval**|Kyeongmo Chae et.al.|[2607.20984](http://arxiv.org/abs/2607.20984)|null|
 |**2026-07-22**|**OSVE: One Step Video Editing with One Step Diffusion Models**|Habin Lim et.al.|[2607.19895](http://arxiv.org/abs/2607.19895)|null|
@@ -315,14 +318,24 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**An Attention-Based Framework for Alzheimers Disease Classification Using Resting-State fMRI**|Harshiddhi Pathak et.al.|[2607.26746](http://arxiv.org/abs/2607.26746)|null|
+|**2026-07-29**|**Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation**|Xiangbo Gao et.al.|[2607.26694](http://arxiv.org/abs/2607.26694)|null|
+|**2026-07-29**|**Multi-scale radiomics in pelvic MRI for endometriosis subtyping: highlighting data heterogeneity constraints**|Eliot Leguy et.al.|[2607.26692](http://arxiv.org/abs/2607.26692)|null|
+|**2026-07-29**|**Decoder-Guided Lossy Contour Coding Via Anchor Refinement**|Ruoyu Yang et.al.|[2607.26426](http://arxiv.org/abs/2607.26426)|null|
+|**2026-07-29**|**SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming**|Muhammad Talha et.al.|[2607.25971](http://arxiv.org/abs/2607.25971)|null|
+|**2026-07-29**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
+|**2026-07-29**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|null|
+|**2026-07-28**|**Reeling It In: Flexible Needle Pick Up via Thread Manipulation for Autonomous Suturing**|Emma Huang et.al.|[2607.26337](http://arxiv.org/abs/2607.26337)|null|
+|**2026-07-28**|**Rethinking Clinical Relevance in Chest X-ray Machine Learning: How Evaluation References Define Performance**|Panagiotis Fytas et.al.|[2607.26333](http://arxiv.org/abs/2607.26333)|null|
+|**2026-07-28**|**Lightweight Image Classification of Raptor Species for Edge Devices: Rare-Species Dataset Expansion via Video Frame Extraction, Knowledge Distillation, and TensorRT Deployment**|Takeshi Nishikawa et.al.|[2607.26238](http://arxiv.org/abs/2607.26238)|null|
+|**2026-07-28**|**A Hierarchical Framework for Graph Structure Learning in Histopathology Image Classification**|Sudipta Paul et.al.|[2607.26153](http://arxiv.org/abs/2607.26153)|null|
+|**2026-07-28**|**ScalablePromptus: Scalable and High-Fidelity Prompt-Based Video Streaming**|Zehao Cao et.al.|[2607.26106](http://arxiv.org/abs/2607.26106)|null|
 |**2026-07-28**|**Wonder: Video World Model Done Better**|Jiacong Xu et.al.|[2607.26037](http://arxiv.org/abs/2607.26037)|null|
 |**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
-|**2026-07-28**|**SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming**|Muhammad Talha et.al.|[2607.25971](http://arxiv.org/abs/2607.25971)|null|
 |**2026-07-28**|**Face De-Identification: A Domain-Centric Survey from Capture to Processing**|Hui Wei et.al.|[2607.25926](http://arxiv.org/abs/2607.25926)|null|
-|**2026-07-28**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
 |**2026-07-28**|**Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision**|Ruijie Su et.al.|[2607.25321](http://arxiv.org/abs/2607.25321)|null|
 |**2026-07-28**|**Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection**|Sagar Lekhak et.al.|[2607.25310](http://arxiv.org/abs/2607.25310)|null|
-|**2026-07-28**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|null|
+|**2026-07-27**|**Shape-Based Inductive Bias for Glioma Grading from Tumor Contours**|Puneet Velidi et.al.|[2607.26090](http://arxiv.org/abs/2607.26090)|null|
 |**2026-07-27**|**Analysis of the Shortcut Learning and Clever Hans Effect in CNN based ECG Image Classification**|Abhay Kumar Pathak et.al.|[2607.25117](http://arxiv.org/abs/2607.25117)|null|
 |**2026-07-27**|**OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**|Zihan Li et.al.|[2607.25108](http://arxiv.org/abs/2607.25108)|null|
 |**2026-07-27**|**Low-Latency Generative Semantic Communication via Channel-Realization Flow Matching**|Fan Gao et.al.|[2607.24876](http://arxiv.org/abs/2607.24876)|null|
