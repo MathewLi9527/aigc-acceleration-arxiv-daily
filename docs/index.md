@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.02
+### Automatically Updated on 2026.08.03
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -320,6 +320,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Chong Gao et.al.|[2607.29545](http://arxiv.org/abs/2607.29545)|null|
+|**2026-07-31**|**MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification**|Sebastian Doerrich et.al.|[2607.29462](http://arxiv.org/abs/2607.29462)|null|
+|**2026-07-31**|**Few-shot Deep Learning for Phase-Amplitude Aberration Correction in Transcranial Focused Ultrasound**|Minju Seol et.al.|[2607.29182](http://arxiv.org/abs/2607.29182)|null|
+|**2026-07-31**|**A Biometric Sensor Network to Enable Real-Time Measurement of Individual Student Engagement in STEM Lecture Environments**|Ahmed Elsayed et.al.|[2607.28944](http://arxiv.org/abs/2607.28944)|null|
+|**2026-07-30**|**Simulative Anomaly Detection using 2D Tomography**|Moti Ben-Harush et.al.|[2607.28701](http://arxiv.org/abs/2607.28701)|null|
+|**2026-07-30**|**Optical Flow Sensor: A Direction-Selective Bionic Retina Design**|Juchen Zhou et.al.|[2607.28686](http://arxiv.org/abs/2607.28686)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
 |**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611](http://arxiv.org/abs/2607.28611)|null|
 |**2026-07-30**|**RefCaptioner: Multi-Reference Image-Grounded Video Captioning**|Tengfei Liu et.al.|[2607.28509](http://arxiv.org/abs/2607.28509)|null|
@@ -1390,6 +1396,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**DualDiT: A Conditional Dual-Output Diffusion Transformer for Joint OCT Image and Segmentation Mask Generation**|Fernando García-Torres et.al.|[2607.29337](http://arxiv.org/abs/2607.29337)|null|
 |**2026-07-30**|**FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation**|Lifeng Zhuo et.al.|[2607.28596](http://arxiv.org/abs/2607.28596)|null|
 |**2026-07-30**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
 |**2026-07-28**|**T2LDM++: A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation**|Wentao Qu et.al.|[2606.30147](http://arxiv.org/abs/2606.30147)|null|
