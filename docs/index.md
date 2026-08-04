@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.03
+### Automatically Updated on 2026.08.04
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation**|Xianjing Han et.al.|[2608.01942](http://arxiv.org/abs/2608.01942)|null|
+|**2026-08-01**|**Diagnosing Under-Development of Irreversible Processes in Video Generation**|Jian Xu et.al.|[2608.00617](http://arxiv.org/abs/2608.00617)|null|
+|**2026-08-01**|**PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval**|Xiaolun Jing et.al.|[2608.00551](http://arxiv.org/abs/2608.00551)|null|
 |**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
 |**2026-07-29**|**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System**|Haodong Li et.al.|[2607.27380](http://arxiv.org/abs/2607.27380)|null|
 |**2026-07-29**|**TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models**|Taewon Kang et.al.|[2607.26706](http://arxiv.org/abs/2607.26706)|null|
@@ -320,6 +323,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Estimating SSIM from MSE for DCT-Based Compressed Images**|Luc Trudeau et.al.|[2608.02549](http://arxiv.org/abs/2608.02549)|null|
+|**2026-08-03**|**Token Radius Attention for Efficient Video Generation**|Jiayu Chen et.al.|[2608.02504](http://arxiv.org/abs/2608.02504)|null|
+|**2026-08-03**|**Joint Retrieval of Radial Wind, Terminal Fall Velocity, and Median Diameter From Single-Polarization Fast-Scanning Weather Radar**|Tworit K. Dash et.al.|[2608.02364](http://arxiv.org/abs/2608.02364)|null|
+|**2026-08-03**|**An Accessible Solution for Deformable Image Registration Compared with Learning-Based Approaches**|Onur Ali Zeybekoglu et.al.|[2608.02248](http://arxiv.org/abs/2608.02248)|null|
+|**2026-08-03**|**HiResNets: Native Full-HD Video Recognition with Foveal Residual Streams**|Shivani Mall et.al.|[2608.02140](http://arxiv.org/abs/2608.02140)|null|
+|**2026-08-03**|**Protocol generalisation for brain tissue microstructure estimation via hypernetwork-controlled geometric deep learning**|Andrea Brigliadori et.al.|[2608.02053](http://arxiv.org/abs/2608.02053)|null|
+|**2026-08-03**|**Mapping melliferous tree species in Kenya via one-class classification with hyperspectral unsupervised domain adaptation**|Zhaozhi Luo et.al.|[2608.02045](http://arxiv.org/abs/2608.02045)|null|
+|**2026-08-03**|**UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation**|Liming Tan et.al.|[2608.01944](http://arxiv.org/abs/2608.01944)|null|
+|**2026-08-03**|**MoCRA: Mixture of Compositional Rank-1 Atoms for 4K All-in-One Video Restoration**|Yongcong Wang et.al.|[2608.01829](http://arxiv.org/abs/2608.01829)|null|
+|**2026-08-03**|**Hadamard-Domain Model Quantization for Learned Image Coding**|Junqi Shi et.al.|[2608.01653](http://arxiv.org/abs/2608.01653)|null|
+|**2026-08-02**|**Spinal-Multiple-Myeloma-SEG: A Dual-Energy CT Dataset Extended with Trabecular Bone Segmentation of Lumbar Vertebrae**|Michal Nohel et.al.|[2608.01482](http://arxiv.org/abs/2608.01482)|null|
+|**2026-08-02**|**Clear-Weighted Bit Allocation for Satellite Downlinks**|Alireza Furutanpey et.al.|[2608.01457](http://arxiv.org/abs/2608.01457)|null|
+|**2026-08-02**|**Zellige: Moldable Sequence Placement for Mixed Image-Video DiT Training**|Guangyu Xiang et.al.|[2608.01150](http://arxiv.org/abs/2608.01150)|null|
+|**2026-08-02**|**SSR: Similarity-Shift Refinement for Training-Free Object-Centric Masks**|Xiaoqian Lu et.al.|[2608.01103](http://arxiv.org/abs/2608.01103)|null|
+|**2026-08-02**|**Swimm3R: Splatting with Medium-aware SfM for Underwater 3D Reconstruction**|Minseong Kweon et.al.|[2608.00950](http://arxiv.org/abs/2608.00950)|null|
+|**2026-08-01**|**MBO Scheme for Local Chan--Vese Segmentation**|Kevin Bui et.al.|[2608.00893](http://arxiv.org/abs/2608.00893)|null|
+|**2026-08-01**|**DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents**|Tongsheng Ding et.al.|[2608.00486](http://arxiv.org/abs/2608.00486)|null|
+|**2026-08-01**|**Streamable Neural Video Compression: A Mixed Precision Approach for Cross-Platform Deployment**|Kasidis Arunruangsirilert et.al.|[2608.00483](http://arxiv.org/abs/2608.00483)|null|
+|**2026-07-31**|**Fused electrical impedance tomography using an electromagnetically tracked handheld probe for oral cancer margin assessment: reconstruction methods and phantom validation**|Sophie A Lloyd et.al.|[2608.00312](http://arxiv.org/abs/2608.00312)|null|
+|**2026-07-31**|**Learning to See Locally and Align Clinically with Pathology Semantics for Radiology Report Generation**|Xuan Cuong Ngo et.al.|[2608.00279](http://arxiv.org/abs/2608.00279)|null|
 |**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Chong Gao et.al.|[2607.29545](http://arxiv.org/abs/2607.29545)|null|
 |**2026-07-31**|**MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification**|Sebastian Doerrich et.al.|[2607.29462](http://arxiv.org/abs/2607.29462)|null|
 |**2026-07-31**|**Few-shot Deep Learning for Phase-Amplitude Aberration Correction in Transcranial Focused Ultrasound**|Minju Seol et.al.|[2607.29182](http://arxiv.org/abs/2607.29182)|null|
