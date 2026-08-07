@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.06
+### Automatically Updated on 2026.08.07
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation**|Bingyuan Wang et.al.|[2608.06231](http://arxiv.org/abs/2608.06231)|null|
+|**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**| Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
+|**2026-08-06**|**LC-GRPO: Bridging Train-Inference Gap for Flow-Based GRPO with Langevin Correction**|Yingqing Guo et.al.|[2608.05600](http://arxiv.org/abs/2608.05600)|null|
 |**2026-08-05**|**Reading Between the Frames: Interpreting Implicit and Non-literal Meaning in Social Media Videos**|Yang Wang et.al.|[2608.04939](http://arxiv.org/abs/2608.04939)|null|
 |**2026-08-05**|**MetaVideoAgent: Automated Video-Agent Evolution for Long-Form Video Understanding**|Benlei Cui et.al.|[2608.04587](http://arxiv.org/abs/2608.04587)|null|
 |**2026-08-04**|**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference**|Shanghao Liu et.al.|[2608.03335](http://arxiv.org/abs/2608.03335)|null|
@@ -328,6 +331,16 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN**|Arash Nedaei et.al.|[2608.06275](http://arxiv.org/abs/2608.06275)|null|
+|**2026-08-06**|**OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations**|Robin Trombetta et.al.|[2608.06264](http://arxiv.org/abs/2608.06264)|null|
+|**2026-08-06**|**EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation**|Bingyuan Wang et.al.|[2608.06231](http://arxiv.org/abs/2608.06231)|null|
+|**2026-08-06**|**Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training**|Rui Li et.al.|[2608.06125](http://arxiv.org/abs/2608.06125)|null|
+|**2026-08-06**|**Integrating Implicit and Explicit Relational Biases through Graph-Based Multiple Instance Learning: A Case Study in Skin Lesion Diagnosis**|Rafał Buler et.al.|[2608.06037](http://arxiv.org/abs/2608.06037)|null|
+|**2026-08-06**|**Hyperspectral Calibration Detection: A Novel Concept For Change Detection With Unsupervised Incremental Safe Pseudo-Labeling Implementation**|Chia-Hsiang Lin et.al.|[2608.06028](http://arxiv.org/abs/2608.06028)|null|
+|**2026-08-06**|**GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models**|Shuai Wang et.al.|[2608.05948](http://arxiv.org/abs/2608.05948)|null|
+|**2026-08-06**|**Accurate Localization of Road Traffic Objects on the Road Plane Using Surveillance Camera Imagery**|Jan Gawroński et.al.|[2608.05840](http://arxiv.org/abs/2608.05840)|null|
+|**2026-08-06**|**KVAE: Family of Tokenizers for Multimodal Generative Models**|Andrey Shutkin et.al.|[2608.05798](http://arxiv.org/abs/2608.05798)|null|
+|**2026-08-05**|**A Foundational EDM2-Based Generative Model for High-Resolution Synthetic Fetal Ultrasound Imaging from Open Datasets**|Harvey Mannering et.al.|[2608.05471](http://arxiv.org/abs/2608.05471)|null|
 |**2026-08-05**|**AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance**|Wayne Wonseok Rodgers et.al.|[2608.05109](http://arxiv.org/abs/2608.05109)|null|
 |**2026-08-05**|**DefoEye: Python-Based Software for Facilitating Time-Series InSAR Analysis of Sentinel-1 Remote-Sensing Data**|Alireza Taheri Dehkordi et.al.|[2608.04915](http://arxiv.org/abs/2608.04915)|null|
 |**2026-08-05**|**CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding**|Zhenyu Yi et.al.|[2608.04515](http://arxiv.org/abs/2608.04515)|null|
