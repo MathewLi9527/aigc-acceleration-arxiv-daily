@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.11
+### Automatically Updated on 2026.08.12
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013](http://arxiv.org/abs/2608.11013)|null|
+|**2026-08-11**|**SafeCA: Safe Cross-Attention Localization and Regulation for Text-to-Video Jailbreak Defense**|Siyuan Liang et.al.|[2608.10933](http://arxiv.org/abs/2608.10933)|null|
+|**2026-08-11**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
+|**2026-08-11**|**SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis**|Jongbeom Lee et.al.|[2608.10519](http://arxiv.org/abs/2608.10519)|null|
+|**2026-08-10**|**ConnectionMind: Leveraging Social Networks and Large Language Models for Personalized Recommendation at Meta**|Haoyu Han et.al.|[2608.10187](http://arxiv.org/abs/2608.10187)|null|
 |**2026-08-10**|**Agreement-Based Audio-Visual Segmentation:Champion Report for the MeViS-Audio Track in the 8th LSVOS Challenge**|Yiwen Ren et.al.|[2608.09475](http://arxiv.org/abs/2608.09475)|null|
 |**2026-08-10**|**RAVEN-Eval: Rubric-Guided Automatic Evaluation for AI Video Generation Models Based on LMM Preference Judgement**|Ziheng Jia et.al.|[2608.09111](http://arxiv.org/abs/2608.09111)|null|
 |**2026-08-08**|**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System**|Haodong Li et.al.|[2607.27380](http://arxiv.org/abs/2607.27380)|null|
@@ -334,6 +339,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Kiet T. Nguyen et.al.|[2608.10864](http://arxiv.org/abs/2608.10864)|null|
+|**2026-08-11**|**An Information Theory Analysis of Whole Slide Image Pathology AI and Diagnostic Field Selection AI Under Limited Resources**|Tatsuaki Tsuruyama et.al.|[2608.10846](http://arxiv.org/abs/2608.10846)|null|
+|**2026-08-11**|**Media-over-Multipath-QUIC for Realtime Video Applications**|Tanya Shreedhar et.al.|[2608.10741](http://arxiv.org/abs/2608.10741)|null|
+|**2026-08-11**|**Retrieval-Augmented Vision Foundation Models for Robust Leukemia Cell Classification across Multiple Microscopy Datasets**|Carlos Zamora et.al.|[2608.10657](http://arxiv.org/abs/2608.10657)|null|
+|**2026-08-11**|**SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis**|Jongbeom Lee et.al.|[2608.10519](http://arxiv.org/abs/2608.10519)|null|
+|**2026-08-11**|**SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception**|Yiyang Su et.al.|[2608.10497](http://arxiv.org/abs/2608.10497)|null|
+|**2026-08-11**|**Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation**|Guixu Lin et.al.|[2608.10479](http://arxiv.org/abs/2608.10479)|null|
+|**2026-08-11**|**Automatic Field-of-View Adjustment for a View-Expansive Microscope via LSTM-Based Gaze and Pipette Motion Interpretation**|Kenta Yokoe et.al.|[2608.10401](http://arxiv.org/abs/2608.10401)|null|
+|**2026-08-11**|**Visual-to-Haptic Augmentation in XR: A Wearable Glove for Perceptual Grounding in Multimodal Interaction**|Faisal Mohd et.al.|[2608.10368](http://arxiv.org/abs/2608.10368)|null|
+|**2026-08-10**|**BreastMammo and DenseMammo: Benchmarks for Mammography Domain Generalization**|Hongyi Pan et.al.|[2608.10271](http://arxiv.org/abs/2608.10271)|null|
+|**2026-08-10**|**Signpost Watermarking: Joint Optimization for Visual Watermark Coexistence**|Shruti Agarwal et.al.|[2608.10091](http://arxiv.org/abs/2608.10091)|null|
+|**2026-08-10**|**When Repository Labels Are Not Image-Level Truth: A Supervision Auditing Framework for Chest Radiograph AI**|Yesika Alexandra Agudelo-Londoño et.al.|[2608.10084](http://arxiv.org/abs/2608.10084)|null|
 |**2026-08-10**|**Unrolling a Graph-Laplacian Denoiser Realizes Only Compositions of Polynomial Graph Filters**|Seyed Alireza Hosseini et.al.|[2608.09923](http://arxiv.org/abs/2608.09923)|null|
 |**2026-08-10**|**C $^2$ A: Coupling Spatial Evidence with Clinical Priors via Co-occurrence Aware Class Attention for Multi-Label Chest X-Ray Classification**|Akash Gogineni et.al.|[2608.09774](http://arxiv.org/abs/2608.09774)|null|
 |**2026-08-10**|**Disentangling Co-Occurring Retinal Pathologies with Saliency-Guided Sparse Expert Routing**|Nagur Shareef Shaik et.al.|[2608.09752](http://arxiv.org/abs/2608.09752)|null|
@@ -1482,7 +1499,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-10**|**Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation**|Hossein Goli et.al.|[2608.09385](http://arxiv.org/abs/2608.09385)|null|
+|**2026-08-11**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ziming Li et.al.|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
+|**2026-08-11**|**Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation**|Farzan Farnia et.al.|[2608.09385](http://arxiv.org/abs/2608.09385)|null|
 |**2026-08-09**|**Toward CT-Equivalent Image Quality in Low-Dose Radiotherapy Planning: Conditional Diffusion-Based CBCT-to-CT Synthesis and the Impact of CBCT Input Representation**|Alzahra Altalib et.al.|[2608.08919](http://arxiv.org/abs/2608.08919)|null|
 |**2026-08-09**|**FiRe: Fixed-Noise Refinement for Visual Counterfactual Explanations**|Yan Zeng et.al.|[2608.08664](http://arxiv.org/abs/2608.08664)|null|
 |**2026-08-09**|**eBIRD: Event-based Intensity Image Reconstruction Using Controllable Diffusion Models**|Ignacio Bugueno-Cordova et.al.|[2608.08519](http://arxiv.org/abs/2608.08519)|null|
