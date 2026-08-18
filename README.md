@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.17
+### Automatically Updated on 2026.08.18
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -29,6 +29,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation**|Animesh Karnewar et.al.|[2608.16585](http://arxiv.org/abs/2608.16585)|null|
+|**2026-08-17**|**MLLM-Guided Semantic Correction for Text-to-Video Generation**|Junhao Chen et.al.|[2608.16513](http://arxiv.org/abs/2608.16513)|null|
 |**2026-08-14**|**Beyond Text Conditioning: A Systematic Study of MLLM-DiT Fusion for Video Generation**|Yanbo Ding et.al.|[2608.14043](http://arxiv.org/abs/2608.14043)|null|
 |**2026-08-14**|**Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization**|Guillaume Jeanneret et.al.|[2608.13037](http://arxiv.org/abs/2608.13037)|null|
 |**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|null|
@@ -348,12 +350,31 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
 |**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Zhenyu Xie et.al.|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## Image-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](http://arxiv.org/abs/2608.16832)|null|
+|**2026-08-17**|**CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?**|Jonathan Sadeghi et.al.|[2608.16829](http://arxiv.org/abs/2608.16829)|null|
+|**2026-08-17**|**Seeing Before Answering: Training-Free Visual Layer Profiling for Vision-Language Models**|Ruchen Liu et.al.|[2608.16263](http://arxiv.org/abs/2608.16263)|null|
+|**2026-08-17**|**A cross-modal generative model for incomplete and degraded prostate MRI with multicentre clinical validation**|Siyuan Ma et.al.|[2608.16233](http://arxiv.org/abs/2608.16233)|null|
+|**2026-08-17**|**BiCRVC: An Efficient Bidirectional Neural Video Compression Framework via Coupled Representation Coding**|Wei Jiang et.al.|[2608.16175](http://arxiv.org/abs/2608.16175)|null|
+|**2026-08-17**|**Decoupling Parcellation from Classification: Systematic Benchmark of Fast Brain Segmentation Methods for Alzheimer's Disease Detection**|Jiadao Zou et.al.|[2608.16039](http://arxiv.org/abs/2608.16039)|null|
+|**2026-08-16**|**Deep learning-based computed tomography (CT) derived body composition classifier for colorectal cancer patients**|Eve Harling et.al.|[2608.15712](http://arxiv.org/abs/2608.15712)|null|
+|**2026-08-16**|**Underwater Color Restoration with Vanishing Uncertainty**|Grigory Solomatov et.al.|[2608.15598](http://arxiv.org/abs/2608.15598)|null|
+|**2026-08-16**|**CrossView: Can Vision-Language Models Reason Across Cameras?**|Sahil Shah et.al.|[2608.15539](http://arxiv.org/abs/2608.15539)|null|
+|**2026-08-15**|**Dual-Branch State-Displacement Network for Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2608.15423](http://arxiv.org/abs/2608.15423)|null|
+|**2026-08-15**|**A survey of AI-generated voices and their detection**|Chengzhe Sun et.al.|[2608.15411](http://arxiv.org/abs/2608.15411)|null|
+|**2026-08-15**|**ENAF: A Multi-Exit Network with an Adaptive Patch Fusion for Large Image Super Resolution**|Duong M. Nguyen et.al.|[2608.15349](http://arxiv.org/abs/2608.15349)|null|
+|**2026-08-15**|**RemiVoice: Supporting Reminiscence Therapy for Older Adults with Mild Dementia Through Voice-First Conversational AI**|Aaryan Gajula et.al.|[2608.15273](http://arxiv.org/abs/2608.15273)|null|
+|**2026-08-15**|**Multi-Channel Feature Fusion and Monte Carlo Dropout for Uncertainty-Aware Diabetic Retinopathy Grading**|Saksham Kumar et.al.|[2608.15234](http://arxiv.org/abs/2608.15234)|null|
+|**2026-08-15**|**MODAL: Multi-Modal Object Re-ID via Model-Driven Sparse Decoupling and Text-Image Differential Filtering**|Chengbo Huang et.al.|[2608.15096](http://arxiv.org/abs/2608.15096)|null|
+|**2026-08-15**|**Flexible Deep Joint Source-Channel Coding: A Vibrotactile Example**|Shuijie Li et.al.|[2608.15070](http://arxiv.org/abs/2608.15070)|null|
+|**2026-08-15**|**ParaJSCC: A Parameterized Framework for Reusable Multimodal Joint Source-Channel Coding**|Kemi Chen et.al.|[2608.15066](http://arxiv.org/abs/2608.15066)|null|
+|**2026-08-15**|**PathFinder: Joint Decompositions of Linked Multimodal Datasets**|Ying-Qiu Zheng et.al.|[2608.14951](http://arxiv.org/abs/2608.14951)|null|
+|**2026-08-14**|**Modality-Invariant Coarse-to-Fine Retinal Image Registration**|Bo Wen et.al.|[2608.14829](http://arxiv.org/abs/2608.14829)|null|
 |**2026-08-14**|**UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI**|Mahdi Saberi et.al.|[2608.14422](http://arxiv.org/abs/2608.14422)|null|
 |**2026-08-14**|**Personalized Digital Semantic Communication for Image Transmission with Vision-Language Models**|Nan Li et.al.|[2608.14260](http://arxiv.org/abs/2608.14260)|null|
 |**2026-08-14**|**A Subjective Study on a New Sharpness Informed Class of Metrics**|Uditangshu Aurangabadkar et.al.|[2608.13989](http://arxiv.org/abs/2608.13989)|null|
@@ -1505,7 +1526,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184](http://arxiv.org/abs/2603.15184)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## Video Editing
 
@@ -1544,12 +1565,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## Diffusion Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Synthetic Data Augmentation for Satellite-Based Analysis of Battle-Damaged Agricultural Fields in Ukraine**|Marta Sumyk et.al.|[2608.16380](http://arxiv.org/abs/2608.16380)|null|
+|**2026-08-17**|**RadioVIL: Anomaly-Aware Diffusion Models for Radio Map Inpainting and Zero-Shot Vehicle Localization**|Ruixin Zhao et.al.|[2608.16167](http://arxiv.org/abs/2608.16167)|null|
 |**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](http://arxiv.org/abs/2608.13791)|null|
 |**2026-08-13**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ziming Li et.al.|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
 |**2026-08-11**|**Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation**|Farzan Farnia et.al.|[2608.09385](http://arxiv.org/abs/2608.09385)|null|
@@ -1872,7 +1895,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-02**|**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**|Aryan Goyal et.al.|[2603.01686](http://arxiv.org/abs/2603.01686)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## Real-time Generation
 
@@ -1912,7 +1935,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-09**|**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**|Lei Wang et.al.|[2603.08258](http://arxiv.org/abs/2603.08258)|null|
 |**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## DiT Acceleration
 
@@ -1934,7 +1957,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2025-08-26**|**Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**|Liding Zhang et.al.|[2508.19168](http://arxiv.org/abs/2508.19168)|null|
 |**2025-05-16**|**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**|Haipeng Fang et.al.|[2505.11707](http://arxiv.org/abs/2505.11707)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 Notes: 
 
