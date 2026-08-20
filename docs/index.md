@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.19
+### Automatically Updated on 2026.08.20
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-18**|**TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection**|Yearang Lee et.al.|[2608.17422](http://arxiv.org/abs/2608.17422)|null|
 |**2026-08-17**|**SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation**|Animesh Karnewar et.al.|[2608.16585](http://arxiv.org/abs/2608.16585)|null|
 |**2026-08-17**|**MLLM-Guided Semantic Correction for Text-to-Video Generation**|Junhao Chen et.al.|[2608.16513](http://arxiv.org/abs/2608.16513)|null|
@@ -347,7 +348,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-18**|**Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction**|Veronika Spieker et.al.|[2608.18055](http://arxiv.org/abs/2608.18055)|null|
+|**2026-08-19**|**Simple, Safe, and Overlooked: Reclaiming Sustainable Domain Generalization with Statistical Color Matching**|Sebastian Doerrich et.al.|[2608.18915](http://arxiv.org/abs/2608.18915)|null|
+|**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|null|
+|**2026-08-19**|**Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction**|Veronika Spieker et.al.|[2608.18055](http://arxiv.org/abs/2608.18055)|null|
+|**2026-08-18**|**Optic Disc Segmentation in Fundus Images: From Classical Image Processing and Deformable Models to Modern AI**|Buket D. Barkana et.al.|[2608.18367](http://arxiv.org/abs/2608.18367)|null|
+|**2026-08-18**|**Multimedia Asset Personalization via Multimodal Embeddings at Netflix**|Emma Yanyang Kong et.al.|[2608.18322](http://arxiv.org/abs/2608.18322)|null|
+|**2026-08-18**|**QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting**|Vu Trung Nghia Nguyen et.al.|[2608.18285](http://arxiv.org/abs/2608.18285)|null|
 |**2026-08-18**|**Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors**|Mahdi Saberi et.al.|[2608.18036](http://arxiv.org/abs/2608.18036)|null|
 |**2026-08-18**|**LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**|Jinshan Liu et.al.|[2608.17973](http://arxiv.org/abs/2608.17973)|null|
 |**2026-08-18**|**Iterative Grasp Pose Refinement: A Deep Reinforcement Learning Approach for 2D Vision**|Amir Arsalan Nematollahi et.al.|[2608.17628](http://arxiv.org/abs/2608.17628)|null|
