@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.23
+### Automatically Updated on 2026.08.24
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Beyond Truth Discovery: A Two-Stage Framework to Assess the Severity of False Claim during Disasters**|Ruichen Yao et.al.|[2608.20983](http://arxiv.org/abs/2608.20983)|null|
+|**2026-08-21**|**Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair**|Jiayi Gao et.al.|[2608.20749](http://arxiv.org/abs/2608.20749)|null|
+|**2026-08-20**|**AEGIS: Preventing Cross-Domain Resource Abuse in MCP**|Shriti Priya et.al.|[2608.20481](http://arxiv.org/abs/2608.20481)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-20**|**SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis**|Jongbeom Lee et.al.|[2608.10519](http://arxiv.org/abs/2608.10519)|null|
 |**2026-08-18**|**TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection**|Yearang Lee et.al.|[2608.17422](http://arxiv.org/abs/2608.17422)|null|
@@ -348,6 +351,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning**|Bipasha Kundu et.al.|[2608.21180](http://arxiv.org/abs/2608.21180)|null|
+|**2026-08-21**|**TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming**|Yibo Hu et.al.|[2608.20958](http://arxiv.org/abs/2608.20958)|null|
+|**2026-08-20**|**Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction**|Shamus Li et.al.|[2608.20602](http://arxiv.org/abs/2608.20602)|null|
+|**2026-08-20**|**Consistency Models for Fast MRI Reconstruction Using Regularization by Denoising**|Merve Gülle et.al.|[2608.20561](http://arxiv.org/abs/2608.20561)|null|
+|**2026-08-20**|**Frozen CLIP Priors for Robust Self-Supervised Poisson Inverse Problems**|Laura C. Diaz-Delgado et.al.|[2608.20524](http://arxiv.org/abs/2608.20524)|null|
 |**2026-08-20**|**ID-VTG: Image-Disambiguated Video Temporal Grounding**|Minghang Zheng et.al.|[2608.20127](http://arxiv.org/abs/2608.20127)|null|
 |**2026-08-20**|**Flow Matching-Based PET Image Reconstruction**|Fumio Hashimoto et.al.|[2608.20112](http://arxiv.org/abs/2608.20112)|null|
 |**2026-08-20**|**Simulation-to-Real First-Break Segmentation for Efficient Inversion in Musculoskeletal Ultrasound Tomography**|Yifei Sun et.al.|[2608.19828](http://arxiv.org/abs/2608.19828)|null|
