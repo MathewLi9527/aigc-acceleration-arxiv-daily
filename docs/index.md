@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.24
+### Automatically Updated on 2026.08.25
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-22**|**FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling**|Peiyuan Zhang et.al.|[2608.21839](http://arxiv.org/abs/2608.21839)|null|
 |**2026-08-21**|**Beyond Truth Discovery: A Two-Stage Framework to Assess the Severity of False Claim during Disasters**|Ruichen Yao et.al.|[2608.20983](http://arxiv.org/abs/2608.20983)|null|
 |**2026-08-21**|**Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair**|Jiayi Gao et.al.|[2608.20749](http://arxiv.org/abs/2608.20749)|null|
 |**2026-08-20**|**AEGIS: Preventing Cross-Domain Resource Abuse in MCP**|Shriti Priya et.al.|[2608.20481](http://arxiv.org/abs/2608.20481)|null|
@@ -29,6 +30,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-08-18**|**TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection**|Yearang Lee et.al.|[2608.17422](http://arxiv.org/abs/2608.17422)|null|
 |**2026-08-17**|**SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation**|Animesh Karnewar et.al.|[2608.16585](http://arxiv.org/abs/2608.16585)|null|
 |**2026-08-17**|**MLLM-Guided Semantic Correction for Text-to-Video Generation**|Junhao Chen et.al.|[2608.16513](http://arxiv.org/abs/2608.16513)|null|
+|**2026-08-16**|**EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing**|Yuqian Zhou et.al.|[2608.21424](http://arxiv.org/abs/2608.21424)|null|
 |**2026-08-14**|**Beyond Text Conditioning: A Systematic Study of MLLM-DiT Fusion for Video Generation**|Yanbo Ding et.al.|[2608.14043](http://arxiv.org/abs/2608.14043)|null|
 |**2026-08-14**|**Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization**|Guillaume Jeanneret et.al.|[2608.13037](http://arxiv.org/abs/2608.13037)|null|
 |**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|null|
@@ -351,6 +353,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Towards Comprehensive Basketball Understanding**|Yirong Hu et.al.|[2608.23435](http://arxiv.org/abs/2608.23435)|null|
+|**2026-08-24**|**An Energy-Proportional Multimodal and Context-Aware Vision IoT Node**|Julian Moosmann et.al.|[2608.23192](http://arxiv.org/abs/2608.23192)|null|
+|**2026-08-24**|**Direct, Parallel, or Sequential? A Comparative Study of Training-Free Multi-Subject Image-to-Video Generation**|Yanliang Qi et.al.|[2608.22819](http://arxiv.org/abs/2608.22819)|null|
+|**2026-08-24**|**Interpretable Landsat-to-Hyperspectral Dual Super-Resolution Without Large Matrix Inversion**|Chia-Hsiang Lin et.al.|[2608.22790](http://arxiv.org/abs/2608.22790)|null|
+|**2026-08-24**|**GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing**|Sosmita Paul et.al.|[2608.22789](http://arxiv.org/abs/2608.22789)|null|
+|**2026-08-23**|**GET: Generative Embedding Translation for Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2608.22619](http://arxiv.org/abs/2608.22619)|null|
+|**2026-08-23**|**Multispectral Household Plastic Classification for Recycling Using a Camera Array**|Katja Kossira et.al.|[2608.22531](http://arxiv.org/abs/2608.22531)|null|
+|**2026-08-23**|**Pulse-Echo Ultrasound Methods for Speed-of-Sound Estimation: A Review**|Can Deniz Bezek et.al.|[2608.22487](http://arxiv.org/abs/2608.22487)|null|
+|**2026-08-23**|**Precision-Aware Variable Bit Processing Elements for Hardware-Efficient Systolic Array Designs**|Dantu Nandini Devi et.al.|[2608.22378](http://arxiv.org/abs/2608.22378)|null|
+|**2026-08-23**|**The spatial anatomy of urban wildfire vulnerability: a spatially validated GeoAI framework reveals the roles of building density and vegetation moisture in structure loss during the 2025 Palisades Fire**|Parastoo Farajpoor et.al.|[2608.22293](http://arxiv.org/abs/2608.22293)|null|
+|**2026-08-23**|**CiUNet: A Hybrid Swin-CNN UNet for Medical Image Segmentation**|Bin Dong et.al.|[2608.22281](http://arxiv.org/abs/2608.22281)|null|
+|**2026-08-22**|**Pretreatment DCE-MRI Resolves Response Quality Within Pathologic Endpoints in Neoadjuvant Breast Cancer**|Dattatreya Kantha et.al.|[2608.22097](http://arxiv.org/abs/2608.22097)|null|
+|**2026-08-22**|**SweepLSD: A One-Pass, O(width)-Memory Line Segment Detector with an Integer-Only Streaming Core and a Real-Time FPGA Realization**|Yoshiyasu Shimizu et.al.|[2608.22086](http://arxiv.org/abs/2608.22086)|null|
+|**2026-08-22**|**CRS-Bench: A Reference-Relative Reliability Benchmark for Medical Image Encoders**|Xingtao Lin et.al.|[2608.22059](http://arxiv.org/abs/2608.22059)|null|
+|**2026-08-22**|**A scattering correction method for CT reconstruction based on the Wavelet Adaptive Material-dependent Boltzmann Transport Equation (WAM-BTE)**|Huiying Pan et.al.|[2608.21861](http://arxiv.org/abs/2608.21861)|null|
+|**2026-08-22**|**LiteEvent-AE: Lightweight Autoencoder for Event-Based Vision on Low-Latency Energy-Constrained Edge Devices**|Riadul Islam et.al.|[2608.21764](http://arxiv.org/abs/2608.21764)|null|
+|**2026-08-22**|**Single-Model Adaptive Wireless Image Transmission via Feature Sparsity Regularization**|Xianghao Cui et.al.|[2608.21743](http://arxiv.org/abs/2608.21743)|null|
+|**2026-08-21**|**In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee**|Hudson Kim et.al.|[2608.21685](http://arxiv.org/abs/2608.21685)|null|
+|**2026-08-21**|**FlowSem: Flow Matching for Adaptive Wireless Image Transmission in Semantic Communication**|Arnab Emon et.al.|[2608.21651](http://arxiv.org/abs/2608.21651)|null|
+|**2026-08-21**|**CHIMERA Challenge: Biochemical Recurrence Prediction in Prostate Cancer Patients using multimodal datasets**|Robert N. Spaans et.al.|[2608.21497](http://arxiv.org/abs/2608.21497)|null|
 |**2026-08-21**|**Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning**|Bipasha Kundu et.al.|[2608.21180](http://arxiv.org/abs/2608.21180)|null|
 |**2026-08-21**|**TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming**|Yibo Hu et.al.|[2608.20958](http://arxiv.org/abs/2608.20958)|null|
 |**2026-08-20**|**Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction**|Shamus Li et.al.|[2608.20602](http://arxiv.org/abs/2608.20602)|null|
@@ -1593,9 +1615,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**One Inverse Step is a Convex Program: Bayes-Limit Calibration of Diffusion Inversion**|Gordei Verbii et.al.|[2608.23094](http://arxiv.org/abs/2608.23094)|null|
+|**2026-08-24**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](http://arxiv.org/abs/2608.13791)|null|
+|**2026-08-23**|**StocBench: A Benchmark for Generative Modeling of Stochastic Dynamics**|Sebastian Pfister et.al.|[2608.22309](http://arxiv.org/abs/2608.22309)|null|
+|**2026-08-22**|**Improved denoising diffusion probabilistic models with efficient non-diagonal covariance modeling**|Rui Xia et.al.|[2608.21972](http://arxiv.org/abs/2608.21972)|null|
+|**2026-08-21**|**FlowSem: Flow Matching for Adaptive Wireless Image Transmission in Semantic Communication**|Arnab Emon et.al.|[2608.21651](http://arxiv.org/abs/2608.21651)|null|
 |**2026-08-17**|**Synthetic Data Augmentation for Satellite-Based Analysis of Battle-Damaged Agricultural Fields in Ukraine**|Marta Sumyk et.al.|[2608.16380](http://arxiv.org/abs/2608.16380)|null|
 |**2026-08-17**|**RadioVIL: Anomaly-Aware Diffusion Models for Radio Map Inpainting and Zero-Shot Vehicle Localization**|Ruixin Zhao et.al.|[2608.16167](http://arxiv.org/abs/2608.16167)|null|
-|**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](http://arxiv.org/abs/2608.13791)|null|
 |**2026-08-13**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ziming Li et.al.|[2608.10383](http://arxiv.org/abs/2608.10383)|null|
 |**2026-08-11**|**Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation**|Farzan Farnia et.al.|[2608.09385](http://arxiv.org/abs/2608.09385)|null|
 |**2026-08-09**|**Toward CT-Equivalent Image Quality in Low-Dose Radiotherapy Planning: Conditional Diffusion-Based CBCT-to-CT Synthesis and the Impact of CBCT Input Representation**|Alzahra Altalib et.al.|[2608.08919](http://arxiv.org/abs/2608.08919)|null|
