@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.27
+### Automatically Updated on 2026.08.28
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -356,6 +356,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Knowledge Distillation Driven Semantic NOMA with GAN Refinement for 6G Robotic Vehicle Networks**|Qifei Wang et.al.|[2608.27198](http://arxiv.org/abs/2608.27198)|null|
+|**2026-08-27**|**How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space**|Corey D. C. Heath et.al.|[2608.27121](http://arxiv.org/abs/2608.27121)|null|
+|**2026-08-27**|**Anatomy-Guided Foundation Model Adaptation with Within-Case Prototype Supervision for Standard Plane Detection in Fetal Ultrasound Blind Sweeps**|Yuzhe Zhao et.al.|[2608.27051](http://arxiv.org/abs/2608.27051)|null|
+|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
+|**2026-08-27**|**DP-JMRNet: A Deep Unfolding Network for Differential Phase Preservation in Sparse Bitemporal SAR Reconstruction**|Juncheng Bao et.al.|[2608.26605](http://arxiv.org/abs/2608.26605)|null|
+|**2026-08-27**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
+|**2026-08-26**|**Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models**|Rohit Patel et.al.|[2608.26317](http://arxiv.org/abs/2608.26317)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**UltraPIPS: Improving model perception in B-mode ultrasound with foundation models**|Tal Grutman et.al.|[2608.26033](http://arxiv.org/abs/2608.26033)|null|
 |**2026-08-26**|**AdaptiveEmbed: Sample-Adaptive Multi-Vector Representation for Multimodal Retrieval**|Xinze Liu et.al.|[2608.25412](http://arxiv.org/abs/2608.25412)|null|
@@ -368,7 +375,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-08-25**|**PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos**|Siyao Yan et.al.|[2608.24574](http://arxiv.org/abs/2608.24574)|null|
 |**2026-08-25**|**Model Effect or Label Effect? Refined Annotations and a Human-Referenced Benchmark for Pulmonary Embolism Segmentation**|Qihang Sun et.al.|[2608.24486](http://arxiv.org/abs/2608.24486)|null|
 |**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384](http://arxiv.org/abs/2608.24384)|null|
-|**2026-08-25**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
 |**2026-08-24**|**Native-Space 3D CarveMix for Multi-Site T1w Stroke Segmentation**|Dexter Wen Jie Teo et.al.|[2608.23882](http://arxiv.org/abs/2608.23882)|null|
 |**2026-08-24**|**Spatiotemporal Distillation via Recurrent Bottlenecks for Aortic Tracking**|Dexter Wen Jie Teo et.al.|[2608.23879](http://arxiv.org/abs/2608.23879)|null|
 |**2026-08-24**|**Primate vision reveals a missing principle for robust dynamic AI**|Matteo Dunnhofer et.al.|[2608.23790](http://arxiv.org/abs/2608.23790)|null|
@@ -1635,6 +1641,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics**|Zihang Wang et.al.|[2608.26766](http://arxiv.org/abs/2608.26766)|null|
+|**2026-08-27**|**Background Intensity Estimation for Cassini-ISS Image Using Deep Learning-Based Diffusion Model**|Yongxin Chen et.al.|[2608.26524](http://arxiv.org/abs/2608.26524)|null|
 |**2026-08-26**|**Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models**|Akshat G et.al.|[2608.25693](http://arxiv.org/abs/2608.25693)|null|
 |**2026-08-24**|**One Inverse Step is a Convex Program: Bayes-Limit Calibration of Diffusion Inversion**|Gordei Verbii et.al.|[2608.23094](http://arxiv.org/abs/2608.23094)|null|
 |**2026-08-24**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](http://arxiv.org/abs/2608.13791)|null|
