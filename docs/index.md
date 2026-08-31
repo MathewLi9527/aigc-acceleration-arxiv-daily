@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.30
+### Automatically Updated on 2026.08.31
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Yafei Zhang et.al.|[2608.28491](http://arxiv.org/abs/2608.28491)|null|
 |**2026-08-25**|**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**|Xiaoda Yang et.al.|[2608.24674](http://arxiv.org/abs/2608.24674)|null|
 |**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
 |**2026-08-25**|**WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report**|Junjie Zhou et.al.|[2608.24053](http://arxiv.org/abs/2608.24053)|null|
@@ -356,10 +357,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Lossy Event Compression: From Event Stream Distortion to Task Performance**|Zahra Rezaee et.al.|[2608.28429](http://arxiv.org/abs/2608.28429)|null|
+|**2026-08-28**|**Semantic Head Specialization Guides Hybrid ViT Attention for Multimodal LLMs**|Chenhong He et.al.|[2608.28383](http://arxiv.org/abs/2608.28383)|null|
+|**2026-08-28**|**CheXtriev: Anatomy-Centered Representation for Case-Based Retrieval of Chest Radiographs**|Naren Akash et.al.|[2608.28137](http://arxiv.org/abs/2608.28137)|null|
+|**2026-08-28**|**Do Medical Vision Models Reason About Anatomy? Probing the Spatial Inductive Biases of Learned Visual Representations**|Naren Akash et.al.|[2608.28092](http://arxiv.org/abs/2608.28092)|null|
+|**2026-08-28**|**Ada-TokenCom: Rate-Adaptive Token Communications via Large-Model-Driven Token Compression and Generation**|Zijun Zhang et.al.|[2608.28086](http://arxiv.org/abs/2608.28086)|null|
+|**2026-08-28**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
+|**2026-08-27**|**A Mixed-Behavior Vote Model for Multimedia Subjective Quality Votes, Means, and Variances**|Jaden Pieper et.al.|[2608.27724](http://arxiv.org/abs/2608.27724)|null|
+|**2026-08-27**|**CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT**|Roy Gabriel et.al.|[2608.27690](http://arxiv.org/abs/2608.27690)|null|
+|**2026-08-27**|**Destroy Me: Automatic Artifact Generation for Histopathology Images**|Zuzanna Krawczyk-Borysiak et.al.|[2608.27516](http://arxiv.org/abs/2608.27516)|null|
 |**2026-08-27**|**Knowledge Distillation Driven Semantic NOMA with GAN Refinement for 6G Robotic Vehicle Networks**|Qifei Wang et.al.|[2608.27198](http://arxiv.org/abs/2608.27198)|null|
 |**2026-08-27**|**How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space**|Corey D. C. Heath et.al.|[2608.27121](http://arxiv.org/abs/2608.27121)|null|
 |**2026-08-27**|**Anatomy-Guided Foundation Model Adaptation with Within-Case Prototype Supervision for Standard Plane Detection in Fetal Ultrasound Blind Sweeps**|Yuzhe Zhao et.al.|[2608.27051](http://arxiv.org/abs/2608.27051)|null|
-|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
 |**2026-08-27**|**DP-JMRNet: A Deep Unfolding Network for Differential Phase Preservation in Sparse Bitemporal SAR Reconstruction**|Juncheng Bao et.al.|[2608.26605](http://arxiv.org/abs/2608.26605)|null|
 |**2026-08-27**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
 |**2026-08-26**|**Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models**|Rohit Patel et.al.|[2608.26317](http://arxiv.org/abs/2608.26317)|null|
