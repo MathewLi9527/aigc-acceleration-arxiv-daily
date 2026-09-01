@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.08.31
+### Automatically Updated on 2026.09.01
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,12 +21,16 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation**|Yujiang Pu et.al.|[2608.30194](http://arxiv.org/abs/2608.30194)|null|
+|**2026-08-31**|**VIBE: Video Instruction-aligned Background music gEneration**|Aryan Vijay Bhosale et.al.|[2608.30125](http://arxiv.org/abs/2608.30125)|null|
+|**2026-08-30**|**On the Resilience of Text-to-Video Diffusion Models to Hardware Faults**|Zachary Coalson et.al.|[2608.29598](http://arxiv.org/abs/2608.29598)|null|
+|**2026-08-30**|**Beyond Truth Discovery: A Two-Stage Framework to Assess the Severity of False Claim during Disasters**|Ruichen Yao et.al.|[2608.20983](http://arxiv.org/abs/2608.20983)|null|
+|**2026-08-28**|**ClearText-Video: A Large-Scale Text-Centric Video Dataset Bridging Video Restoration and Scene-Text Enhancement**|Jinlong Li et.al.|[2608.28784](http://arxiv.org/abs/2608.28784)|null|
 |**2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Yafei Zhang et.al.|[2608.28491](http://arxiv.org/abs/2608.28491)|null|
 |**2026-08-25**|**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**|Xiaoda Yang et.al.|[2608.24674](http://arxiv.org/abs/2608.24674)|null|
 |**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
 |**2026-08-25**|**WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report**|Junjie Zhou et.al.|[2608.24053](http://arxiv.org/abs/2608.24053)|null|
 |**2026-08-22**|**FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling**|Peiyuan Zhang et.al.|[2608.21839](http://arxiv.org/abs/2608.21839)|null|
-|**2026-08-21**|**Beyond Truth Discovery: A Two-Stage Framework to Assess the Severity of False Claim during Disasters**|Ruichen Yao et.al.|[2608.20983](http://arxiv.org/abs/2608.20983)|null|
 |**2026-08-21**|**Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair**|Jiayi Gao et.al.|[2608.20749](http://arxiv.org/abs/2608.20749)|null|
 |**2026-08-20**|**AEGIS: Preventing Cross-Domain Resource Abuse in MCP**|Shriti Priya et.al.|[2608.20481](http://arxiv.org/abs/2608.20481)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
@@ -357,6 +361,23 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074](http://arxiv.org/abs/2608.31074)|null|
+|**2026-08-31**|**LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation**|Jiacheng Wang et.al.|[2608.31073](http://arxiv.org/abs/2608.31073)|null|
+|**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048](http://arxiv.org/abs/2608.31048)|null|
+|**2026-08-31**|**Centering before Pruning: Lightweight Geometry Correction for Diversity-Based Visual Token Pruning in LVLMs**|Shunjie Wen et.al.|[2608.30263](http://arxiv.org/abs/2608.30263)|null|
+|**2026-08-31**|**ReLViC: Loss-Resilient Learned Video Coding with Dispersed Packetization and Controllable Packet Dependencies**|Xuyang Chen et.al.|[2608.30202](http://arxiv.org/abs/2608.30202)|null|
+|**2026-08-29**|**Artificial Intelligence in a Photonic Temporal Processor**|Youlve Chen et.al.|[2608.29469](http://arxiv.org/abs/2608.29469)|null|
+|**2026-08-29**|**EpaCache: Error-Propagation-Aware Caching for Accelerating Diffusion-Based Visual Generation**|Yuhan Liu et.al.|[2608.29264](http://arxiv.org/abs/2608.29264)|null|
+|**2026-08-29**|**The MYOSAIQ Challenge: Myocardial Segmentation with Automated Infarct Quantification**|Olivier Bernard et.al.|[2608.29246](http://arxiv.org/abs/2608.29246)|null|
+|**2026-08-29**|**Bayesian-Optimized Superpixel-GrabCut for Traceable Optic Disc Segmentation**|Shraddha Changune et.al.|[2608.29196](http://arxiv.org/abs/2608.29196)|null|
+|**2026-08-29**|**Feature-Spectral Fragility in Segmentation: Dataset Dependence, Architecture-Specific Localization, and Spectral Correlates**|Subhash Kashyap et.al.|[2608.29167](http://arxiv.org/abs/2608.29167)|null|
+|**2026-08-29**|**Manifold-Constrained PET Reconstruction with Learned Flow-Matching Priors**|Hengjia Ran et.al.|[2608.29158](http://arxiv.org/abs/2608.29158)|null|
+|**2026-08-28**|**Multimodal Deep Learning for Uncertainty-Aware Radiation Pneumonitis Risk Prediction**|Jin Yang et.al.|[2608.28937](http://arxiv.org/abs/2608.28937)|null|
+|**2026-08-28**|**Patch-Based Diffusion Reconstruction for Accelerated Cardiac Cine**|Xuan Lei et.al.|[2608.28927](http://arxiv.org/abs/2608.28927)|null|
+|**2026-08-28**|**Generative Translation Priors: Bayesian Imaging with Cross-Modality Image Translation**|Evan Bell et.al.|[2608.28872](http://arxiv.org/abs/2608.28872)|null|
+|**2026-08-28**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](http://arxiv.org/abs/2608.28773)|null|
+|**2026-08-28**|**Efficient JPEG Restoration in the Wavelet Domain via Mean Flows**|Stefan-Alexandru Asandei et.al.|[2608.28730](http://arxiv.org/abs/2608.28730)|null|
+|**2026-08-28**|**Evaluating the Effects of Inter-Observer and Model Variability on Radiological Peritoneal Cancer Index Assessment**|Savvas Saragiotis et.al.|[2608.28716](http://arxiv.org/abs/2608.28716)|null|
 |**2026-08-28**|**Lossy Event Compression: From Event Stream Distortion to Task Performance**|Zahra Rezaee et.al.|[2608.28429](http://arxiv.org/abs/2608.28429)|null|
 |**2026-08-28**|**Semantic Head Specialization Guides Hybrid ViT Attention for Multimodal LLMs**|Chenhong He et.al.|[2608.28383](http://arxiv.org/abs/2608.28383)|null|
 |**2026-08-28**|**CheXtriev: Anatomy-Centered Representation for Case-Based Retrieval of Chest Radiographs**|Naren Akash et.al.|[2608.28137](http://arxiv.org/abs/2608.28137)|null|
@@ -1650,6 +1671,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models**|Chengzheyi Yao et.al.|[2608.30366](http://arxiv.org/abs/2608.30366)|null|
 |**2026-08-27**|**MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics**|Zihang Wang et.al.|[2608.26766](http://arxiv.org/abs/2608.26766)|null|
 |**2026-08-27**|**Background Intensity Estimation for Cassini-ISS Image Using Deep Learning-Based Diffusion Model**|Yongxin Chen et.al.|[2608.26524](http://arxiv.org/abs/2608.26524)|null|
 |**2026-08-26**|**Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models**|Akshat G et.al.|[2608.25693](http://arxiv.org/abs/2608.25693)|null|
