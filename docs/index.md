@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.01
+### Automatically Updated on 2026.09.02
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
+|**2026-08-31**|**Good Memory Has ECC: Evaluating the Memory of Vision-Language Models Beyond Accuracy**|Shmuel Berman et.al.|[2609.00103](http://arxiv.org/abs/2609.00103)|null|
 |**2026-08-31**|**NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation**|Yujiang Pu et.al.|[2608.30194](http://arxiv.org/abs/2608.30194)|null|
 |**2026-08-31**|**VIBE: Video Instruction-aligned Background music gEneration**|Aryan Vijay Bhosale et.al.|[2608.30125](http://arxiv.org/abs/2608.30125)|null|
 |**2026-08-30**|**On the Resilience of Text-to-Video Diffusion Models to Hardware Faults**|Zachary Coalson et.al.|[2608.29598](http://arxiv.org/abs/2608.29598)|null|
@@ -361,6 +363,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Semantic-Guided Multimodal Preprocessing for Vision Transformer-Based Clear Cell Renal Cell Carcinoma Grading**|Fatemeh Javadian et.al.|[2609.01426](http://arxiv.org/abs/2609.01426)|null|
+|**2026-09-01**|**Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching**|Jaewoo Park et.al.|[2609.01404](http://arxiv.org/abs/2609.01404)|null|
+|**2026-09-01**|**GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation**|Mohammed Oussama Benyahia et.al.|[2609.01310](http://arxiv.org/abs/2609.01310)|null|
+|**2026-09-01**|**Compressing AI Traffic: Standardized Neural Network Coding of Visual-Token Representations in Split Vision-Language Inference**|Reza Heidari et.al.|[2609.01200](http://arxiv.org/abs/2609.01200)|null|
+|**2026-09-01**|**Lightweight Interpretable RGB-Guided Hyperspectral Super-Resolution under Real Cross-resolution Misalignment**|Mohamad Jouni et.al.|[2609.01060](http://arxiv.org/abs/2609.01060)|null|
+|**2026-09-01**|**Prior-Guided Implicit Neural Representations for Single-Subject Diffusion MRI Super-Resolution**|Abdulkader Ghandoura et.al.|[2609.00981](http://arxiv.org/abs/2609.00981)|null|
+|**2026-09-01**|**Learning the Shoreline: A Very High-Resolution Approach to Reef Island Dynamics**|Tobias Fischer et.al.|[2609.00957](http://arxiv.org/abs/2609.00957)|null|
+|**2026-09-01**|**FALCON: Fault-Tolerant Magnetic Tunnel Junction-Based In-Memory Stochastic Architecture for Reliability-Critical Edge AI Applications**|Farzad Razi et.al.|[2609.00701](http://arxiv.org/abs/2609.00701)|null|
+|**2026-08-31**|**Expert-like Bone Ultrasound Segmentation through Expert-in-the-loop Mask-conditioned Progressive Learning**|Arash Tavangar et.al.|[2609.00473](http://arxiv.org/abs/2609.00473)|null|
 |**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074](http://arxiv.org/abs/2608.31074)|null|
 |**2026-08-31**|**LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation**|Jiacheng Wang et.al.|[2608.31073](http://arxiv.org/abs/2608.31073)|null|
 |**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048](http://arxiv.org/abs/2608.31048)|null|
