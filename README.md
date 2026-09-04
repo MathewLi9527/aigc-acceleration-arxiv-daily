@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.03
+### Automatically Updated on 2026.09.04
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -29,6 +29,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation**|Shuaiting Li et.al.|[2609.04031](http://arxiv.org/abs/2609.04031)|null|
+|**2026-09-03**|**EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders**|Xinghao Wang et.al.|[2609.03629](http://arxiv.org/abs/2609.03629)|null|
 |**2026-09-02**|**MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?**|Uicheol Jung et.al.|[2609.02565](http://arxiv.org/abs/2609.02565)|null|
 |**2026-09-01**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
 |**2026-08-31**|**MELON: A Large-Scale Dataset for Multi-Event Text-to-Long-Video Retrieval**|Chan Hur et.al.|[2609.01654](http://arxiv.org/abs/2609.01654)|null|
@@ -369,12 +371,23 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
 |**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Zhenyu Xie et.al.|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
 ## Image-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Last Translation Benchmark**|Vilém Zouhar et.al.|[2609.04173](http://arxiv.org/abs/2609.04173)|null|
+|**2026-09-03**|**Cooperative Multi-Task Semantic Communication for Joint Classification and Regression Tasks**|Ahmad Halimi Razlighi et.al.|[2609.03977](http://arxiv.org/abs/2609.03977)|null|
+|**2026-09-03**|**Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models**|Jiaqi Lv et.al.|[2609.03947](http://arxiv.org/abs/2609.03947)|null|
+|**2026-09-03**|**Plant Growth Estimation with a Camera-Based Vegetation Index Mapping System for Agricultural Ground Vehicles**|Lukas Pindl et.al.|[2609.03872](http://arxiv.org/abs/2609.03872)|null|
+|**2026-09-03**|**Cross-Dataset Transfer and Reliability of Explainable Artificial Intelligence for RhythmFormer Remote Photoplethysmography**|Louis Chen et.al.|[2609.03663](http://arxiv.org/abs/2609.03663)|null|
+|**2026-09-03**|**Neural-Network Maxent: a general extension with learned nonlinearity, applied to time-series for Desert Locust distribution modelling**|Alessandro Grassi et.al.|[2609.03603](http://arxiv.org/abs/2609.03603)|null|
+|**2026-09-03**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
+|**2026-09-03**|**LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL**|Sijie Wang et.al.|[2609.03528](http://arxiv.org/abs/2609.03528)|null|
+|**2026-09-02**|**Beyond Blur: A Semantic Tri-view Pipeline for Teledermatology Gradability via Skin Micro-relief**|Robert Engel et.al.|[2609.03095](http://arxiv.org/abs/2609.03095)|null|
+|**2026-09-02**|**Sparse concept attribution for histomorphological hypothesis generation from whole-slide classifiers**|Tristan Lazard et.al.|[2609.02985](http://arxiv.org/abs/2609.02985)|null|
+|**2026-09-02**|**Learning from Scarce Labels: Multi-View Echocardiography for Ejection Fraction Prediction**|Zhiyuan Gao et.al.|[2609.02969](http://arxiv.org/abs/2609.02969)|null|
 |**2026-09-02**|**LoFi RADIO: A Distilled In-Domain Backbone Applied for Artifact-Severity Grading of Ultra-Low-Field Neonatal Brain MR**|Jonathan B. Martin et.al.|[2609.02676](http://arxiv.org/abs/2609.02676)|null|
 |**2026-09-02**|**LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting**|Hezhi Cao et.al.|[2609.02543](http://arxiv.org/abs/2609.02543)|null|
 |**2026-09-02**|**Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue**|Jan Schnorrenberg et.al.|[2609.02390](http://arxiv.org/abs/2609.02390)|null|
@@ -1660,7 +1673,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184](http://arxiv.org/abs/2603.15184)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
 ## Video Editing
 
@@ -1699,7 +1712,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -2037,7 +2050,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-02**|**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**|Aryan Goyal et.al.|[2603.01686](http://arxiv.org/abs/2603.01686)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
 ## Real-time Generation
 
@@ -2077,7 +2090,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-09**|**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**|Lei Wang et.al.|[2603.08258](http://arxiv.org/abs/2603.08258)|null|
 |**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
 ## DiT Acceleration
 
@@ -2099,7 +2112,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2025-08-26**|**Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**|Liding Zhang et.al.|[2508.19168](http://arxiv.org/abs/2508.19168)|null|
 |**2025-05-16**|**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**|Haipeng Fang et.al.|[2505.11707](http://arxiv.org/abs/2505.11707)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
 Notes: 
 

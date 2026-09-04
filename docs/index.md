@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.03
+### Automatically Updated on 2026.09.04
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation**|Shuaiting Li et.al.|[2609.04031](http://arxiv.org/abs/2609.04031)|null|
+|**2026-09-03**|**EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders**|Xinghao Wang et.al.|[2609.03629](http://arxiv.org/abs/2609.03629)|null|
 |**2026-09-02**|**MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?**|Uicheol Jung et.al.|[2609.02565](http://arxiv.org/abs/2609.02565)|null|
 |**2026-09-01**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
 |**2026-08-31**|**MELON: A Large-Scale Dataset for Multi-Event Text-to-Long-Video Retrieval**|Chan Hur et.al.|[2609.01654](http://arxiv.org/abs/2609.01654)|null|
@@ -365,6 +367,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Last Translation Benchmark**|Vilém Zouhar et.al.|[2609.04173](http://arxiv.org/abs/2609.04173)|null|
+|**2026-09-03**|**Cooperative Multi-Task Semantic Communication for Joint Classification and Regression Tasks**|Ahmad Halimi Razlighi et.al.|[2609.03977](http://arxiv.org/abs/2609.03977)|null|
+|**2026-09-03**|**Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models**|Jiaqi Lv et.al.|[2609.03947](http://arxiv.org/abs/2609.03947)|null|
+|**2026-09-03**|**Plant Growth Estimation with a Camera-Based Vegetation Index Mapping System for Agricultural Ground Vehicles**|Lukas Pindl et.al.|[2609.03872](http://arxiv.org/abs/2609.03872)|null|
+|**2026-09-03**|**Cross-Dataset Transfer and Reliability of Explainable Artificial Intelligence for RhythmFormer Remote Photoplethysmography**|Louis Chen et.al.|[2609.03663](http://arxiv.org/abs/2609.03663)|null|
+|**2026-09-03**|**Neural-Network Maxent: a general extension with learned nonlinearity, applied to time-series for Desert Locust distribution modelling**|Alessandro Grassi et.al.|[2609.03603](http://arxiv.org/abs/2609.03603)|null|
+|**2026-09-03**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
+|**2026-09-03**|**LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL**|Sijie Wang et.al.|[2609.03528](http://arxiv.org/abs/2609.03528)|null|
+|**2026-09-02**|**Beyond Blur: A Semantic Tri-view Pipeline for Teledermatology Gradability via Skin Micro-relief**|Robert Engel et.al.|[2609.03095](http://arxiv.org/abs/2609.03095)|null|
+|**2026-09-02**|**Sparse concept attribution for histomorphological hypothesis generation from whole-slide classifiers**|Tristan Lazard et.al.|[2609.02985](http://arxiv.org/abs/2609.02985)|null|
+|**2026-09-02**|**Learning from Scarce Labels: Multi-View Echocardiography for Ejection Fraction Prediction**|Zhiyuan Gao et.al.|[2609.02969](http://arxiv.org/abs/2609.02969)|null|
 |**2026-09-02**|**LoFi RADIO: A Distilled In-Domain Backbone Applied for Artifact-Severity Grading of Ultra-Low-Field Neonatal Brain MR**|Jonathan B. Martin et.al.|[2609.02676](http://arxiv.org/abs/2609.02676)|null|
 |**2026-09-02**|**LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting**|Hezhi Cao et.al.|[2609.02543](http://arxiv.org/abs/2609.02543)|null|
 |**2026-09-02**|**Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue**|Jan Schnorrenberg et.al.|[2609.02390](http://arxiv.org/abs/2609.02390)|null|
