@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.06
+### Automatically Updated on 2026.09.07
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**ReaDiT Guidance: Control for Image and Video Generation using Diffusion Transformer Features**|Jay Mahajan et.al.|[2609.04649](http://arxiv.org/abs/2609.04649)|null|
+|**2026-09-03**|**Step Back to Move Forward: Reflection-Aware Preference Optimization for Visual Generation**|Junlong Wu et.al.|[2609.04282](http://arxiv.org/abs/2609.04282)|null|
 |**2026-09-03**|**DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation**|Shuaiting Li et.al.|[2609.04031](http://arxiv.org/abs/2609.04031)|null|
 |**2026-09-03**|**EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders**|Xinghao Wang et.al.|[2609.03629](http://arxiv.org/abs/2609.03629)|null|
 |**2026-09-02**|**MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?**|Uicheol Jung et.al.|[2609.02565](http://arxiv.org/abs/2609.02565)|null|
@@ -367,6 +369,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Real-World Multi-Modal and Longitudinal Lung Cancer Dataset**|Rita Cordeiro Mendes et.al.|[2609.05202](http://arxiv.org/abs/2609.05202)|null|
+|**2026-09-04**|**Cross-dataset transportability of pediatric chest X-ray deep learning across three countries: discrimination, calibration, operating-point failure, and limited-label recovery**| Nazim-E-Alam et.al.|[2609.05140](http://arxiv.org/abs/2609.05140)|null|
+|**2026-09-04**|**A Piecewise-Linear Approximation-based Energy-Efficient Error-Optimized Unsigned Square Rooter for Accuracy-Critical Applications**|Prateek Goyal et.al.|[2609.04783](http://arxiv.org/abs/2609.04783)|null|
+|**2026-09-04**|**ReaDiT Guidance: Control for Image and Video Generation using Diffusion Transformer Features**|Jay Mahajan et.al.|[2609.04649](http://arxiv.org/abs/2609.04649)|null|
+|**2026-09-03**|**Explainable Multimodal Deep Learning Integrating Imaging and Clinical Data for Oral Potentially Malignant Disorder Detection**|Ruilin You et.al.|[2609.04512](http://arxiv.org/abs/2609.04512)|null|
+|**2026-09-03**|**Fractional-Order Adaptive Motion Magnification: Phase-Reliability Weighting for Noise-Constrained Video Amplification**|Alejandro Garnung Menéndez et.al.|[2609.04502](http://arxiv.org/abs/2609.04502)|null|
+|**2026-09-03**|**Development and Evaluation of Ultrasound Image Learning Pipelines for MASLD Risk Stratification**|Guangyi Zhang et.al.|[2609.04390](http://arxiv.org/abs/2609.04390)|null|
+|**2026-09-03**|**Ultrasound-Based Prediction of Cirrhosis Decompensation Using Large-Scale Computer Vision Models**|Guangyi Zhang et.al.|[2609.04365](http://arxiv.org/abs/2609.04365)|null|
+|**2026-09-03**|**Cross-modal triage network: a multimodal deep learning framework for severity-based triage and visual explainability in chest radiographs**|Zinah Ghulam et.al.|[2609.04357](http://arxiv.org/abs/2609.04357)|null|
 |**2026-09-03**|**Last Translation Benchmark**|Vilém Zouhar et.al.|[2609.04173](http://arxiv.org/abs/2609.04173)|null|
 |**2026-09-03**|**Cooperative Multi-Task Semantic Communication for Joint Classification and Regression Tasks**|Ahmad Halimi Razlighi et.al.|[2609.03977](http://arxiv.org/abs/2609.03977)|null|
 |**2026-09-03**|**Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models**|Jiaqi Lv et.al.|[2609.03947](http://arxiv.org/abs/2609.03947)|null|
@@ -375,6 +386,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-09-03**|**Neural-Network Maxent: a general extension with learned nonlinearity, applied to time-series for Desert Locust distribution modelling**|Alessandro Grassi et.al.|[2609.03603](http://arxiv.org/abs/2609.03603)|null|
 |**2026-09-03**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
 |**2026-09-03**|**LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL**|Sijie Wang et.al.|[2609.03528](http://arxiv.org/abs/2609.03528)|null|
+|**2026-09-02**|**Multi-scale Image Representation Compression**|Tianhao Peng et.al.|[2609.04274](http://arxiv.org/abs/2609.04274)|null|
+|**2026-09-02**|**Scalable Neural Video Representation Compression**|Tianhao Peng et.al.|[2609.04273](http://arxiv.org/abs/2609.04273)|null|
 |**2026-09-02**|**Beyond Blur: A Semantic Tri-view Pipeline for Teledermatology Gradability via Skin Micro-relief**|Robert Engel et.al.|[2609.03095](http://arxiv.org/abs/2609.03095)|null|
 |**2026-09-02**|**Sparse concept attribution for histomorphological hypothesis generation from whole-slide classifiers**|Tristan Lazard et.al.|[2609.02985](http://arxiv.org/abs/2609.02985)|null|
 |**2026-09-02**|**Learning from Scarce Labels: Multi-View Echocardiography for Ejection Fraction Prediction**|Zhiyuan Gao et.al.|[2609.02969](http://arxiv.org/abs/2609.02969)|null|
