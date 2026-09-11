@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.10
+### Automatically Updated on 2026.09.11
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding**|Weitong Cai et.al.|[2609.11899](http://arxiv.org/abs/2609.11899)|null|
+|**2026-09-10**|**OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models**|Jianjiang Yang et.al.|[2609.11244](http://arxiv.org/abs/2609.11244)|null|
+|**2026-09-10**|**CamPilot: A Multi-Agent Cinematic Assistant for Camera-Controlled Movie Generation**|Yang Wu et.al.|[2609.10943](http://arxiv.org/abs/2609.10943)|null|
 |**2026-09-09**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
 |**2026-09-09**|**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**|Xiaoda Yang et.al.|[2608.24674](http://arxiv.org/abs/2608.24674)|null|
 |**2026-09-08**|**DSE-VTG: Dual-Side Enhancement for Training-Free Video Temporal Grounding**|Zhuo Cao et.al.|[2609.08850](http://arxiv.org/abs/2609.08850)|null|
@@ -372,6 +375,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**MindTopo: Can Foundation Models Reason in Topological Space?**|Yunfei Ge et.al.|[2609.11900](http://arxiv.org/abs/2609.11900)|null|
+|**2026-09-10**|**UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound**|Weiying Chen et.al.|[2609.11506](http://arxiv.org/abs/2609.11506)|null|
+|**2026-09-10**|**Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models**|Gautam Rajendrakumar Gare et.al.|[2609.11310](http://arxiv.org/abs/2609.11310)|null|
+|**2026-09-10**|**Semi-Tensor Product-Based Multi-Term Randomized T-SVD and Its Visual Applications**|Xingchen Xiao et.al.|[2609.11168](http://arxiv.org/abs/2609.11168)|null|
+|**2026-09-10**|**Exponential Pixelating Integral transform with dual fractal features for enhanced chest X-ray abnormality detection**|Naveenraj Kamalakannan et.al.|[2609.10988](http://arxiv.org/abs/2609.10988)|null|
+|**2026-09-09**|**Seamless Whole Slide Label-Free Virtual Staining**|Dou Hoon Kwark et.al.|[2609.10914](http://arxiv.org/abs/2609.10914)|null|
+|**2026-09-09**|**Annotating anatomy and pathology in the National Lung Screening Trial computed tomography images**|Deepa Krishnaswamy et.al.|[2609.10858](http://arxiv.org/abs/2609.10858)|null|
+|**2026-09-09**|**Scale-Aware 3D Deep Learning for Robust Brain Metastasis Detection in Multimodal MRI**|Sylvain Jaume et.al.|[2609.10825](http://arxiv.org/abs/2609.10825)|null|
+|**2026-09-09**|**TrajFusionNet+: Transformer-Based Prediction of Pedestrian Crossing Intention via Fusion of Trajectory Representations and Scene Graphs**|François G. Landry et.al.|[2609.10806](http://arxiv.org/abs/2609.10806)|null|
+|**2026-09-09**|**XPos3R: Cross-Modal Transformer for Intraoperative 2D/3D Registration**|Shiyan Su et.al.|[2609.10733](http://arxiv.org/abs/2609.10733)|null|
+|**2026-09-09**|**From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**|Yu Ma et.al.|[2609.10714](http://arxiv.org/abs/2609.10714)|null|
+|**2026-09-09**|**Physics-Informed Sequential Reconstruction of Scanning Probe Microscopy Images with Calibrated Uncertainty**|Surya Prakash Reddy et.al.|[2609.10638](http://arxiv.org/abs/2609.10638)|null|
 |**2026-09-09**|**Storage-Scalable Progressive Semantic Communication via Knowledge-Base Reuse**|Heng Zhu et.al.|[2609.10112](http://arxiv.org/abs/2609.10112)|null|
 |**2026-09-09**|**Cost-Aware Vision--Language Model Arbitration for Fabric Structure Recognition A Deployable Multi-Agent System**|Chenwei Wang et.al.|[2609.10065](http://arxiv.org/abs/2609.10065)|null|
 |**2026-09-09**|**Morphological Decoupling-Based Skeletal Classification for Clinical Assessment of Malocclusion**|Zhichun Jin et.al.|[2609.09801](http://arxiv.org/abs/2609.09801)|null|
@@ -1749,6 +1764,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport**|Luyi Jia et.al.|[2609.11842](http://arxiv.org/abs/2609.11842)|null|
+|**2026-09-09**|**Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning**|Iman Khazrak et.al.|[2609.10656](http://arxiv.org/abs/2609.10656)|null|
 |**2026-09-08**|**Let It Go or Learn to Self-Correct: Continuous Diffusion for Constrained Discrete Tasks**|Mariia Drozdova et.al.|[2609.09009](http://arxiv.org/abs/2609.09009)|null|
 |**2026-09-05**|**Spatial Attention Supervision for Defect Localization: Exploiting Ground-Truth Masks as Training Signal in Diffusion-Augmented Defect Detection**|Sajjad Rezvani Boroujeni et.al.|[2609.06232](http://arxiv.org/abs/2609.06232)|null|
 |**2026-09-01**|**Diffusion models for eye-gaze trajectory generation using position and velocity representations**|Laxman Basnet et.al.|[2609.05522](http://arxiv.org/abs/2609.05522)|null|
