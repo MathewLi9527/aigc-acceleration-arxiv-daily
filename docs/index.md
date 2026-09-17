@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.16
+### Automatically Updated on 2026.09.17
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model**|Haoyu Zhao et.al.|[2609.18323](http://arxiv.org/abs/2609.18323)|null|
 |**2026-09-14**|**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**|Xiaofeng Mao et.al.|[2609.15863](http://arxiv.org/abs/2609.15863)|null|
 |**2026-09-14**|**Query-Conditioned Spherical Centroid Aggregation for Multimodal Retrieval**|Ambuj Mehrish et.al.|[2609.15335](http://arxiv.org/abs/2609.15335)|null|
 |**2026-09-13**|**CrossDistill: Balancing Quality and Diversity via Trajectory-Level Hybrid Few-Step Distillation**|Yuxi Liu et.al.|[2609.14725](http://arxiv.org/abs/2609.14725)|null|
@@ -378,6 +379,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Highly accelerated 3D Cartesian MPnRAGE with implicit neural representation reconstruction**|Natascha Niessen et.al.|[2609.18589](http://arxiv.org/abs/2609.18589)|null|
+|**2026-09-16**|**StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions**|Awomo-WM Team et.al.|[2609.18430](http://arxiv.org/abs/2609.18430)|null|
+|**2026-09-16**|**Informed Sinogram Interpolation for Sparse View Reconstruction**|Yuejie Liu et.al.|[2609.18415](http://arxiv.org/abs/2609.18415)|null|
+|**2026-09-16**|**Constrained Color Carrier: Characterization-Preserving Conditional Color Rendering in Multi-Illuminant Camera Profiles**|Xilai Liang et.al.|[2609.18361](http://arxiv.org/abs/2609.18361)|null|
+|**2026-09-16**|**Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model**|Haoyu Zhao et.al.|[2609.18323](http://arxiv.org/abs/2609.18323)|null|
+|**2026-09-16**|**Visual Autoregressive Priors for RAW-to-sRGB Image Signal Processing**|Tailai Chen et.al.|[2609.18302](http://arxiv.org/abs/2609.18302)|null|
+|**2026-09-15**|**Collaborative Memory for Multi-Agent VLM Systems**|Huixin Zhang et.al.|[2609.17921](http://arxiv.org/abs/2609.17921)|null|
 |**2026-09-15**|**PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control**|Chuhao Chen et.al.|[2609.17521](http://arxiv.org/abs/2609.17521)|null|
 |**2026-09-15**|**Quantum-Inspired Trainable and Parameter-Efficient Tensor Networks for Image Inpainting**|Shiwen An et.al.|[2609.17298](http://arxiv.org/abs/2609.17298)|null|
 |**2026-09-15**|**From Foundation Embeddings to Cropland Maps: Label Efficiency, Temporal Transferability and Independent Human Validation**|Mohammad Ammar Mughees et.al.|[2609.17138](http://arxiv.org/abs/2609.17138)|null|
@@ -1787,6 +1795,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Spatially Adaptive Noise Injection**|Frantzeska Lavda et.al.|[2609.18466](http://arxiv.org/abs/2609.18466)|null|
+|**2026-09-15**|**Spatio-temporal Latent Denoising Diffusion Probabilistic Models for Reduced-order Modeling of Parametrized Dynamical Systems**|Michiel Nikken et.al.|[2609.17768](http://arxiv.org/abs/2609.17768)|null|
 |**2026-09-15**|**Efficient 3D Whole-Body PET Image Denoising via Conditional Rectified Flow With Optimized Sampling Strategy**|Jiale Shen et.al.|[2609.16690](http://arxiv.org/abs/2609.16690)|null|
 |**2026-09-15**|**FlowATC: Aircraft Trajectory Prediction via Flow Matching**|Mathurin Petit et.al.|[2609.16528](http://arxiv.org/abs/2609.16528)|null|
 |**2026-09-13**|**Differentiable Digital Signal Processing Mixture Model-Guided Diffusion for Synthesis Parameter Estimation from Harmonic Sound Mixtures**|Kengo Takemoto et.al.|[2609.14427](http://arxiv.org/abs/2609.14427)|null|
