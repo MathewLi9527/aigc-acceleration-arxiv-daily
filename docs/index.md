@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.17
+### Automatically Updated on 2026.09.18
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Astronex-World 1.0: Real-Time Interactive World Model Foundation**|Xin Zhou et.al.|[2609.20034](http://arxiv.org/abs/2609.20034)|null|
 |**2026-09-16**|**Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model**|Haoyu Zhao et.al.|[2609.18323](http://arxiv.org/abs/2609.18323)|null|
 |**2026-09-14**|**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**|Xiaofeng Mao et.al.|[2609.15863](http://arxiv.org/abs/2609.15863)|null|
 |**2026-09-14**|**Query-Conditioned Spherical Centroid Aggregation for Multimodal Retrieval**|Ambuj Mehrish et.al.|[2609.15335](http://arxiv.org/abs/2609.15335)|null|
@@ -379,6 +380,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
+|**2026-09-17**|**Synthetic Fingerprints for Children Under Four: Generation and Biometric Evaluation**|Faheem Ahmad et.al.|[2609.20621](http://arxiv.org/abs/2609.20621)|null|
+|**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Zhikun Zhou et.al.|[2609.20586](http://arxiv.org/abs/2609.20586)|null|
+|**2026-09-17**|**OmniMimic: Dynamics-completed Motion Augmentation for Multi-style Omnidirectional Quadruped Locomotion**|Sheng Wu et.al.|[2609.20566](http://arxiv.org/abs/2609.20566)|null|
+|**2026-09-17**|**Unifying Image Quality Assessment Datasets: MOSAIQ-500K and MOSAIQ-Bench**|Wenbo Yang et.al.|[2609.20247](http://arxiv.org/abs/2609.20247)|null|
+|**2026-09-17**|**Effects of Sequence Timing on the Spatio-Temporal Properties of 3D BOLD fMRI: A Formal Framework and Analysis**|Samuel Bianchi et.al.|[2609.20105](http://arxiv.org/abs/2609.20105)|null|
+|**2026-09-17**|**Astronex-World 1.0: Real-Time Interactive World Model Foundation**|Xin Zhou et.al.|[2609.20034](http://arxiv.org/abs/2609.20034)|null|
+|**2026-09-17**|**Video Based Assessment of Surgical Skills Using Frozen Pretrained Video Foundation Models**|Sangrock Lee et.al.|[2609.19772](http://arxiv.org/abs/2609.19772)|null|
+|**2026-09-17**|**HyperAMS-Net: Adaptive Multi-Scale Spatial Hypergraph Network for Brain Disorder Classification**|Proloy Kumar Mondal et.al.|[2609.19755](http://arxiv.org/abs/2609.19755)|null|
+|**2026-09-17**|**The segmentation ceiling: why explicit left-ventricular masks do not improve learned ejection-fraction regression**|Farshid Farhadi Khouzani et.al.|[2609.19730](http://arxiv.org/abs/2609.19730)|null|
+|**2026-09-17**|**Compression Hurts, Pooling Helps: Information Loss in Rayleigh-Scale Estimation from B-Mode Ultrasound**|D. Hudson Smith et.al.|[2609.19525](http://arxiv.org/abs/2609.19525)|null|
+|**2026-09-16**|**Mammography Foundation Models for Opportunistic Prediction of Major Adverse Cardiovascular Events**|Paula Feldman et.al.|[2609.19385](http://arxiv.org/abs/2609.19385)|null|
+|**2026-09-16**|**NIMARC-MRI: Abdominal HASTE Dataset and a Baseline U-Net Exposing the Synthetic-to-Real Gap in Low-Resource Motion Correction**|Abdulrazaq A. Zubair et.al.|[2609.19323](http://arxiv.org/abs/2609.19323)|null|
+|**2026-09-16**|**Physics-Informed Hemodynamic Modeling for Data-Free Prediction and Sparse-Data Assimilation**|Xi Chen et.al.|[2609.19290](http://arxiv.org/abs/2609.19290)|null|
+|**2026-09-16**|**Perceptual Refinement of an End-to-End Video Streaming Pipeline via Generative AI Layers**|Emanuele Artioli et.al.|[2609.19215](http://arxiv.org/abs/2609.19215)|null|
 |**2026-09-16**|**Highly accelerated 3D Cartesian MPnRAGE with implicit neural representation reconstruction**|Natascha Niessen et.al.|[2609.18589](http://arxiv.org/abs/2609.18589)|null|
 |**2026-09-16**|**StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions**|Awomo-WM Team et.al.|[2609.18430](http://arxiv.org/abs/2609.18430)|null|
 |**2026-09-16**|**Informed Sinogram Interpolation for Sparse View Reconstruction**|Yuejie Liu et.al.|[2609.18415](http://arxiv.org/abs/2609.18415)|null|
