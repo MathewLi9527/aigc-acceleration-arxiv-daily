@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.20
+### Automatically Updated on 2026.09.21
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
+|**2026-09-18**|**Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing**|Chongbo Zhao et.al.|[2609.21268](http://arxiv.org/abs/2609.21268)|null|
+|**2026-09-18**|**TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching**|Zhihao Shu et.al.|[2609.21172](http://arxiv.org/abs/2609.21172)|null|
 |**2026-09-17**|**Astronex-World 1.0: Real-Time Interactive World Model Foundation**|Xin Zhou et.al.|[2609.20034](http://arxiv.org/abs/2609.20034)|null|
 |**2026-09-16**|**Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model**|Haoyu Zhao et.al.|[2609.18323](http://arxiv.org/abs/2609.18323)|null|
 |**2026-09-14**|**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**|Xiaofeng Mao et.al.|[2609.15863](http://arxiv.org/abs/2609.15863)|null|
@@ -380,8 +383,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Model-Based Iterative Reconstruction with View-Dependent Detector Displacements for Cone-Beam CT**|Doga Topcicek et.al.|[2609.22032](http://arxiv.org/abs/2609.22032)|null|
+|**2026-09-18**|**Opportunistic Conditional Entropy Coding with Frozen Analysis and Synthesis Transforms**|Vincent Corlay et.al.|[2609.21816](http://arxiv.org/abs/2609.21816)|null|
+|**2026-09-18**|**OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue**|Haolin He et.al.|[2609.21465](http://arxiv.org/abs/2609.21465)|null|
+|**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Hang Jiang et.al.|[2609.21391](http://arxiv.org/abs/2609.21391)|null|
+|**2026-09-18**|**Adaptive Color Grading**|Trevor D. Canham et.al.|[2609.21169](http://arxiv.org/abs/2609.21169)|null|
+|**2026-09-18**|**Synthetic Fingerprints for Children Under Four: Generation and Biometric Evaluation**|Faheem Ahmad et.al.|[2609.20621](http://arxiv.org/abs/2609.20621)|null|
+|**2026-09-17**|**RTLViT: real-time lensless reconstruction with a lightweight vision transformer**|Leyla A. Kabuli et.al.|[2609.21042](http://arxiv.org/abs/2609.21042)|null|
+|**2026-09-17**|**Uncertainty-driven training for three-dimensional calibrated lung nodule classification**|Giuseppe Tripodi et.al.|[2609.20905](http://arxiv.org/abs/2609.20905)|null|
 |**2026-09-17**|**ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis**|Zahra Ghaffari et.al.|[2609.20815](http://arxiv.org/abs/2609.20815)|null|
-|**2026-09-17**|**Synthetic Fingerprints for Children Under Four: Generation and Biometric Evaluation**|Faheem Ahmad et.al.|[2609.20621](http://arxiv.org/abs/2609.20621)|null|
 |**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Zhikun Zhou et.al.|[2609.20586](http://arxiv.org/abs/2609.20586)|null|
 |**2026-09-17**|**OmniMimic: Dynamics-completed Motion Augmentation for Multi-style Omnidirectional Quadruped Locomotion**|Sheng Wu et.al.|[2609.20566](http://arxiv.org/abs/2609.20566)|null|
 |**2026-09-17**|**Unifying Image Quality Assessment Datasets: MOSAIQ-500K and MOSAIQ-Bench**|Wenbo Yang et.al.|[2609.20247](http://arxiv.org/abs/2609.20247)|null|
