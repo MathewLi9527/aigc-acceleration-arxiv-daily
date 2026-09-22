@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.21
+### Automatically Updated on 2026.09.22
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
+|**2026-09-21**|**CoaG: Cylinders on a Grid: Coarse 3D Layout Control for Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
+|**2026-09-21**|**UniK: Universal Knowledge Perception for Digital and Physical AI**|Nirmit Desai et.al.|[2609.23971](http://arxiv.org/abs/2609.23971)|null|
+|**2026-09-20**|**Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms**|Yueyan Li et.al.|[2609.23658](http://arxiv.org/abs/2609.23658)|null|
+|**2026-09-20**|**Detecting Phone-Induced Pedestrian Distraction via a Multimodal Fusion Transformer**|Yuanzhe Li et.al.|[2609.23507](http://arxiv.org/abs/2609.23507)|null|
+|**2026-09-20**|**CrossDistill: Balancing Quality and Diversity via Trajectory-Level Hybrid Few-Step Distillation**|Yuxi Liu et.al.|[2609.14725](http://arxiv.org/abs/2609.14725)|null|
+|**2026-09-19**|**Block-Sparse Attention with Semantic-Geometric Decoupled Routing**|Xinwei Long et.al.|[2609.22884](http://arxiv.org/abs/2609.22884)|null|
+|**2026-09-18**|**Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents**|Peichun Hua et.al.|[2609.22486](http://arxiv.org/abs/2609.22486)|null|
 |**2026-09-18**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
 |**2026-09-18**|**Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing**|Chongbo Zhao et.al.|[2609.21268](http://arxiv.org/abs/2609.21268)|null|
 |**2026-09-18**|**TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching**|Zhihao Shu et.al.|[2609.21172](http://arxiv.org/abs/2609.21172)|null|
@@ -28,7 +36,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-09-16**|**Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model**|Haoyu Zhao et.al.|[2609.18323](http://arxiv.org/abs/2609.18323)|null|
 |**2026-09-14**|**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**|Xiaofeng Mao et.al.|[2609.15863](http://arxiv.org/abs/2609.15863)|null|
 |**2026-09-14**|**Query-Conditioned Spherical Centroid Aggregation for Multimodal Retrieval**|Ambuj Mehrish et.al.|[2609.15335](http://arxiv.org/abs/2609.15335)|null|
-|**2026-09-13**|**CrossDistill: Balancing Quality and Diversity via Trajectory-Level Hybrid Few-Step Distillation**|Yuxi Liu et.al.|[2609.14725](http://arxiv.org/abs/2609.14725)|null|
 |**2026-09-13**|**ReaDiT Guidance: Control for Image and Video Generation using Diffusion Transformer Features**|Jay Mahajan et.al.|[2609.04649](http://arxiv.org/abs/2609.04649)|null|
 |**2026-09-10**|**Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding**|Weitong Cai et.al.|[2609.11899](http://arxiv.org/abs/2609.11899)|null|
 |**2026-09-10**|**OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models**|Jianjiang Yang et.al.|[2609.11244](http://arxiv.org/abs/2609.11244)|null|
@@ -383,6 +390,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks**|Muzhe Wu et.al.|[2609.24955](http://arxiv.org/abs/2609.24955)|null|
+|**2026-09-21**|**When is a closed-form RGB->S/P ratio adequate? A hyperspectral characterization on natural scenes for mesopic display**|Naoyuki Uchida et.al.|[2609.24819](http://arxiv.org/abs/2609.24819)|null|
+|**2026-09-21**|**Disparity Estimation of Planar Reflective Surfaces Using Specular Reflections From a Single Light Source**|Katja Kossira et.al.|[2609.24756](http://arxiv.org/abs/2609.24756)|null|
+|**2026-09-21**|**GraphSVR: q-Space--Aware Graph-Based Slice-to-Volume Registration for Diffusion MRI**|Noga Kertes et.al.|[2609.24732](http://arxiv.org/abs/2609.24732)|null|
+|**2026-09-21**|**Recurrent Convolutional Neural Networks for LiDAR-Based Attitude Initialization of Rotating Spacecraft**|Luca Bechis et.al.|[2609.24685](http://arxiv.org/abs/2609.24685)|null|
+|**2026-09-21**|**JEVQA - Video Quality from Metadata, Bitstream, and Pixel Features with a General-Purpose Decision Model**|Werner Robitza et.al.|[2609.24395](http://arxiv.org/abs/2609.24395)|null|
+|**2026-09-21**|**Look Where It Counts: A Free, Label-Free Visual Evidence Signal for Fine-Grained Vision-Language Reasoning**|Santi Ram Tiwari et.al.|[2609.24244](http://arxiv.org/abs/2609.24244)|null|
+|**2026-09-20**|**ORION-CMR: On-scanner Reporting with Integrated Foundation Model for End-to-End Cardiac MRI Analysis and Interpretation**|Omer Burak Demirel et.al.|[2609.23950](http://arxiv.org/abs/2609.23950)|null|
+|**2026-09-20**|**VGG16-MCA UNet: Whole-Tumor Segmentation in 2D FLAIR MRI with Decoder-Side Channel Attention**|Shubham Gajjar et.al.|[2609.23919](http://arxiv.org/abs/2609.23919)|null|
+|**2026-09-20**|**Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds**|Rishabh Jain et.al.|[2609.23915](http://arxiv.org/abs/2609.23915)|null|
+|**2026-09-20**|**Hierarchical Filter Band Selection for Multispectral Object Classification**|Katja Kossira et.al.|[2609.23670](http://arxiv.org/abs/2609.23670)|null|
+|**2026-09-20**|**LiteSC: Lightweight Semantic Communication for Robust Wireless Telesurgical Video Transmission**|Zexin Deng et.al.|[2609.23661](http://arxiv.org/abs/2609.23661)|null|
+|**2026-09-20**|**Resolution-Flexible Decoding for Hybrid Neural Video Representations**|Taiga Hayami et.al.|[2609.23555](http://arxiv.org/abs/2609.23555)|null|
+|**2026-09-19**|**UQMIA: An Open, Hands-On Tutorial on Uncertainty Quantification in Medical Imaging Analysis with Large Language Model-Based Assessment of Educational Content**|Benyamin Gheiji et.al.|[2609.23241](http://arxiv.org/abs/2609.23241)|null|
+|**2026-09-19**|**SparkDiffusion: Mitigating the High-Sparsity Trap --- A Unified Framework for up to $265\times$ Single-GPU Acceleration of Visual Generation**|Yuxi Liu et.al.|[2609.23153](http://arxiv.org/abs/2609.23153)|null|
+|**2026-09-19**|**DA-Lion: Efficient Neural Video Representation via Direction-Aware Optimization**|Qingyu Mao et.al.|[2609.23052](http://arxiv.org/abs/2609.23052)|null|
+|**2026-09-19**|**Signal recovery in the polychromatic computed tomography model: Injectivity and complexity**|Xuanzhou Chen et.al.|[2609.23040](http://arxiv.org/abs/2609.23040)|null|
+|**2026-09-19**|**Quality Assessment of 3D Gaussian Splatting: Distortions, Benchmarks, and Open Challenges**|Shuai Liu et.al.|[2609.23027](http://arxiv.org/abs/2609.23027)|null|
+|**2026-09-19**|**SomaNet: Weakly Supervised Learning for Instance Soma Segmentation in 3D Electron Microscopy with Partial Annotations**|Mohammad Khateri et.al.|[2609.23019](http://arxiv.org/abs/2609.23019)|null|
+|**2026-09-19**|**Scalable SSIM Estimation from PSNR for Per-Title and Context-Adaptive Encoding Workflows**|Luc Trudeau et.al.|[2609.22969](http://arxiv.org/abs/2609.22969)|null|
 |**2026-09-18**|**Model-Based Iterative Reconstruction with View-Dependent Detector Displacements for Cone-Beam CT**|Doga Topcicek et.al.|[2609.22032](http://arxiv.org/abs/2609.22032)|null|
 |**2026-09-18**|**Opportunistic Conditional Entropy Coding with Frozen Analysis and Synthesis Transforms**|Vincent Corlay et.al.|[2609.21816](http://arxiv.org/abs/2609.21816)|null|
 |**2026-09-18**|**OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue**|Haolin He et.al.|[2609.21465](http://arxiv.org/abs/2609.21465)|null|
@@ -1821,6 +1848,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Diffusion-Based Super-Resolution of Adriatic Sea Oceanographic Fields**|Rajat Srivastava et.al.|[2609.22574](http://arxiv.org/abs/2609.22574)|null|
 |**2026-09-16**|**Spatially Adaptive Noise Injection**|Frantzeska Lavda et.al.|[2609.18466](http://arxiv.org/abs/2609.18466)|null|
 |**2026-09-15**|**Spatio-temporal Latent Denoising Diffusion Probabilistic Models for Reduced-order Modeling of Parametrized Dynamical Systems**|Michiel Nikken et.al.|[2609.17768](http://arxiv.org/abs/2609.17768)|null|
 |**2026-09-15**|**Efficient 3D Whole-Body PET Image Denoising via Conditional Rectified Flow With Optimized Sampling Strategy**|Jiale Shen et.al.|[2609.16690](http://arxiv.org/abs/2609.16690)|null|
