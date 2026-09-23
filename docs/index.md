@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.22
+### Automatically Updated on 2026.09.23
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**|Ovis-Embedding Team et.al.|[2609.25165](http://arxiv.org/abs/2609.25165)|null|
 |**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-21**|**CoaG: Cylinders on a Grid: Coarse 3D Layout Control for Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
 |**2026-09-21**|**UniK: Universal Knowledge Perception for Digital and Physical AI**|Nirmit Desai et.al.|[2609.23971](http://arxiv.org/abs/2609.23971)|null|
@@ -390,6 +391,20 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**ROAM-ASD: Robust Open-World Active Speaker Detection with Flexible Multimodal Fusion**|Pu Wang et.al.|[2609.26648](http://arxiv.org/abs/2609.26648)|null|
+|**2026-09-22**|**Laryngeal Structure Segmentation in High-Speed Videoendoscopy Using Deep Learning**|Sardar Nafis Bin Ali et.al.|[2609.26636](http://arxiv.org/abs/2609.26636)|null|
+|**2026-09-22**|**PP-Net: A Hybrid Physical-Prior Neural Network for Scattered Light Removal in Biomedical Images on Embedded Devices**|Yongfei Guo et.al.|[2609.26474](http://arxiv.org/abs/2609.26474)|null|
+|**2026-09-22**|**Mammo-LIFE: Longitudinal Mammographic Imaging and Clinical Feature Enrichment for Post-Radiotherapy Outcome Prediction**|Farnoush Bayatmakou et.al.|[2609.26443](http://arxiv.org/abs/2609.26443)|null|
+|**2026-09-22**|**QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation**|Jiaqi Zhao et.al.|[2609.26425](http://arxiv.org/abs/2609.26425)|null|
+|**2026-09-22**|**Evaluation of effective wave velocities in polycrystalline materials using the ultrasonic reflection matrix**|Gatien Clément et.al.|[2609.26343](http://arxiv.org/abs/2609.26343)|null|
+|**2026-09-22**|**A Reference-Based Protocol for Assessing Image Displacement and Scale Stability**|Fatih Ozturk et.al.|[2609.26322](http://arxiv.org/abs/2609.26322)|null|
+|**2026-09-22**|**Faithful Faithfulness Evaluations: Challenges & Pitfalls Learned from a Breast MRI Case Study**|Peachapong Poolpol et.al.|[2609.25978](http://arxiv.org/abs/2609.25978)|null|
+|**2026-09-22**|**Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis**|Wenjie Tian et.al.|[2609.25707](http://arxiv.org/abs/2609.25707)|null|
+|**2026-09-22**|**Initialization and Stopping Tolerance in CPU Dermoscopic Segmentation**|Wenhao Xu et.al.|[2609.25685](http://arxiv.org/abs/2609.25685)|null|
+|**2026-09-22**|**Robust, Estimator-Agnostic Dynamic 3DGS Compression**|Chenjunjie Wang et.al.|[2609.25633](http://arxiv.org/abs/2609.25633)|null|
+|**2026-09-22**|**Observer Choice and Threshold Selection in Retinal Vessel Segmentation: A Subject-Separated Evaluation**|Wenhao Xu et.al.|[2609.25597](http://arxiv.org/abs/2609.25597)|null|
+|**2026-09-21**|**mbariml: a curation pipeline for turning deep-sea imagery and video into object-detection training data**|Lonny Lundsten et.al.|[2609.25500](http://arxiv.org/abs/2609.25500)|null|
+|**2026-09-21**|**Entropy-map SSIM analysis of Salt and Pepper Noise Removal via Recursive Median Filterring**|Petr Boriskov et.al.|[2609.25266](http://arxiv.org/abs/2609.25266)|null|
 |**2026-09-21**|**Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks**|Muzhe Wu et.al.|[2609.24955](http://arxiv.org/abs/2609.24955)|null|
 |**2026-09-21**|**When is a closed-form RGB->S/P ratio adequate? A hyperspectral characterization on natural scenes for mesopic display**|Naoyuki Uchida et.al.|[2609.24819](http://arxiv.org/abs/2609.24819)|null|
 |**2026-09-21**|**Disparity Estimation of Planar Reflective Surfaces Using Specular Reflections From a Single Light Source**|Katja Kossira et.al.|[2609.24756](http://arxiv.org/abs/2609.24756)|null|
