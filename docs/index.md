@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.23
+### Automatically Updated on 2026.09.24
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**MotionSpec: Spectral Trajectory Supervision for Motion-Consistent Video Generation**|Ziqi Ni et.al.|[2609.28095](http://arxiv.org/abs/2609.28095)|null|
+|**2026-09-23**|**LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations**|Sandra Arcos-Holzinger et.al.|[2609.28086](http://arxiv.org/abs/2609.28086)|null|
+|**2026-09-23**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
 |**2026-09-21**|**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**|Ovis-Embedding Team et.al.|[2609.25165](http://arxiv.org/abs/2609.25165)|null|
 |**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-21**|**CoaG: Cylinders on a Grid: Coarse 3D Layout Control for Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
@@ -30,7 +33,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-09-20**|**CrossDistill: Balancing Quality and Diversity via Trajectory-Level Hybrid Few-Step Distillation**|Yuxi Liu et.al.|[2609.14725](http://arxiv.org/abs/2609.14725)|null|
 |**2026-09-19**|**Block-Sparse Attention with Semantic-Geometric Decoupled Routing**|Xinwei Long et.al.|[2609.22884](http://arxiv.org/abs/2609.22884)|null|
 |**2026-09-18**|**Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents**|Peichun Hua et.al.|[2609.22486](http://arxiv.org/abs/2609.22486)|null|
-|**2026-09-18**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
 |**2026-09-18**|**Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing**|Chongbo Zhao et.al.|[2609.21268](http://arxiv.org/abs/2609.21268)|null|
 |**2026-09-18**|**TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching**|Zhihao Shu et.al.|[2609.21172](http://arxiv.org/abs/2609.21172)|null|
 |**2026-09-17**|**Astronex-World 1.0: Real-Time Interactive World Model Foundation**|Xin Zhou et.al.|[2609.20034](http://arxiv.org/abs/2609.20034)|null|
@@ -391,11 +393,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Predicting the Progression of Adolescent Idiopathic Scoliosis**|Owen Pullen et.al.|[2609.28434](http://arxiv.org/abs/2609.28434)|null|
+|**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339](http://arxiv.org/abs/2609.28339)|null|
+|**2026-09-23**|**Geospatial embeddings detect old-growth forests but buffered spatial validation narrows their advantage over Sentinel features**|Thomas Ratsakatika et.al.|[2609.28194](http://arxiv.org/abs/2609.28194)|null|
+|**2026-09-23**|**A comparative assessment of global building and settlement datasets across geographic and settlement contexts**|Rufai Omowunmi Balogun et.al.|[2609.28154](http://arxiv.org/abs/2609.28154)|null|
+|**2026-09-23**|**Watching What We Eat: Information Quality and Body Image in Diet-Related YouTube Videos**|Maddalena Ghiotti et.al.|[2609.28114](http://arxiv.org/abs/2609.28114)|null|
+|**2026-09-23**|**Recursive Uncertainty-Gated Image Registration for Learning-based Algorithms**|Clara Rodrigo González et.al.|[2609.28081](http://arxiv.org/abs/2609.28081)|null|
+|**2026-09-23**|**When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions**|Ning-Hsuan Chang et.al.|[2609.27560](http://arxiv.org/abs/2609.27560)|null|
+|**2026-09-23**|**SatUnreal: A High-Precision Synthetic Dataset for Satellite Stereo Matching via Unreal Engine**|Han-Gyeol Kim et.al.|[2609.27442](http://arxiv.org/abs/2609.27442)|null|
+|**2026-09-23**|**QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation**|Jiaqi Zhao et.al.|[2609.26425](http://arxiv.org/abs/2609.26425)|null|
+|**2026-09-22**|**HYDRO: Towards Non-Reversible Face De-Identification Using a High-Fidelity Hybrid Diffusion and Target-Oriented Approach**|Felix Rosberg et.al.|[2609.27011](http://arxiv.org/abs/2609.27011)|null|
+|**2026-09-22**|**nnFoundation: 3D Foundation Models for Radiology**|Constantin Ulrich Harsy et.al.|[2609.26924](http://arxiv.org/abs/2609.26924)|null|
 |**2026-09-22**|**ROAM-ASD: Robust Open-World Active Speaker Detection with Flexible Multimodal Fusion**|Pu Wang et.al.|[2609.26648](http://arxiv.org/abs/2609.26648)|null|
 |**2026-09-22**|**Laryngeal Structure Segmentation in High-Speed Videoendoscopy Using Deep Learning**|Sardar Nafis Bin Ali et.al.|[2609.26636](http://arxiv.org/abs/2609.26636)|null|
 |**2026-09-22**|**PP-Net: A Hybrid Physical-Prior Neural Network for Scattered Light Removal in Biomedical Images on Embedded Devices**|Yongfei Guo et.al.|[2609.26474](http://arxiv.org/abs/2609.26474)|null|
 |**2026-09-22**|**Mammo-LIFE: Longitudinal Mammographic Imaging and Clinical Feature Enrichment for Post-Radiotherapy Outcome Prediction**|Farnoush Bayatmakou et.al.|[2609.26443](http://arxiv.org/abs/2609.26443)|null|
-|**2026-09-22**|**QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation**|Jiaqi Zhao et.al.|[2609.26425](http://arxiv.org/abs/2609.26425)|null|
 |**2026-09-22**|**Evaluation of effective wave velocities in polycrystalline materials using the ultrasonic reflection matrix**|Gatien Clément et.al.|[2609.26343](http://arxiv.org/abs/2609.26343)|null|
 |**2026-09-22**|**A Reference-Based Protocol for Assessing Image Displacement and Scale Stability**|Fatih Ozturk et.al.|[2609.26322](http://arxiv.org/abs/2609.26322)|null|
 |**2026-09-22**|**Faithful Faithfulness Evaluations: Challenges & Pitfalls Learned from a Breast MRI Case Study**|Peachapong Poolpol et.al.|[2609.25978](http://arxiv.org/abs/2609.25978)|null|
