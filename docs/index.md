@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.24
+### Automatically Updated on 2026.09.25
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,12 +21,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation**|Yubo Zhu et.al.|[2609.30221](http://arxiv.org/abs/2609.30221)|null|
+|**2026-09-24**|**SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge**|Toya Oyama et.al.|[2609.29721](http://arxiv.org/abs/2609.29721)|null|
+|**2026-09-24**|**LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations**|Sandra Arcos-Holzinger et.al.|[2609.28086](http://arxiv.org/abs/2609.28086)|null|
+|**2026-09-23**|**Don't Read the Log: Execution Traces Contaminate Verifiers in Video-Generation Agents**|Jian Xu et.al.|[2609.28564](http://arxiv.org/abs/2609.28564)|null|
 |**2026-09-23**|**MotionSpec: Spectral Trajectory Supervision for Motion-Consistent Video Generation**|Ziqi Ni et.al.|[2609.28095](http://arxiv.org/abs/2609.28095)|null|
-|**2026-09-23**|**LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations**|Sandra Arcos-Holzinger et.al.|[2609.28086](http://arxiv.org/abs/2609.28086)|null|
+|**2026-09-23**|**CoaG: Cylinders on a Grid for Coarse 3D Layout Control in Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
 |**2026-09-23**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
 |**2026-09-21**|**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**|Ovis-Embedding Team et.al.|[2609.25165](http://arxiv.org/abs/2609.25165)|null|
 |**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
-|**2026-09-21**|**CoaG: Cylinders on a Grid: Coarse 3D Layout Control for Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
 |**2026-09-21**|**UniK: Universal Knowledge Perception for Digital and Physical AI**|Nirmit Desai et.al.|[2609.23971](http://arxiv.org/abs/2609.23971)|null|
 |**2026-09-20**|**Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms**|Yueyan Li et.al.|[2609.23658](http://arxiv.org/abs/2609.23658)|null|
 |**2026-09-20**|**Detecting Phone-Induced Pedestrian Distraction via a Multimodal Fusion Transformer**|Yuanzhe Li et.al.|[2609.23507](http://arxiv.org/abs/2609.23507)|null|
@@ -393,6 +396,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates**|Samuel Fernández-Menduiña et.al.|[2609.30077](http://arxiv.org/abs/2609.30077)|null|
+|**2026-09-24**|**Beyond Spatial Benchmarks: From Spatial Reasoning to Navigation**|Xun Huang et.al.|[2609.29934](http://arxiv.org/abs/2609.29934)|null|
+|**2026-09-24**|**Efficient Continuous DEM Reconstruction under Limited Target-Resolution Supervision**|Zekai Shi et.al.|[2609.29864](http://arxiv.org/abs/2609.29864)|null|
+|**2026-09-24**|**VQ-LIC: Shared Vector-Quantized Learned Image Compression on a Resource-Constrained FPGA**|Muhammad Fahd Ibrahim Bhatti et.al.|[2609.29727](http://arxiv.org/abs/2609.29727)|null|
+|**2026-09-24**|**Graph-Based Semi-Supervised Hyperspectral Image Classification with Distance-Aware Spatial Measure**|Sérgio J. M. Almeida et.al.|[2609.29367](http://arxiv.org/abs/2609.29367)|null|
+|**2026-09-24**|**Scalable photoacoustic tomography implementations accounting for the spatial impulse response of transducers**|Trung-Thai Do et.al.|[2609.29253](http://arxiv.org/abs/2609.29253)|null|
+|**2026-09-24**|**A Unified Frequency-Domain Model for Cascaded Filter-Interpolation Modulation in Tomographic Reconstruction**|Detian Li et.al.|[2609.29220](http://arxiv.org/abs/2609.29220)|null|
+|**2026-09-24**|**LC3EM: Long-Range Context Extrapolation Enhanced Entropy Model for Coordinate-based Overfitting Image Codecs**|Hao Wang et.al.|[2609.29192](http://arxiv.org/abs/2609.29192)|null|
+|**2026-09-24**|**Revolutionizing Diffusion MRI Microstructure Mapping via Global Inversion**|Yuxiang Wan et.al.|[2609.28958](http://arxiv.org/abs/2609.28958)|null|
+|**2026-09-24**|**MoVISA: Multi-Token Reasoning for Video Object Segmentation**|Ruining Zhao et.al.|[2609.28956](http://arxiv.org/abs/2609.28956)|null|
+|**2026-09-23**|**Physics-Guided Multi-Objective Deep Learning for Ultrasound RF Data Interpolation in Resource-Constrained Imaging**|Luoyuan Zhang et.al.|[2609.28775](http://arxiv.org/abs/2609.28775)|null|
+|**2026-09-23**|**Integrating Local Detail and Global Context: A Dual-Input Multi-Task Learning Framework for Bone Tumor Diagnosis**|S. M. Nasif Uddin et.al.|[2609.28732](http://arxiv.org/abs/2609.28732)|null|
 |**2026-09-23**|**Predicting the Progression of Adolescent Idiopathic Scoliosis**|Owen Pullen et.al.|[2609.28434](http://arxiv.org/abs/2609.28434)|null|
 |**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339](http://arxiv.org/abs/2609.28339)|null|
 |**2026-09-23**|**Geospatial embeddings detect old-growth forests but buffered spatial validation narrows their advantage over Sentinel features**|Thomas Ratsakatika et.al.|[2609.28194](http://arxiv.org/abs/2609.28194)|null|
