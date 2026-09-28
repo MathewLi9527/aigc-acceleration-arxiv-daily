@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.27
+### Automatically Updated on 2026.09.28
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,13 +21,15 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**TempQ-Jail: Query-Constrained Candidate Ranking for Text-to-Video Jailbreak Attacks**|Tianmeng Fang et.al.|[2609.31032](http://arxiv.org/abs/2609.31032)|null|
+|**2026-09-25**|**NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation**|Xijie Huang et.al.|[2609.30770](http://arxiv.org/abs/2609.30770)|null|
 |**2026-09-24**|**WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation**|Yubo Zhu et.al.|[2609.30221](http://arxiv.org/abs/2609.30221)|null|
 |**2026-09-24**|**SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge**|Toya Oyama et.al.|[2609.29721](http://arxiv.org/abs/2609.29721)|null|
 |**2026-09-24**|**LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations**|Sandra Arcos-Holzinger et.al.|[2609.28086](http://arxiv.org/abs/2609.28086)|null|
+|**2026-09-24**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
 |**2026-09-23**|**Don't Read the Log: Execution Traces Contaminate Verifiers in Video-Generation Agents**|Jian Xu et.al.|[2609.28564](http://arxiv.org/abs/2609.28564)|null|
 |**2026-09-23**|**MotionSpec: Spectral Trajectory Supervision for Motion-Consistent Video Generation**|Ziqi Ni et.al.|[2609.28095](http://arxiv.org/abs/2609.28095)|null|
 |**2026-09-23**|**CoaG: Cylinders on a Grid for Coarse 3D Layout Control in Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
-|**2026-09-23**|**CompAdapt: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation**|Haoran Qin et.al.|[2609.21455](http://arxiv.org/abs/2609.21455)|null|
 |**2026-09-21**|**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**|Ovis-Embedding Team et.al.|[2609.25165](http://arxiv.org/abs/2609.25165)|null|
 |**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-21**|**UniK: Universal Knowledge Perception for Digital and Physical AI**|Nirmit Desai et.al.|[2609.23971](http://arxiv.org/abs/2609.23971)|null|
@@ -396,6 +398,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning**|Mohamed Azzam et.al.|[2609.31376](http://arxiv.org/abs/2609.31376)|null|
+|**2026-09-25**|**Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning**|Antoine Lorentz et.al.|[2609.31199](http://arxiv.org/abs/2609.31199)|null|
+|**2026-09-25**|**Quantum Diffusion Models for Medical Image Analysis**|Francesco Aldo Venturelli et.al.|[2609.31070](http://arxiv.org/abs/2609.31070)|null|
+|**2026-09-25**|**Learning Polarization Image Restoration with General Restoration Priors**|Chenggong Li et.al.|[2609.30728](http://arxiv.org/abs/2609.30728)|null|
+|**2026-09-25**|**Deep Pseudo-Proximal Map: A Self-Supervised Data-Fitting Agent for Iterative Reconstruction**|Haley Duba-Sullivan et.al.|[2609.30727](http://arxiv.org/abs/2609.30727)|null|
+|**2026-09-25**|**Image Reconstruction from Phase with Untrained Neural Priors**|Ene Meco et.al.|[2609.30659](http://arxiv.org/abs/2609.30659)|null|
+|**2026-09-24**|**PGDM-MRSRGAN: Physics-Guided Degradation Model with an SRGAN Framework for Magnetic Resonance Image Super-Resolution: Applications in Low-Field MRI**|Yashwant Kurmi et.al.|[2609.30431](http://arxiv.org/abs/2609.30431)|null|
 |**2026-09-24**|**Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates**|Samuel Fernández-Menduiña et.al.|[2609.30077](http://arxiv.org/abs/2609.30077)|null|
 |**2026-09-24**|**Beyond Spatial Benchmarks: From Spatial Reasoning to Navigation**|Xun Huang et.al.|[2609.29934](http://arxiv.org/abs/2609.29934)|null|
 |**2026-09-24**|**Efficient Continuous DEM Reconstruction under Limited Target-Resolution Supervision**|Zekai Shi et.al.|[2609.29864](http://arxiv.org/abs/2609.29864)|null|
