@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.28
+### Automatically Updated on 2026.09.29
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Sprout: Building Dynamic Memory While Reasoning for Agentic Video Understanding**|Wei Chen et.al.|[2609.35497](http://arxiv.org/abs/2609.35497)|null|
+|**2026-09-28**|**Generative Uncertainty as a Self-supervised Signal for Semantic Similarity Learning**|Enrico Pallotta et.al.|[2609.35341](http://arxiv.org/abs/2609.35341)|null|
+|**2026-09-28**|**G $^3$ -LoRA: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA**|Jia Song et.al.|[2609.35189](http://arxiv.org/abs/2609.35189)|null|
+|**2026-09-28**|**Advancing Video-Text Pretraining with Multi-View Captions**|Fida M. Thoker et.al.|[2609.35090](http://arxiv.org/abs/2609.35090)|null|
+|**2026-09-28**|**SkillPE: Creativity-Oriented Cinematic Skill Evolution for Text-to-Video Prompt Engineering**|Yanwei Huang et.al.|[2609.34335](http://arxiv.org/abs/2609.34335)|null|
+|**2026-09-28**|**Decision Readouts for Text-Mediated Video Anomaly Detection: An Exploratory Evaluation of Jev and Qwen**|Xukui Qin et.al.|[2609.34180](http://arxiv.org/abs/2609.34180)|null|
+|**2026-09-26**|**Carnator: Fast Text-to-Video Generation with Generation-Native Compatibility-Guided Cross-Request Reuse**|Xingkun Yin et.al.|[2609.32420](http://arxiv.org/abs/2609.32420)|null|
 |**2026-09-25**|**TempQ-Jail: Query-Constrained Candidate Ranking for Text-to-Video Jailbreak Attacks**|Tianmeng Fang et.al.|[2609.31032](http://arxiv.org/abs/2609.31032)|null|
 |**2026-09-25**|**NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation**|Xijie Huang et.al.|[2609.30770](http://arxiv.org/abs/2609.30770)|null|
 |**2026-09-24**|**WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation**|Yubo Zhu et.al.|[2609.30221](http://arxiv.org/abs/2609.30221)|null|
@@ -398,6 +405,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**W2Rep: Learning Visual Representations by Watching the World Change**|Wen Huang et.al.|[2609.35464](http://arxiv.org/abs/2609.35464)|null|
+|**2026-09-28**|**Memory- and Bandwidth-Efficient SPAD-LiDAR Ranging via Coarse-to-Fine Spline Sketching**|Zhenya Zangy et.al.|[2609.35126](http://arxiv.org/abs/2609.35126)|null|
+|**2026-09-28**|**OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models**|Hao Wang et.al.|[2609.35052](http://arxiv.org/abs/2609.35052)|null|
+|**2026-09-28**|**Just MLPs: Efficient Visual State Reconstruction for Multimodal Language Models**|Jingdi lei et.al.|[2609.34972](http://arxiv.org/abs/2609.34972)|null|
+|**2026-09-28**|**Gen2-VC: Unlocking Generative Priors for Video Compression**|Yinhuan Huang et.al.|[2609.34725](http://arxiv.org/abs/2609.34725)|null|
+|**2026-09-28**|**TSGate: Timestep-Aware Gated Attention for Diffusion Transformers**|Boyu Zhang et.al.|[2609.34539](http://arxiv.org/abs/2609.34539)|null|
+|**2026-09-28**|**SubjectAnchor: Subject-Aware Memory-to-Video for Multi-Shot Storytelling**|Xinyu Wang et.al.|[2609.34502](http://arxiv.org/abs/2609.34502)|null|
+|**2026-09-28**|**From Static to Dynamic: On-Policy Distillation from Image to Video Diffusion Models**|Bingqing Jiang et.al.|[2609.34371](http://arxiv.org/abs/2609.34371)|null|
+|**2026-09-28**|**MiCo: Mutual Information Coverage Optimization through Semantic Erasure Modeling for Efficient MLLM Inference**|Tinghao Wang et.al.|[2609.34330](http://arxiv.org/abs/2609.34330)|null|
+|**2026-09-28**|**MaLiang-Harness: A Programmable Path to Image and Video Generation**|Haoyu Zhao et.al.|[2609.34309](http://arxiv.org/abs/2609.34309)|null|
+|**2026-09-28**|**Trustworthy synthetic visual media: Evidence across the media lifecycle**|Zexi Jia et.al.|[2609.34232](http://arxiv.org/abs/2609.34232)|null|
+|**2026-09-28**|**SCOPD: Sparse-Context On-Policy Self-Distillation for Efficient Vision-Language Models**|Ahmadreza Jeddi et.al.|[2609.34044](http://arxiv.org/abs/2609.34044)|null|
+|**2026-09-27**|**ReAL: Accelerating Flow Matching through Segment Advancement with Shared Lookahead**|Xuanhua Yin et.al.|[2609.33202](http://arxiv.org/abs/2609.33202)|null|
+|**2026-09-26**|**Mask2Restore: Self-Supervised Ultrasound Despeckling via Inpainting**|Xuesong Li et.al.|[2609.32844](http://arxiv.org/abs/2609.32844)|null|
+|**2026-09-26**|**Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling**|Krzysztof Marcin Choromanski et.al.|[2609.32824](http://arxiv.org/abs/2609.32824)|null|
+|**2026-09-26**|**LoCoVSR: Local Context Diffusion Posterior Sampling for Video Super-Resolution**|Matan Ben Chorin et.al.|[2609.32742](http://arxiv.org/abs/2609.32742)|null|
+|**2026-09-26**|**RefCompose: Multi-Reference Image Generation via LoRA-Conditioned Diffusion**|Sai Sri Teja Kuppa et.al.|[2609.32389](http://arxiv.org/abs/2609.32389)|null|
+|**2026-09-26**|**Active Data Acquisition with Side Information via Discrete Diffusion Priors**|An Vuong et.al.|[2609.32252](http://arxiv.org/abs/2609.32252)|null|
+|**2026-09-26**|**Scalable In-Domain Self-Supervised Foundation Model for Dense Representation Transfer in High-Resolution Plant Imaging**|Junlin Guo et.al.|[2609.32183](http://arxiv.org/abs/2609.32183)|null|
+|**2026-09-26**|**Reconstruction of Molten Pool Flow Fields from High-Speed Video Using Physics-Informed Neural Networks**|Yue Cao et.al.|[2609.32126](http://arxiv.org/abs/2609.32126)|null|
 |**2026-09-25**|**Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning**|Mohamed Azzam et.al.|[2609.31376](http://arxiv.org/abs/2609.31376)|null|
 |**2026-09-25**|**Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning**|Antoine Lorentz et.al.|[2609.31199](http://arxiv.org/abs/2609.31199)|null|
 |**2026-09-25**|**Quantum Diffusion Models for Medical Image Analysis**|Francesco Aldo Venturelli et.al.|[2609.31070](http://arxiv.org/abs/2609.31070)|null|
@@ -1899,6 +1926,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-26**|**DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting**|Weiwei Ye et.al.|[2609.32363](http://arxiv.org/abs/2609.32363)|null|
+|**2026-09-25**|**PredRA: Fast Medical Image Translation by Deterministic Component Extraction and Controlled Stochastic Refinement**|Jianhai Zhang et.al.|[2609.31912](http://arxiv.org/abs/2609.31912)|null|
+|**2026-09-23**|**PEEL-DDPM: Physics-Enabled Evidential Learning for the Denoising Diffusion Probabilistic Model**|Ge Wang et.al.|[2609.31742](http://arxiv.org/abs/2609.31742)|null|
 |**2026-09-18**|**Diffusion-Based Super-Resolution of Adriatic Sea Oceanographic Fields**|Rajat Srivastava et.al.|[2609.22574](http://arxiv.org/abs/2609.22574)|null|
 |**2026-09-16**|**Spatially Adaptive Noise Injection**|Frantzeska Lavda et.al.|[2609.18466](http://arxiv.org/abs/2609.18466)|null|
 |**2026-09-15**|**Spatio-temporal Latent Denoising Diffusion Probabilistic Models for Reduced-order Modeling of Parametrized Dynamical Systems**|Michiel Nikken et.al.|[2609.17768](http://arxiv.org/abs/2609.17768)|null|
