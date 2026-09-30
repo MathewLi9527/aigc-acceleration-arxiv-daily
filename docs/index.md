@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.09.29
+### Automatically Updated on 2026.09.30
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Motion Concept Unlearning in Video Diffusion Models**|Ping Liu et.al.|[2609.36832](http://arxiv.org/abs/2609.36832)|null|
+|**2026-09-29**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-28**|**Sprout: Building Dynamic Memory While Reasoning for Agentic Video Understanding**|Wei Chen et.al.|[2609.35497](http://arxiv.org/abs/2609.35497)|null|
 |**2026-09-28**|**Generative Uncertainty as a Self-supervised Signal for Semantic Similarity Learning**|Enrico Pallotta et.al.|[2609.35341](http://arxiv.org/abs/2609.35341)|null|
 |**2026-09-28**|**G $^3$ -LoRA: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA**|Jia Song et.al.|[2609.35189](http://arxiv.org/abs/2609.35189)|null|
@@ -38,7 +40,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-09-23**|**MotionSpec: Spectral Trajectory Supervision for Motion-Consistent Video Generation**|Ziqi Ni et.al.|[2609.28095](http://arxiv.org/abs/2609.28095)|null|
 |**2026-09-23**|**CoaG: Cylinders on a Grid for Coarse 3D Layout Control in Video Generation**|Zhangsihao Yang et.al.|[2609.24208](http://arxiv.org/abs/2609.24208)|null|
 |**2026-09-21**|**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**|Ovis-Embedding Team et.al.|[2609.25165](http://arxiv.org/abs/2609.25165)|null|
-|**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-21**|**UniK: Universal Knowledge Perception for Digital and Physical AI**|Nirmit Desai et.al.|[2609.23971](http://arxiv.org/abs/2609.23971)|null|
 |**2026-09-20**|**Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms**|Yueyan Li et.al.|[2609.23658](http://arxiv.org/abs/2609.23658)|null|
 |**2026-09-20**|**Detecting Phone-Induced Pedestrian Distraction via a Multimodal Fusion Transformer**|Yuanzhe Li et.al.|[2609.23507](http://arxiv.org/abs/2609.23507)|null|
@@ -405,6 +406,22 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation**|Shengxiang Ji et.al.|[2609.38146](http://arxiv.org/abs/2609.38146)|null|
+|**2026-09-29**|**VoxelSage: Tool-Augmented 3D CT Analysis and Simulator-Shielded Sequential Resection Planning for Liver Tumors**|Binghong Qian et.al.|[2609.37648](http://arxiv.org/abs/2609.37648)|null|
+|**2026-09-29**|**On Task Scope and Information Retention in Source Coding**|Alireza Furutanpey et.al.|[2609.37575](http://arxiv.org/abs/2609.37575)|null|
+|**2026-09-29**|**CASR: Content-Adaptive Neural Super-Resolution Post-Filter for Versatile Video Coding via Low-Rank Overfitting**|Khoa Pham-Dinh et.al.|[2609.37328](http://arxiv.org/abs/2609.37328)|null|
+|**2026-09-29**|**Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation**|Xingtong Ge et.al.|[2609.36995](http://arxiv.org/abs/2609.36995)|null|
+|**2026-09-29**|**Ternary Visible Light Communication Using Event-Based Vision Sensors**|Sotaro Kuremoto et.al.|[2609.36905](http://arxiv.org/abs/2609.36905)|null|
+|**2026-09-29**|**S4VY: Segment Anything in Feed-Forward 4D Visual Geometry**|Jingdong Zhang et.al.|[2609.36875](http://arxiv.org/abs/2609.36875)|null|
+|**2026-09-29**|**Beyond Legibility: Benchmarking Visual Text Rendering and In-Place Editing in Unified Video Generation**|Ziying Zhang et.al.|[2609.36598](http://arxiv.org/abs/2609.36598)|null|
+|**2026-09-29**|**AffectReveal: Event-Grounded Emotion Recognition Beyond Visual Appearances**|Yihao Qian et.al.|[2609.36563](http://arxiv.org/abs/2609.36563)|null|
+|**2026-09-29**|**MedForge-RSI: Medical Deepfake Detection via Recursive Self-Improvement**|Zhihui Chen et.al.|[2609.36549](http://arxiv.org/abs/2609.36549)|null|
+|**2026-09-29**|**Reliability Testing of Medical Model Performance under Distributed Deployment**|Yifei Wang et.al.|[2609.36525](http://arxiv.org/abs/2609.36525)|null|
+|**2026-09-28**|**Your Benchmark Is Not Saturated: Reviving Multiple-Choice Evaluation with Answer Pooling**|Mohamed Eltahir et.al.|[2609.37494](http://arxiv.org/abs/2609.37494)|null|
+|**2026-09-28**|**CAMEO: A Class-Activation-Mapped Equitable Overlay Framework for Fair and Robust Deep Learning-based Skin Condition Diagnosis**|Youssef Attia et.al.|[2609.36400](http://arxiv.org/abs/2609.36400)|null|
+|**2026-09-28**|**From Wildfire Severity to Snow Persistence: A Multisource GeoAI Study of the 2020 Creek Fire**|Parastoo Farajpoor et.al.|[2609.36345](http://arxiv.org/abs/2609.36345)|null|
+|**2026-09-28**|**EnergyEminence: Source-Aware Environmental Calibration and Evaluation in a Physics-Grounded Grid Digital Twin**|Huy Trinh et.al.|[2609.36215](http://arxiv.org/abs/2609.36215)|null|
+|**2026-09-28**|**PreviewDiff: Multimodal Critic-Guided Search over Diffusion Latents**|Vighnesh Subramaniam et.al.|[2609.36199](http://arxiv.org/abs/2609.36199)|null|
 |**2026-09-28**|**W2Rep: Learning Visual Representations by Watching the World Change**|Wen Huang et.al.|[2609.35464](http://arxiv.org/abs/2609.35464)|null|
 |**2026-09-28**|**Memory- and Bandwidth-Efficient SPAD-LiDAR Ranging via Coarse-to-Fine Spline Sketching**|Zhenya Zangy et.al.|[2609.35126](http://arxiv.org/abs/2609.35126)|null|
 |**2026-09-28**|**OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models**|Hao Wang et.al.|[2609.35052](http://arxiv.org/abs/2609.35052)|null|
