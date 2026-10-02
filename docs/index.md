@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.01
+### Automatically Updated on 2026.10.02
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation**|Yiwen Zhang et.al.|[2610.02153](http://arxiv.org/abs/2610.02153)|null|
+|**2026-10-01**|**Memory-Guided B-Roll Generation from User Video Collections**|Cusuh Ham et.al.|[2610.01884](http://arxiv.org/abs/2610.01884)|null|
+|**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
+|**2026-09-30**|**PLACE: Positional Latent Adaptation via Conditioned Embeddings for Binaural Audio Generation**|Tiernon Riesenmy et.al.|[2610.00630](http://arxiv.org/abs/2610.00630)|null|
 |**2026-09-29**|**Motion Concept Unlearning in Video Diffusion Models**|Ping Liu et.al.|[2609.36832](http://arxiv.org/abs/2609.36832)|null|
 |**2026-09-29**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-28**|**Sprout: Building Dynamic Memory While Reasoning for Agentic Video Understanding**|Wei Chen et.al.|[2609.35497](http://arxiv.org/abs/2609.35497)|null|
@@ -406,6 +410,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation**|Yiwen Zhang et.al.|[2610.02153](http://arxiv.org/abs/2610.02153)|null|
+|**2026-10-01**|**MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI**|Negin Kafee Hernashki et.al.|[2610.02136](http://arxiv.org/abs/2610.02136)|null|
+|**2026-10-01**|**Binary Phase Retrieval of Cosine Transforms via Local Curvature Minimization**|Ronald Ogden et.al.|[2610.02112](http://arxiv.org/abs/2610.02112)|null|
+|**2026-10-01**|**A foundation for systematic analysis of transformers and RNNs for tractography**|Emmanuelle Renauld et.al.|[2610.01894](http://arxiv.org/abs/2610.01894)|null|
+|**2026-10-01**|**Unsupervised Domain Adaptation for Enhanced Radiometer Image Precipitation Estimation using Conditional Flow Matching**|Victor Enescu et.al.|[2610.01890](http://arxiv.org/abs/2610.01890)|null|
+|**2026-10-01**|**MDIRNET: Multi-Degradation Image Restoration Network via Deep Unfolding**|Talha Nadeem et.al.|[2610.01655](http://arxiv.org/abs/2610.01655)|null|
+|**2026-10-01**|**VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation**|Yu Huang et.al.|[2610.01499](http://arxiv.org/abs/2610.01499)|null|
+|**2026-10-01**|**AiSearch: Interactive Multi-Modal Search with VLMs**|Ali Koksal et.al.|[2610.01389](http://arxiv.org/abs/2610.01389)|null|
+|**2026-10-01**|**PickMoment: Continuous-Time Single-Image-to-Video via Learning Deblurring and Blur-to-Video**|Junseong Shin et.al.|[2610.01279](http://arxiv.org/abs/2610.01279)|null|
+|**2026-10-01**|**DeFA: Dependency-Guided Failure Attribution for LLM Agents**|Bo Deng et.al.|[2610.01256](http://arxiv.org/abs/2610.01256)|null|
+|**2026-10-01**|**Affine-Aligned Atlas for Canonical Gaussian Construction in Video Representation**|Masaya Takabe et.al.|[2610.01114](http://arxiv.org/abs/2610.01114)|null|
+|**2026-10-01**|**RC-aware nnU-Netv2 for Pre-treatment and Post-treatment Glioma Segmentation Using Multimodal MRI**|Lin Qu et.al.|[2610.01060](http://arxiv.org/abs/2610.01060)|null|
+|**2026-10-01**|**HierGF: Hierarchical Gaussian Fields via Geometry-perception Message Passing for Sparse-view 3D Reconstruction**|Bi'an Du et.al.|[2610.01056](http://arxiv.org/abs/2610.01056)|null|
+|**2026-10-01**|**Towards Subject Consistency over Dynamic Subject Sets in Video Generation**|Tongcheng Zhang et.al.|[2610.01052](http://arxiv.org/abs/2610.01052)|null|
+|**2026-10-01**|**CANOPY: Adaptive-Granularity Evidence Compression for Multimodal RAG**|Hyojeong Yun et.al.|[2610.00923](http://arxiv.org/abs/2610.00923)|null|
+|**2026-10-01**|**UniTrackPLA: Unified Panorama-Language-Action Model for Instruction-Guided Navigation and Dynamic Person Tracking**|Pengfei Qi et.al.|[2610.00878](http://arxiv.org/abs/2610.00878)|null|
+|**2026-10-01**|**MorphoBranch: A Fine-Structure-Preserving Workbench for Morphometric Analysis of Branched Cellular Structures**|Song Zhiying et.al.|[2610.00860](http://arxiv.org/abs/2610.00860)|null|
+|**2026-09-30**|**Spatially Gated Diffusion for Localized Counterfactual Chest Radiograph Editing**|Kamran Ullah Afaq et.al.|[2610.00805](http://arxiv.org/abs/2610.00805)|null|
+|**2026-09-30**|**MAV-C: A Framework for the Joint Objective Estimation of Audio-Visual Complexity in Immersive Virtual Environments**|Luca Resti et.al.|[2610.00754](http://arxiv.org/abs/2610.00754)|null|
+|**2026-09-30**|**Synthetic-to-Real Transfer in Cerebral Microbleed Generation and Segmentation**|To-Liang Hsu et.al.|[2610.00743](http://arxiv.org/abs/2610.00743)|null|
 |**2026-09-30**|**Tissue Detection Determines False Positives in Diffusion-Based Histopathology Artifact Detection**|Konstantinos Moutselos et.al.|[2609.40083](http://arxiv.org/abs/2609.40083)|null|
 |**2026-09-30**|**CoEvoWhen: Policy-Tool Coevolution for Ultra-Long Video Temporal Grounding**|Yiduo Jia et.al.|[2609.40048](http://arxiv.org/abs/2609.40048)|null|
 |**2026-09-30**|**ExpandDiff: Dynamic Range Expanding Diffusion for Single-Image HDR Reconstruction**|Mehmet Emre andıran et.al.|[2609.39624](http://arxiv.org/abs/2609.39624)|null|
