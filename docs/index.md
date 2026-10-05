@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.04
+### Automatically Updated on 2026.10.05
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
+|**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation**|Yiwen Zhang et.al.|[2610.02153](http://arxiv.org/abs/2610.02153)|null|
 |**2026-10-01**|**Memory-Guided B-Roll Generation from User Video Collections**|Cusuh Ham et.al.|[2610.01884](http://arxiv.org/abs/2610.01884)|null|
 |**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
@@ -410,6 +412,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**What Should World Models Forget? Stratified Retention for Continual Adaptation**|Nishit Anand et.al.|[2610.03713](http://arxiv.org/abs/2610.03713)|null|
+|**2026-10-02**|**Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection**|Shuo Yang et.al.|[2610.03577](http://arxiv.org/abs/2610.03577)|null|
+|**2026-10-02**|**Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening**|Christiaan M. Geldenhuys et.al.|[2610.03290](http://arxiv.org/abs/2610.03290)|null|
+|**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
+|**2026-10-02**|**Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation**|Divya Jyoti Bajpai et.al.|[2610.03202](http://arxiv.org/abs/2610.03202)|null|
+|**2026-10-02**|**BeeWhere: Segmenting Bumble Bee Colonies to Quantify Behavioral Effects**|Roberta Hunt et.al.|[2610.03051](http://arxiv.org/abs/2610.03051)|null|
+|**2026-10-02**|**Custom Forcing: Training-Free Subject Customization for Autoregressive Video Generation**|Yunseung Ok et.al.|[2610.02914](http://arxiv.org/abs/2610.02914)|null|
+|**2026-10-02**|**FUSEye: Training-Light Fisheye Detection with Overlapping Views and Zero-Initialized Adapters**|Wenya Su et.al.|[2610.02799](http://arxiv.org/abs/2610.02799)|null|
+|**2026-10-02**|**Proprioceptive Sketches as Long-Horizon Intent for Generative Action Policies**|Fangyuan Wang et.al.|[2610.02759](http://arxiv.org/abs/2610.02759)|null|
+|**2026-10-02**|**Jumping up and down: Denoiser diffusion models for discrete ordinal data**|Yair Shenfeld et.al.|[2610.02754](http://arxiv.org/abs/2610.02754)|null|
+|**2026-10-02**|**One Photon, Many Worlds: Posteriors and Predictions with Single-Photon Cameras**|Haejoon Lee et.al.|[2610.02675](http://arxiv.org/abs/2610.02675)|null|
 |**2026-10-01**|**MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation**|Yiwen Zhang et.al.|[2610.02153](http://arxiv.org/abs/2610.02153)|null|
 |**2026-10-01**|**MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI**|Negin Kafee Hernashki et.al.|[2610.02136](http://arxiv.org/abs/2610.02136)|null|
 |**2026-10-01**|**Binary Phase Retrieval of Cosine Transforms via Local Curvature Minimization**|Ronald Ogden et.al.|[2610.02112](http://arxiv.org/abs/2610.02112)|null|
@@ -1986,6 +1999,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-09-26**|**DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting**|Weiwei Ye et.al.|[2609.32363](http://arxiv.org/abs/2609.32363)|null|
 |**2026-09-25**|**PredRA: Fast Medical Image Translation by Deterministic Component Extraction and Controlled Stochastic Refinement**|Jianhai Zhang et.al.|[2609.31912](http://arxiv.org/abs/2609.31912)|null|
 |**2026-09-23**|**PEEL-DDPM: Physics-Enabled Evidential Learning for the Denoising Diffusion Probabilistic Model**|Ge Wang et.al.|[2609.31742](http://arxiv.org/abs/2609.31742)|null|
+|**2026-09-18**|**Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification**|Quach Thi Thai Binh et.al.|[2610.02224](http://arxiv.org/abs/2610.02224)|null|
 |**2026-09-18**|**Diffusion-Based Super-Resolution of Adriatic Sea Oceanographic Fields**|Rajat Srivastava et.al.|[2609.22574](http://arxiv.org/abs/2609.22574)|null|
 |**2026-09-16**|**Spatially Adaptive Noise Injection**|Frantzeska Lavda et.al.|[2609.18466](http://arxiv.org/abs/2609.18466)|null|
 |**2026-09-15**|**Spatio-temporal Latent Denoising Diffusion Probabilistic Models for Reduced-order Modeling of Parametrized Dynamical Systems**|Michiel Nikken et.al.|[2609.17768](http://arxiv.org/abs/2609.17768)|null|
