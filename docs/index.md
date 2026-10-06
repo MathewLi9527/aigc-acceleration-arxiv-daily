@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.05
+### Automatically Updated on 2026.10.06
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**TasteRoute: Personalized Routing for Video Generation**|Zhi Rui Tam et.al.|[2610.05896](http://arxiv.org/abs/2610.05896)|null|
+|**2026-10-04**|**Your Unlearning Gives You Away: Identifying Erased Concepts in Diffusion Models**|Kaiyuan Deng et.al.|[2610.05601](http://arxiv.org/abs/2610.05601)|null|
+|**2026-10-02**|**FADE: Frame-Aware Diffusion-Transformer-based Multi-Concept Erasure for Video Unlearning**|Yuchen Li et.al.|[2610.03980](http://arxiv.org/abs/2610.03980)|null|
 |**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation**|Yiwen Zhang et.al.|[2610.02153](http://arxiv.org/abs/2610.02153)|null|
@@ -412,6 +415,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation**|Emre Acartürk et.al.|[2610.06809](http://arxiv.org/abs/2610.06809)|null|
+|**2026-10-05**|**Adapting prior-data fitted networks for tabular anomaly detection**|Maximilian Bershtman et.al.|[2610.06693](http://arxiv.org/abs/2610.06693)|null|
+|**2026-10-05**|**Multitask Conditional Generative Adversarial Network Enables Automatic Whole Knee Cartilage and Menisci Segmentation and Reliable T1\r{ho} and T2 Quantification Without High-Resolution Morphological Images**|Ahmed Tahseen Minhaz et.al.|[2610.06602](http://arxiv.org/abs/2610.06602)|null|
+|**2026-10-05**|**Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems**|Rohan Mehra et.al.|[2610.06596](http://arxiv.org/abs/2610.06596)|null|
+|**2026-10-05**|**Right Bregman proximal gradient with application to Poisson inverse problems ***|Thibaut Modrzyk et.al.|[2610.06579](http://arxiv.org/abs/2610.06579)|null|
+|**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](http://arxiv.org/abs/2610.06107)|null|
+|**2026-10-05**|**AI-Driven XR Situational Awareness Platform for Urban Crisis Management and Smart Mobility Operations**|Dimitris Spyridonidis et.al.|[2610.06051](http://arxiv.org/abs/2610.06051)|null|
+|**2026-10-05**|**How well do routinely collected demographic and clinical variables aid point-of-care lung ultrasound TB classification**|Joshua M. Jansen van Vüren et.al.|[2610.06034](http://arxiv.org/abs/2610.06034)|null|
+|**2026-10-05**|**TasteRoute: Personalized Routing for Video Generation**|Zhi Rui Tam et.al.|[2610.05896](http://arxiv.org/abs/2610.05896)|null|
+|**2026-10-05**|**Level-of-Token Diffusion**|Kiyohiro Nakayama et.al.|[2610.05816](http://arxiv.org/abs/2610.05816)|null|
+|**2026-10-04**|**Your Unlearning Gives You Away: Identifying Erased Concepts in Diffusion Models**|Kaiyuan Deng et.al.|[2610.05601](http://arxiv.org/abs/2610.05601)|null|
+|**2026-10-04**|**Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife**|Yuzhuo Li et.al.|[2610.05587](http://arxiv.org/abs/2610.05587)|null|
+|**2026-10-04**|**Distortion-Free High-Resolution PROPELLER-DWI: Technical Advances and Initial Demonstration for the Prostate**|Jingjia Chen et.al.|[2610.05426](http://arxiv.org/abs/2610.05426)|null|
+|**2026-10-04**|**MMPostTrainBench: Benchmarking Autonomous Research for Multimodal Post-Training**|Yuxin Liu et.al.|[2610.05398](http://arxiv.org/abs/2610.05398)|null|
+|**2026-10-04**|**TIRMamba: A Thermal-Prior-Modulated State-Space Network for Sub-Million-Parameter Infrared Image Super-Resolution**|Chun-An Lin et.al.|[2610.05182](http://arxiv.org/abs/2610.05182)|null|
+|**2026-10-04**|**How Does Geometry Enter Generated Motion?**|Weihan Li et.al.|[2610.05135](http://arxiv.org/abs/2610.05135)|null|
+|**2026-10-03**|**A differentiable Lagrangian-coupled 3D Gaussian Splatting-SPH model for forward simulation and inverse analysis in solid mechanics**|Tian Xu et.al.|[2610.04336](http://arxiv.org/abs/2610.04336)|null|
+|**2026-10-03**|**FloVMos: Optical Flow-based Medical Video Mosaicking**|Jinyang Liu et.al.|[2610.04258](http://arxiv.org/abs/2610.04258)|null|
+|**2026-10-02**|**Watermarks and Fingerprints as Soft Bindings for Content Provenance: An Open-Licence Benchmark for Images, Audio and Video**|Seyedmahdi Kazempourradi et.al.|[2610.04151](http://arxiv.org/abs/2610.04151)|null|
+|**2026-10-02**|**The Reported Engagement with AI Level (REAL) Rating: A Framework for Disclosing Human-AI Collaboration**|Imène Goumiri et.al.|[2610.04021](http://arxiv.org/abs/2610.04021)|null|
 |**2026-10-02**|**What Should World Models Forget? Stratified Retention for Continual Adaptation**|Nishit Anand et.al.|[2610.03713](http://arxiv.org/abs/2610.03713)|null|
 |**2026-10-02**|**Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection**|Shuo Yang et.al.|[2610.03577](http://arxiv.org/abs/2610.03577)|null|
 |**2026-10-02**|**Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening**|Christiaan M. Geldenhuys et.al.|[2610.03290](http://arxiv.org/abs/2610.03290)|null|
@@ -1995,7 +2018,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-30**|**Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution**|Shixuan Liu et.al.|[2609.38776](http://arxiv.org/abs/2609.38776)|null|
+|**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](http://arxiv.org/abs/2610.06107)|null|
+|**2026-10-05**|**Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution**|Shixuan Liu et.al.|[2609.38776](http://arxiv.org/abs/2609.38776)|null|
 |**2026-09-26**|**DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting**|Weiwei Ye et.al.|[2609.32363](http://arxiv.org/abs/2609.32363)|null|
 |**2026-09-25**|**PredRA: Fast Medical Image Translation by Deterministic Component Extraction and Controlled Stochastic Refinement**|Jianhai Zhang et.al.|[2609.31912](http://arxiv.org/abs/2609.31912)|null|
 |**2026-09-23**|**PEEL-DDPM: Physics-Enabled Evidential Learning for the Denoising Diffusion Probabilistic Model**|Ge Wang et.al.|[2609.31742](http://arxiv.org/abs/2609.31742)|null|
