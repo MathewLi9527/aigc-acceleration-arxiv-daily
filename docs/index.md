@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.06
+### Automatically Updated on 2026.10.07
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -415,9 +415,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation**|Liao Ma et.al.|[2610.08772](http://arxiv.org/abs/2610.08772)|null|
+|**2026-10-06**|**RACE-FPP: A Robust AI-assisted Characterisation Enhancement for Fringe Projection Profilometry**|Osman Ali et.al.|[2610.08213](http://arxiv.org/abs/2610.08213)|null|
+|**2026-10-06**|**Rethinking Visual Provenance: Detection and Watermarking Across Direct Visual Generation and LLM-Driven Code Rendering**|Zheng Gao et.al.|[2610.08137](http://arxiv.org/abs/2610.08137)|null|
+|**2026-10-06**|**Laplace-Domain Beamforming for Ultrafast Plane-Wave Imaging**|Martin F. Schiffner et.al.|[2610.08080](http://arxiv.org/abs/2610.08080)|null|
+|**2026-10-06**|**DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given**|Minhyeok Lee et.al.|[2610.07958](http://arxiv.org/abs/2610.07958)|null|
+|**2026-10-06**|**Learned Adaptive Multiresolution Diffusion Imaging**|Christian Tantardini et.al.|[2610.07884](http://arxiv.org/abs/2610.07884)|null|
+|**2026-10-06**|**CETUS: How Far Do Representations Trained on Earth Transfer to Cassini SAR of Titan?**|Kevin Lee et.al.|[2610.07576](http://arxiv.org/abs/2610.07576)|null|
+|**2026-10-06**|**LARK: A Low-Cost, Accurate, Occlusion-Resilient, Kalman Filter-Assisted Tracking System for Image-Guided Surgery**|George Sideris et.al.|[2610.07561](http://arxiv.org/abs/2610.07561)|null|
+|**2026-10-06**|**Multitask Conditional Generative Adversarial Network Enables Automatic Whole Knee Cartilage and Menisci Segmentation and Reliable $T_{1ρ}$ and $T_2$ Quantification Without High-Resolution Morphological Images**|Ahmed Tahseen Minhaz et.al.|[2610.06602](http://arxiv.org/abs/2610.06602)|null|
 |**2026-10-05**|**Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation**|Emre Acartürk et.al.|[2610.06809](http://arxiv.org/abs/2610.06809)|null|
 |**2026-10-05**|**Adapting prior-data fitted networks for tabular anomaly detection**|Maximilian Bershtman et.al.|[2610.06693](http://arxiv.org/abs/2610.06693)|null|
-|**2026-10-05**|**Multitask Conditional Generative Adversarial Network Enables Automatic Whole Knee Cartilage and Menisci Segmentation and Reliable T1\r{ho} and T2 Quantification Without High-Resolution Morphological Images**|Ahmed Tahseen Minhaz et.al.|[2610.06602](http://arxiv.org/abs/2610.06602)|null|
 |**2026-10-05**|**Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems**|Rohan Mehra et.al.|[2610.06596](http://arxiv.org/abs/2610.06596)|null|
 |**2026-10-05**|**Right Bregman proximal gradient with application to Poisson inverse problems ***|Thibaut Modrzyk et.al.|[2610.06579](http://arxiv.org/abs/2610.06579)|null|
 |**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](http://arxiv.org/abs/2610.06107)|null|
@@ -2018,6 +2026,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Model-Based Geometry-Aware Generative Optimization for Constrained Locomotion Planning**|Zhilin He et.al.|[2610.07772](http://arxiv.org/abs/2610.07772)|null|
+|**2026-10-05**|**Energy-Conditioned Noise Schedule and Whitening for Spectral Diffusion**|Bata Vasic et.al.|[2610.07206](http://arxiv.org/abs/2610.07206)|null|
 |**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](http://arxiv.org/abs/2610.06107)|null|
 |**2026-10-05**|**Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution**|Shixuan Liu et.al.|[2609.38776](http://arxiv.org/abs/2609.38776)|null|
 |**2026-09-26**|**DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting**|Weiwei Ye et.al.|[2609.32363](http://arxiv.org/abs/2609.32363)|null|
