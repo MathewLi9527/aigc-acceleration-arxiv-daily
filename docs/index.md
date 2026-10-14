@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.13
+### Automatically Updated on 2026.10.14
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,15 +21,24 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|null|
+|**2026-10-13**|**LongForcing: Scaling Temporal Manifold Matching for Long-Horizon World Rollout**|Ziyu Zhu et.al.|[2610.18289](http://arxiv.org/abs/2610.18289)|null|
+|**2026-10-13**|**VARI: Robust Text-to-Video Generation via Group-Structured Intent Alignment**|Mingxuan Zhu et.al.|[2610.18189](http://arxiv.org/abs/2610.18189)|null|
+|**2026-10-13**|**FlowCred: Hierarchical Credit Assignment and Functional Coordination for Joint Text-to-Video Post-Training**|Mingxuan Zhu et.al.|[2610.18142](http://arxiv.org/abs/2610.18142)|null|
+|**2026-10-13**|**Hierarchical Curriculum Learning for Surgical Video Generation: Focusing on Bilateral Axillo-Breast Approach Robotic Thyroidectomy Datasets**|Youngbin Kong et.al.|[2610.17684](http://arxiv.org/abs/2610.17684)|null|
+|**2026-10-12**|**MiMaAlign: Hierarchical Micro-Macro Alignment for Physically Plausible Video Generation**|Yansong Liu et.al.|[2610.16482](http://arxiv.org/abs/2610.16482)|null|
+|**2026-10-12**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|null|
+|**2026-10-12**|**VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval**|Shahaf Wagner et.al.|[2610.11850](http://arxiv.org/abs/2610.11850)|null|
+|**2026-10-11**|**EmoTrace-Bench: Diagnosing Emotional Expression in Text-to-Video Generation through Controlled Cues and Intensity**|Yeheng Wang et.al.|[2610.15452](http://arxiv.org/abs/2610.15452)|null|
+|**2026-10-10**|**TIDE: Trajectory-Informed Skill Distillation for Efficient Text-to-Video Prompt Optimization**|Chengxing Zhou et.al.|[2610.15098](http://arxiv.org/abs/2610.15098)|null|
+|**2026-10-10**|**AcrossVAM2.0: Conflict-Aware Point Supervision for Parameter-Efficient Video Diffusion Adaptation**|Nan Wu et.al.|[2610.14693](http://arxiv.org/abs/2610.14693)|null|
+|**2026-10-10**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
+|**2026-10-09**|**TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback**|Jingyu Liu et.al.|[2610.14153](http://arxiv.org/abs/2610.14153)|null|
 |**2026-10-09**|**PreCoG: Preview-Edit for Efficient Video Correction in Generation-Time**|Yilai Liu et.al.|[2610.13174](http://arxiv.org/abs/2610.13174)|null|
-|**2026-10-08**|**VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval**|Shahaf Wagner et.al.|[2610.11850](http://arxiv.org/abs/2610.11850)|null|
+|**2026-10-09**|**FADE: Frame-Aware Diffusion-Transformer-based Multi-Concept Erasure for Video Unlearning**|Yuchen Li et.al.|[2610.03980](http://arxiv.org/abs/2610.03980)|null|
 |**2026-10-08**|**From Video Clips to Creation Trajectory: Sora100K for AI-Native Video Creation**|Sicong Yang et.al.|[2610.11770](http://arxiv.org/abs/2610.11770)|null|
 |**2026-10-08**|**Towards Unified Evaluation of Prompt Enhancers for Video Generation**|Yawen Shao et.al.|[2610.11736](http://arxiv.org/abs/2610.11736)|null|
 |**2026-10-05**|**TasteRoute: Personalized Routing for Video Generation**|Zhi Rui Tam et.al.|[2610.05896](http://arxiv.org/abs/2610.05896)|null|
 |**2026-10-04**|**Your Unlearning Gives You Away: Identifying Erased Concepts in Diffusion Models**|Kaiyuan Deng et.al.|[2610.05601](http://arxiv.org/abs/2610.05601)|null|
-|**2026-10-02**|**FADE: Frame-Aware Diffusion-Transformer-based Multi-Concept Erasure for Video Unlearning**|Yuchen Li et.al.|[2610.03980](http://arxiv.org/abs/2610.03980)|null|
-|**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation**|Yiwen Zhang et.al.|[2610.02153](http://arxiv.org/abs/2610.02153)|null|
 |**2026-10-01**|**Memory-Guided B-Roll Generation from User Video Collections**|Cusuh Ham et.al.|[2610.01884](http://arxiv.org/abs/2610.01884)|null|
@@ -420,6 +429,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Simplifying and Improving On-Policy Distillation for Few-Step Diffusion**|Jiawei Zhang et.al.|[2610.18472](http://arxiv.org/abs/2610.18472)|null|
+|**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|null|
+|**2026-10-13**|**H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression**|Or Ronai et.al.|[2610.18125](http://arxiv.org/abs/2610.18125)|null|
+|**2026-10-13**|**Recovery-Oriented Optical System Design Based on Fisher Information**|Zhuang Qian et.al.|[2610.17950](http://arxiv.org/abs/2610.17950)|null|
+|**2026-10-13**|**What Makes a Good Visual Representation for Spatial Understanding in MLLMs?**|Xiaohu Huang et.al.|[2610.17844](http://arxiv.org/abs/2610.17844)|null|
+|**2026-10-13**|**QK-Edit: Revisiting Attention-based Injection in MM-DiT for Image and Video Editing**|Tiancheng Shen et.al.|[2610.17829](http://arxiv.org/abs/2610.17829)|null|
+|**2026-10-13**|**Deficit-Driven Stratified Acquisition for Building STRATA-S12: An Open SAR-Optical Corpus for Self-Supervised Learning**|Christian Sanchez-Leon et.al.|[2610.17680](http://arxiv.org/abs/2610.17680)|null|
+|**2026-10-13**|**Low-Altitude Agentic Networks: From UAV Connectivity to Workflow-Driven Capability Orchestration**|Baolin Chong et.al.|[2610.17642](http://arxiv.org/abs/2610.17642)|null|
+|**2026-10-13**|**Background2Background: a self-supervised background removal framework for high dimensional microscopy**|Guangrui Ding et.al.|[2610.17615](http://arxiv.org/abs/2610.17615)|null|
+|**2026-10-12**|**Intrinsic Geometry Matching: learning observation-equivariant process geometry**|Manuel Lecha et.al.|[2610.16995](http://arxiv.org/abs/2610.16995)|null|
+|**2026-10-12**|**ViewStruct: View-Grounded Articulation and Connectivity Inference**|Wenjing Bian et.al.|[2610.16793](http://arxiv.org/abs/2610.16793)|null|
+|**2026-10-12**|**Calibrating Generative Flows through Regional Probability Matching**|Yubo Huang et.al.|[2610.16780](http://arxiv.org/abs/2610.16780)|null|
+|**2026-10-12**|**Uncertainty-Aware Cortical Surface Reconstruction and Spherical Registration for Heterogeneous Brain MRI**|Jesper Duemose Nielsen et.al.|[2610.16595](http://arxiv.org/abs/2610.16595)|null|
+|**2026-10-12**|**Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration**|Lei Zhu et.al.|[2610.16448](http://arxiv.org/abs/2610.16448)|null|
+|**2026-10-12**|**World Models Need a Physical Registry: Learning Internal Predictive States for Physically Plausible World Models**|Shinseong Kim et.al.|[2610.16365](http://arxiv.org/abs/2610.16365)|null|
+|**2026-10-12**|**Hybrid Context Forests and Bilateral Viterbi Matching for 3D Rib Centerline Tracing in CT**|Quan Wang et.al.|[2610.16047](http://arxiv.org/abs/2610.16047)|null|
+|**2026-10-11**|**Gen Through the Lens: Camera-Controllable Video Generation via Cross-Coordinate Conditioning Fusion**|Shuai Li et.al.|[2610.15900](http://arxiv.org/abs/2610.15900)|null|
+|**2026-10-11**|**Jensen-Bregman split Gibbs sampling**|Nicolas Dobigeon et.al.|[2610.15853](http://arxiv.org/abs/2610.15853)|null|
+|**2026-10-11**|**A Plausible Future Is Not a Causal Future: Can Video Models Generate How the World Unfolds?**|Jialiang Li et.al.|[2610.15562](http://arxiv.org/abs/2610.15562)|null|
+|**2026-10-10**|**Generative Quantum Machine Learning Methods for Cancer Detection using Augmented Datasets**|Sophia Knutson et.al.|[2610.15110](http://arxiv.org/abs/2610.15110)|null|
 |**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|null|
 |**2026-10-09**|**On the Design Space of Continuous Diffusion Language Models**|Oscar Davis et.al.|[2610.13834](http://arxiv.org/abs/2610.13834)|null|
 |**2026-10-09**|**A Miniaturized Wi-Fi HaLow-Based Wireless Imaging Transfer System for Capsule Endoscopy**|Michele Bertozzi et.al.|[2610.13815](http://arxiv.org/abs/2610.13815)|null|
