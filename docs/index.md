@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.15
+### Automatically Updated on 2026.10.16
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Routing Policy Optimization for Online Diffusion Reinforcement Learning**|Qiuhong Shen et.al.|[2610.22282](http://arxiv.org/abs/2610.22282)|null|
+|**2026-10-15**|**Where, How, and When: Query-Guided Grounding for Video Understanding**|Yogesh Kumar et.al.|[2610.21422](http://arxiv.org/abs/2610.21422)|null|
+|**2026-10-14**|**Temporal Specification Guidance for Text-to-Video Generation**|Avishree Khare et.al.|[2610.20822](http://arxiv.org/abs/2610.20822)|null|
 |**2026-10-14**|**StreamErase: Towards Ultra-Fast Streaming Video Erasing**|Zhuobai Dong et.al.|[2610.20137](http://arxiv.org/abs/2610.20137)|null|
 |**2026-10-14**|**PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA**|Siwei Meng et.al.|[2610.19823](http://arxiv.org/abs/2610.19823)|null|
 |**2026-10-14**|**FPV-CRASH: A Dataset for Offline Crash Moment Localization in Drone First-Person-View Videos**|Jifan Zhang et.al.|[2610.19785](http://arxiv.org/abs/2610.19785)|null|
@@ -432,6 +435,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Denoising Textures is a Different Ballgame Altogether!**|Saptarshi Mandal et.al.|[2610.22258](http://arxiv.org/abs/2610.22258)|null|
+|**2026-10-15**|**Learning Variable Metrics for Convergent Proximal Splitting Algorithms**|Yodai Suzuki et.al.|[2610.22204](http://arxiv.org/abs/2610.22204)|null|
+|**2026-10-15**|**CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness**|Dongjie Cheng et.al.|[2610.21910](http://arxiv.org/abs/2610.21910)|null|
+|**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
+|**2026-10-15**|**Data-driven Smooth-to-hard Spectral Regularization for General Linear Inverse Problems**|Guanzhong Yang et.al.|[2610.21664](http://arxiv.org/abs/2610.21664)|null|
+|**2026-10-15**|**Bayesian Joint Reconstruction and Uncertainty Quantification for Limited-Data Multi-Contrast X-Ray CT**|Hassan Yazdanian et.al.|[2610.21406](http://arxiv.org/abs/2610.21406)|null|
+|**2026-10-15**|**Monotone Piecewise-Linear Harmonization of Multitemporal Multispectral Surface Reflectance With Unsupervised Deep Multiview Pseudoinvariant Features Learning**|Lino Garda Denaro et.al.|[2610.21183](http://arxiv.org/abs/2610.21183)|null|
+|**2026-10-15**|**Tokenized Joint Source-Network Coding for Loss-Resilient Video Streaming**|Ke Yang et.al.|[2610.21166](http://arxiv.org/abs/2610.21166)|null|
+|**2026-10-15**|**Evidence Field for Histopathology: Cross-Centre Evaluation and Replayable Spatial Decisions**|Isarar Siddique et.al.|[2610.21115](http://arxiv.org/abs/2610.21115)|null|
+|**2026-10-14**|**Separating mixtures of single-fiber orientation distributions for increased sensitivity to crossing white matter fibers**|Adam M. Saunders et.al.|[2610.20974](http://arxiv.org/abs/2610.20974)|null|
+|**2026-10-14**|**LightHybridNet: A Lightweight Hybrid Deep Learning Framework for Efficient Multi-Label Ophthalmic Disease Classification in Imbalanced Fundus Images**|Hem Raj Dadral Najam Ul Hasan et.al.|[2610.20671](http://arxiv.org/abs/2610.20671)|null|
 |**2026-10-14**|**A $^3$ PreCore: Robust Rigid Registration for Native FLAIR-Space Brain-Mask Transfer**|Elmira Mirzabeigi et.al.|[2610.20561](http://arxiv.org/abs/2610.20561)|null|
 |**2026-10-14**|**SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking**|Tomáš Čížek et.al.|[2610.19931](http://arxiv.org/abs/2610.19931)|null|
 |**2026-10-14**|**Holi-Spatial 360: Generative Reconstruction from Sparse Panoramas for Spatial Rendering and Intelligence**|Yuanyuan Gao et.al.|[2610.19502](http://arxiv.org/abs/2610.19502)|null|
