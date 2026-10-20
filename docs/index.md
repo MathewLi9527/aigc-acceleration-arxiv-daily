@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.18
+### Automatically Updated on 2026.10.20
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,8 +21,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation**|Yingshuang Zou et.al.|[2610.26801](http://arxiv.org/abs/2610.26801)|null|
+|**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
+|**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
+|**2026-10-19**|**Clean Forcing: Drift-Resistant Autoregressive Video Diffusion with a Frozen Base**|Wenqing Wang et.al.|[2610.25634](http://arxiv.org/abs/2610.25634)|null|
+|**2026-10-18**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
+|**2026-10-17**|**CorrFlow: Self-Correcting Flow Matching**|Hangwei Zhang et.al.|[2610.24750](http://arxiv.org/abs/2610.24750)|null|
+|**2026-10-16**|**Sink-Sparse Hybrid Attention for Efficient Inference in T2I/T2V Diffusion Transformers**|Bingxin Xing et.al.|[2610.22975](http://arxiv.org/abs/2610.22975)|null|
+|**2026-10-16**|**VTrajEmbed: Aligning Text with Video Object Trajectories via Spatiotemporal Embeddings**|Ruizhi Chen et.al.|[2610.22842](http://arxiv.org/abs/2610.22842)|null|
 |**2026-10-15**|**Routing Policy Optimization for Online Diffusion Reinforcement Learning**|Qiuhong Shen et.al.|[2610.22282](http://arxiv.org/abs/2610.22282)|null|
 |**2026-10-15**|**Where, How, and When: Query-Guided Grounding for Video Understanding**|Yogesh Kumar et.al.|[2610.21422](http://arxiv.org/abs/2610.21422)|null|
+|**2026-10-14**|**BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References**|Xinyu Fang et.al.|[2610.23986](http://arxiv.org/abs/2610.23986)|null|
 |**2026-10-14**|**Temporal Specification Guidance for Text-to-Video Generation**|Avishree Khare et.al.|[2610.20822](http://arxiv.org/abs/2610.20822)|null|
 |**2026-10-14**|**StreamErase: Towards Ultra-Fast Streaming Video Erasing**|Zhuobai Dong et.al.|[2610.20137](http://arxiv.org/abs/2610.20137)|null|
 |**2026-10-14**|**PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA**|Siwei Meng et.al.|[2610.19823](http://arxiv.org/abs/2610.19823)|null|
@@ -435,6 +444,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration**|Javad Rajabi et.al.|[2610.26837](http://arxiv.org/abs/2610.26837)|null|
+|**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
+|**2026-10-19**|**Scaling Vision Foundation Models for Toxicologic Pathology**|Jessica Loo et.al.|[2610.26586](http://arxiv.org/abs/2610.26586)|null|
+|**2026-10-19**|**Progressive multi-scale tumor-state memory for incomplete multimodal brain tumor segmentation**|Milad Rostamian et.al.|[2610.26457](http://arxiv.org/abs/2610.26457)|null|
+|**2026-10-19**|**Localization Gains from Explanation Regularization Should Not Be Interpreted as Faithfulness Gains.**|Amrin Akter et.al.|[2610.26292](http://arxiv.org/abs/2610.26292)|null|
+|**2026-10-19**|**Wan-Alpha++: Animating a Single RGBA Asset into Controllable Transparent Video Effects**|Haotian Dong et.al.|[2610.26189](http://arxiv.org/abs/2610.26189)|null|
+|**2026-10-19**|**TamedFlow: Trajectory-Aware Distillation\\for Teacher-Assisted Diffusion Sampling**|Shuaiqi Cheng et.al.|[2610.26025](http://arxiv.org/abs/2610.26025)|null|
+|**2026-10-19**|**Image CL-SEC: Cross-Layer Semantic Error Correction for Image Communication**|Feifan Zhang et.al.|[2610.25803](http://arxiv.org/abs/2610.25803)|null|
+|**2026-10-19**|**UniJev: Separating Accuracy from Calibration in Trimodal System One Decision Models**|Jianing Wang et.al.|[2610.25784](http://arxiv.org/abs/2610.25784)|null|
+|**2026-10-19**|**PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching**|Liwei Lan et.al.|[2610.25664](http://arxiv.org/abs/2610.25664)|null|
+|**2026-10-19**|**Uncertainty-Gated SHAP-Dirichlet Refinement for MRI-Based Depression Classification**|Phuc Truong Loc Nguyen et.al.|[2610.25635](http://arxiv.org/abs/2610.25635)|null|
+|**2026-10-18**|**ViMoLa: Discrete Motion Tokens for Language-Guided Video Generation**|Bishoy Galoaa et.al.|[2610.25595](http://arxiv.org/abs/2610.25595)|null|
+|**2026-10-18**|**Reliability-Preserving Compression for Deployable Medical Image Segmentation**|Sagar Kumar et.al.|[2610.25460](http://arxiv.org/abs/2610.25460)|null|
+|**2026-10-18**|**A New Hope for PRNU on Modern Smartphones? Evidence That Device-Specific Fingerprints Survive Computational Photography**|Benjamin Loison et.al.|[2610.25438](http://arxiv.org/abs/2610.25438)|null|
+|**2026-10-18**|**MotionShift: Environment-Compatible Motion Transfer via Planner-Evaluator Synergistic Adaptation**|Yanchen Liu et.al.|[2610.25290](http://arxiv.org/abs/2610.25290)|null|
+|**2026-10-18**|**Image Restoration with Impulse Noise Based on Minimax Concave Penalty: Grayscale and Color Images**|Reza Parvaz et.al.|[2610.25195](http://arxiv.org/abs/2610.25195)|null|
+|**2026-10-18**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
+|**2026-10-18**|**LowNet: Looped Wavelet Neural Networks with 24 Learnable Parameters for Solving Poisson Equations**|Yuanhao Gong et.al.|[2610.24941](http://arxiv.org/abs/2610.24941)|null|
+|**2026-10-17**|**Evidence Field: Adaptive Covering Programs for Medical Imaging**|Isarar Siddique et.al.|[2610.24773](http://arxiv.org/abs/2610.24773)|null|
+|**2026-10-17**|**CorrFlow: Self-Correcting Flow Matching**|Hangwei Zhang et.al.|[2610.24750](http://arxiv.org/abs/2610.24750)|null|
 |**2026-10-15**|**Denoising Textures is a Different Ballgame Altogether!**|Saptarshi Mandal et.al.|[2610.22258](http://arxiv.org/abs/2610.22258)|null|
 |**2026-10-15**|**Learning Variable Metrics for Convergent Proximal Splitting Algorithms**|Yodai Suzuki et.al.|[2610.22204](http://arxiv.org/abs/2610.22204)|null|
 |**2026-10-15**|**CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness**|Dongjie Cheng et.al.|[2610.21910](http://arxiv.org/abs/2610.21910)|null|
@@ -2129,6 +2158,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-18**|**Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models**|Junyu Chen et.al.|[2610.25495](http://arxiv.org/abs/2610.25495)|null|
+|**2026-10-18**|**Convergence of Denoising Diffusion Probabilistic Models: A Rényi Divergence Perspective**|Wenliang Liu et.al.|[2610.24984](http://arxiv.org/abs/2610.24984)|null|
+|**2026-10-16**|**Bootstrap Stochastic Interpolant Tree for Inference-time Search Under Sparse Reward**|Binglin Ji et.al.|[2610.24185](http://arxiv.org/abs/2610.24185)|null|
 |**2026-10-14**|**DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting**|Weiwei Ye et.al.|[2609.32363](http://arxiv.org/abs/2609.32363)|null|
 |**2026-10-07**|**Fault-conditioned Seismic Image Generation using Denoising Diffusion Probabilistic Modeling and Neural Style Transfer**|Tolulope Agbaje et.al.|[2610.10788](http://arxiv.org/abs/2610.10788)|null|
 |**2026-10-07**|**Efficient Patch-Based Anomaly Detection Fused with Diffusion Driven Generative Modeling for Semiconductor Wafer Bin Map Open Set Anomaly Detection**|Limon Bin Hossain et.al.|[2610.09993](http://arxiv.org/abs/2610.09993)|null|
