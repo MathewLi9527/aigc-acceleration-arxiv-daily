@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.21
+### Automatically Updated on 2026.10.22
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,11 +21,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|Adrien Ramanana Rahary et.al.|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
+|**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|null|
+|**2026-10-21**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-20**|**Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment**|Shuai Zhang et.al.|[2610.28521](http://arxiv.org/abs/2610.28521)|null|
 |**2026-10-20**|**Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V**|Zhenghan Chen et.al.|[2610.28416](http://arxiv.org/abs/2610.28416)|null|
 |**2026-10-19**|**Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation**|Yingshuang Zou et.al.|[2610.26801](http://arxiv.org/abs/2610.26801)|null|
 |**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
-|**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-19**|**Clean Forcing: Drift-Resistant Autoregressive Video Diffusion with a Frozen Base**|Wenqing Wang et.al.|[2610.25634](http://arxiv.org/abs/2610.25634)|null|
 |**2026-10-18**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
 |**2026-10-17**|**CorrFlow: Self-Correcting Flow Matching**|Hangwei Zhang et.al.|[2610.24750](http://arxiv.org/abs/2610.24750)|null|
@@ -446,12 +448,18 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Geometric Algebra for Neural Networks: A Survey**|Tao Zhong et.al.|[2610.30121](http://arxiv.org/abs/2610.30121)|null|
+|**2026-10-21**|**TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation**|Zhuoyu Wu et.al.|[2610.29617](http://arxiv.org/abs/2610.29617)|null|
+|**2026-10-21**|**Region-Aware Multi-View Inspection Using Deep Learning and Domain-Informed Decision Fusion**|Srivishnu Ethirajulu Krishnaraj et.al.|[2610.29398](http://arxiv.org/abs/2610.29398)|null|
+|**2026-10-21**|**How Representational Priors Shape Generalization in World Action Models**|Junha Chun et.al.|[2610.29168](http://arxiv.org/abs/2610.29168)|null|
+|**2026-10-21**|**HumanCentric-Scenes-AI: A Human-Curated Multimodal Dataset of AI-Generated Human-Centric Scenes Across Surveillance, Occupational Portraits, AI-Edited Images, and Short-Form Video**|Nima Kamali et.al.|[2610.29045](http://arxiv.org/abs/2610.29045)|null|
+|**2026-10-21**|**LaLa-World: Scaling Latent World Models with Natural Language Actions**|Junha Song et.al.|[2610.27851](http://arxiv.org/abs/2610.27851)|null|
+|**2026-10-20**|**Improved three component IVIM fitting using physics-informed neural network with multimodal spatial prior**|Nhat Hoang et.al.|[2610.28873](http://arxiv.org/abs/2610.28873)|null|
 |**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
 |**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
 |**2026-10-20**|**Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment**|Shuai Zhang et.al.|[2610.28521](http://arxiv.org/abs/2610.28521)|null|
 |**2026-10-20**|**Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V**|Zhenghan Chen et.al.|[2610.28416](http://arxiv.org/abs/2610.28416)|null|
 |**2026-10-20**|**CAPS: Clinically-Verifiable Anatomy-Prioritized Synthesis for Missing MRI Imputation in Brain Tumor Segmentation**|Cecilia Diana-Albelda et.al.|[2610.28179](http://arxiv.org/abs/2610.28179)|null|
-|**2026-10-20**|**LaLa-World: Scaling Latent World Models with Natural Language Actions**|Junha Song et.al.|[2610.27851](http://arxiv.org/abs/2610.27851)|null|
 |**2026-10-20**|**TamedFlow: Trajectory-Aware Distillation for Teacher-Assisted Diffusion Sampling**|Shuaiqi Cheng et.al.|[2610.26025](http://arxiv.org/abs/2610.26025)|null|
 |**2026-10-20**|**Image CL-SEC: Cross-Layer Semantic Error Correction for Image Communication**|Feifan Zhang et.al.|[2610.25803](http://arxiv.org/abs/2610.25803)|null|
 |**2026-10-19**|**VitronEdit: Universal Visual Editing across Images, Videos, and 3D Scenes**|Jing Wang et.al.|[2610.27049](http://arxiv.org/abs/2610.27049)|null|
