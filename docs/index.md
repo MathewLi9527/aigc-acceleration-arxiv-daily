@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.22
+### Automatically Updated on 2026.10.23
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Direct Forcing: A Single-Stage Training Recipe for Few-Step Autoregressive Text-to-Video Generation**|Haojun Xu et.al.|[2610.30861](http://arxiv.org/abs/2610.30861)|null|
+|**2026-10-22**|**PhyEvolve: Multi-Agent State-Evolution Planning for Physics-Aware Video Generation**|Yang-Hao Zhou et.al.|[2610.30717](http://arxiv.org/abs/2610.30717)|null|
 |**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|Adrien Ramanana Rahary et.al.|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
 |**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|null|
 |**2026-10-21**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
@@ -448,6 +450,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Self-Supervised Multibeam Sonar Restoration via Coherent Forward Modeling**|Zixin Wang et.al.|[2610.31490](http://arxiv.org/abs/2610.31490)|null|
+|**2026-10-22**|**QICOM: Open-Source Software for Reproducible Image Quality Evaluation, Blinded Assessment, and Radiomic Comparison**|Fabio Mattiussi et.al.|[2610.31218](http://arxiv.org/abs/2610.31218)|null|
+|**2026-10-22**|**Bound-Conditioned Latent Inference for Progressive Image Compression**|Jaeseok Jang et.al.|[2610.30966](http://arxiv.org/abs/2610.30966)|null|
+|**2026-10-22**|**GateFormer: Forecast-Space Decomposition for Intra-Hour Solar Irradiance Prediction from Sky Images**|David Hamlyn et.al.|[2610.30942](http://arxiv.org/abs/2610.30942)|null|
+|**2026-10-22**|**Vision Transformers for Estimating Irradiance Using Data Scarce Sky Images**|David Hamlyn et.al.|[2610.30940](http://arxiv.org/abs/2610.30940)|null|
+|**2026-10-22**|**H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction**|Zhang Zichuan et.al.|[2610.30910](http://arxiv.org/abs/2610.30910)|null|
+|**2026-10-22**|**GWDM: A Guided Wavelet Diffusion Model for Realistic Histopathology Image Generation**| Abdullah et.al.|[2610.30775](http://arxiv.org/abs/2610.30775)|null|
+|**2026-10-22**|**Learning from Next-Frame Prediction: Towards Unified and Scalable Visual Representation Learning**|Yifeng Yao et.al.|[2610.30724](http://arxiv.org/abs/2610.30724)|null|
+|**2026-10-22**|**CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation**|Mei Wang et.al.|[2610.30672](http://arxiv.org/abs/2610.30672)|null|
+|**2026-10-22**|**CoRE: Relating Fine-Grained Chest X-ray Findings in Anatomical Context**|Minjun Kim et.al.|[2610.30584](http://arxiv.org/abs/2610.30584)|null|
+|**2026-10-21**|**AVAtt: A Free-Viewing Eye-Tracking Dataset and Benchmark for Visual Attention on Paintings**|Mohamed Amine Kerkouri et.al.|[2610.30481](http://arxiv.org/abs/2610.30481)|null|
+|**2026-10-21**|**Equivariant Experience Replay for Continual Learning in Imaging Inverse Problems**|Guixian Xu et.al.|[2610.30460](http://arxiv.org/abs/2610.30460)|null|
+|**2026-10-21**|**Unified Projection-Domain Material Decomposition for Energy-Integrating and Photon-Counting CT**|Dale Black et.al.|[2610.30440](http://arxiv.org/abs/2610.30440)|null|
+|**2026-10-21**|**A Contrastive Learning Framework for Label-Efficient Gastric Cancer Detection and Intra-Tumour Progression Analysis**|Aleakhya Pandeti et.al.|[2610.30316](http://arxiv.org/abs/2610.30316)|null|
+|**2026-10-21**|**SciFusion: Physics-Guided Compositional Diffusion for Multimodal 3D Scientific Image Generation**|Luoxi Wang et.al.|[2610.30313](http://arxiv.org/abs/2610.30313)|null|
 |**2026-10-21**|**Geometric Algebra for Neural Networks: A Survey**|Tao Zhong et.al.|[2610.30121](http://arxiv.org/abs/2610.30121)|null|
 |**2026-10-21**|**TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation**|Zhuoyu Wu et.al.|[2610.29617](http://arxiv.org/abs/2610.29617)|null|
 |**2026-10-21**|**Region-Aware Multi-View Inspection Using Deep Learning and Domain-Informed Decision Fusion**|Srivishnu Ethirajulu Krishnaraj et.al.|[2610.29398](http://arxiv.org/abs/2610.29398)|null|
@@ -2176,6 +2193,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins**|Pablo Luna Falcon et.al.|[2610.30404](http://arxiv.org/abs/2610.30404)|null|
 |**2026-10-18**|**Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models**|Junyu Chen et.al.|[2610.25495](http://arxiv.org/abs/2610.25495)|null|
 |**2026-10-18**|**Convergence of Denoising Diffusion Probabilistic Models: A Rényi Divergence Perspective**|Wenliang Liu et.al.|[2610.24984](http://arxiv.org/abs/2610.24984)|null|
 |**2026-10-16**|**Bootstrap Stochastic Interpolant Tree for Inference-time Search Under Sparse Reward**|Binglin Ji et.al.|[2610.24185](http://arxiv.org/abs/2610.24185)|null|
