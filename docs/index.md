@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.25
+### Automatically Updated on 2026.10.26
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -450,6 +450,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction**|Dong-hwi Kim et.al.|[2610.32800](http://arxiv.org/abs/2610.32800)|null|
+|**2026-10-23**|**An exploration of plug-and-play flow matching for full-waveform inversion on breast imaging**|Cristina Garcia-Cardona et.al.|[2610.32185](http://arxiv.org/abs/2610.32185)|null|
+|**2026-10-23**|**Learning from Next-Frame Prediction: Towards Unified and Scalable Visual World Modeling**|Yifeng Yao et.al.|[2610.30724](http://arxiv.org/abs/2610.30724)|null|
+|**2026-10-22**|**Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability**|Junhao Wang et.al.|[2610.31713](http://arxiv.org/abs/2610.31713)|null|
 |**2026-10-22**|**Self-Supervised Multibeam Sonar Restoration via Coherent Forward Modeling**|Zixin Wang et.al.|[2610.31490](http://arxiv.org/abs/2610.31490)|null|
 |**2026-10-22**|**QICOM: Open-Source Software for Reproducible Image Quality Evaluation, Blinded Assessment, and Radiomic Comparison**|Fabio Mattiussi et.al.|[2610.31218](http://arxiv.org/abs/2610.31218)|null|
 |**2026-10-22**|**Bound-Conditioned Latent Inference for Progressive Image Compression**|Jaeseok Jang et.al.|[2610.30966](http://arxiv.org/abs/2610.30966)|null|
@@ -457,7 +461,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-10-22**|**Vision Transformers for Estimating Irradiance Using Data Scarce Sky Images**|David Hamlyn et.al.|[2610.30940](http://arxiv.org/abs/2610.30940)|null|
 |**2026-10-22**|**H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction**|Zhang Zichuan et.al.|[2610.30910](http://arxiv.org/abs/2610.30910)|null|
 |**2026-10-22**|**GWDM: A Guided Wavelet Diffusion Model for Realistic Histopathology Image Generation**| Abdullah et.al.|[2610.30775](http://arxiv.org/abs/2610.30775)|null|
-|**2026-10-22**|**Learning from Next-Frame Prediction: Towards Unified and Scalable Visual Representation Learning**|Yifeng Yao et.al.|[2610.30724](http://arxiv.org/abs/2610.30724)|null|
 |**2026-10-22**|**CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation**|Mei Wang et.al.|[2610.30672](http://arxiv.org/abs/2610.30672)|null|
 |**2026-10-22**|**CoRE: Relating Fine-Grained Chest X-ray Findings in Anatomical Context**|Minjun Kim et.al.|[2610.30584](http://arxiv.org/abs/2610.30584)|null|
 |**2026-10-21**|**AVAtt: A Free-Viewing Eye-Tracking Dataset and Benchmark for Visual Attention on Paintings**|Mohamed Amine Kerkouri et.al.|[2610.30481](http://arxiv.org/abs/2610.30481)|null|
