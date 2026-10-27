@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.26
+### Automatically Updated on 2026.10.27
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,7 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-22**|**Direct Forcing: A Single-Stage Training Recipe for Few-Step Autoregressive Text-to-Video Generation**|Haojun Xu et.al.|[2610.30861](http://arxiv.org/abs/2610.30861)|null|
+|**2026-10-26**|**Context-Aware Generation and Modulation of Expressive Motion Behavior using Multimodal Foundation Models**|Till Hielscher et.al.|[2610.35615](http://arxiv.org/abs/2610.35615)|null|
+|**2026-10-26**|**When Fusion Order Matters: Insights on Progressive Multimodal Representation Learning for Cross-modal Retrieval**|Haoxiang Zhao et.al.|[2610.35125](http://arxiv.org/abs/2610.35125)|null|
+|**2026-10-26**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
+|**2026-10-25**|**HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget**|Harish Santhanalakshmi Ganesan et.al.|[2610.34582](http://arxiv.org/abs/2610.34582)|null|
+|**2026-10-24**|**Direct Forcing: Single-Stage Training with Representation-Space Supervision for Few-Step Autoregressive Video Generation**|Haojun Xu et.al.|[2610.30861](http://arxiv.org/abs/2610.30861)|null|
 |**2026-10-22**|**PhyEvolve: Multi-Agent State-Evolution Planning for Physics-Aware Video Generation**|Yang-Hao Zhou et.al.|[2610.30717](http://arxiv.org/abs/2610.30717)|null|
 |**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|Adrien Ramanana Rahary et.al.|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
 |**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|null|
@@ -31,7 +35,6 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-10-19**|**Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation**|Yingshuang Zou et.al.|[2610.26801](http://arxiv.org/abs/2610.26801)|null|
 |**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
 |**2026-10-19**|**Clean Forcing: Drift-Resistant Autoregressive Video Diffusion with a Frozen Base**|Wenqing Wang et.al.|[2610.25634](http://arxiv.org/abs/2610.25634)|null|
-|**2026-10-18**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
 |**2026-10-17**|**CorrFlow: Self-Correcting Flow Matching**|Hangwei Zhang et.al.|[2610.24750](http://arxiv.org/abs/2610.24750)|null|
 |**2026-10-16**|**Sink-Sparse Hybrid Attention for Efficient Inference in T2I/T2V Diffusion Transformers**|Bingxin Xing et.al.|[2610.22975](http://arxiv.org/abs/2610.22975)|null|
 |**2026-10-16**|**VTrajEmbed: Aligning Text with Video Object Trajectories via Spatiotemporal Embeddings**|Ruizhi Chen et.al.|[2610.22842](http://arxiv.org/abs/2610.22842)|null|
@@ -450,6 +453,25 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**MedVTok: A General-Purpose Medical Visual Tokenizer**|Chenglong Ma et.al.|[2610.35842](http://arxiv.org/abs/2610.35842)|null|
+|**2026-10-26**|**Shared-Factor-Conditioned Diffusion for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2610.35368](http://arxiv.org/abs/2610.35368)|null|
+|**2026-10-26**|**Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models**|Xilin Wei et.al.|[2610.35138](http://arxiv.org/abs/2610.35138)|null|
+|**2026-10-26**|**Accuracy and efficiency of compact foundation models for surface-water mapping during floods**|Parastoo Farajpoor et.al.|[2610.34904](http://arxiv.org/abs/2610.34904)|null|
+|**2026-10-26**|**Decoding Motion-Blurred QR Codes: Motion-Parameter Error Tolerance and Model-Based Recovery**|Zhi Zeng et.al.|[2610.34788](http://arxiv.org/abs/2610.34788)|null|
+|**2026-10-25**|**Acute Stroke Classification Using Asymmetric Data Standardization and Orthogonal-Focal Loss Optimized CNN-ViT Cross-Attention Fusion: A Multicenter External Validation Study**|Tansel Uyar et.al.|[2610.34529](http://arxiv.org/abs/2610.34529)|null|
+|**2026-10-25**|**Semantic-Aware Deformable Feature Alignment for Thyroid Nodule Segmentation in Ultrasound**|Lei Zhang et.al.|[2610.34244](http://arxiv.org/abs/2610.34244)|null|
+|**2026-10-25**|**Cascaded Posterior Sampling With Diffusion Priors for highly Accelerated MRI**|Jyothi Rikhab Chand et.al.|[2610.34170](http://arxiv.org/abs/2610.34170)|null|
+|**2026-10-24**|**AI-assisted design and analysis of experiments with unstructured treatments**|Eli Ben-Michael et.al.|[2610.33818](http://arxiv.org/abs/2610.33818)|null|
+|**2026-10-24**|**Semantic-Guided Frequency Modulation for Learned Image Compression**|Gangyi Tian et.al.|[2610.33616](http://arxiv.org/abs/2610.33616)|null|
+|**2026-10-24**|**Complex Domain Inverse Problem Formulation for 4D Flow MRI Super-Resolution**|Aurélien de Turenne et.al.|[2610.33598](http://arxiv.org/abs/2610.33598)|null|
+|**2026-10-24**|**Mix Forcing: Causal Pre-Training via Mixture Attention for Interactive World Models**|Zelin Gao et.al.|[2610.33589](http://arxiv.org/abs/2610.33589)|null|
+|**2026-10-24**|**Cross-View and Cross-Time Tracking of Crack Evolution in Concrete**|Pengru Deng et.al.|[2610.33550](http://arxiv.org/abs/2610.33550)|null|
+|**2026-10-23**|**Real Time Motion Detection in Video Inspired by Photonic Time Stretch**|Callen MacPhee et.al.|[2610.33351](http://arxiv.org/abs/2610.33351)|null|
+|**2026-10-23**|**Fully-Automated Multi-Modal Registration of Timelapse Zebrafish OCT+LS Images**|Mahshid Babeli Nia et.al.|[2610.33256](http://arxiv.org/abs/2610.33256)|null|
+|**2026-10-23**|**Vision Token Pruning via Query-Vision Interaction Decomposition**|Harshithanjani Athi et.al.|[2610.33215](http://arxiv.org/abs/2610.33215)|null|
+|**2026-10-23**|**Matching Particle-Arrival Rates for Low-Count Image Denoising**|Huazhen Liu et.al.|[2610.33136](http://arxiv.org/abs/2610.33136)|null|
+|**2026-10-23**|**Beyond Visible Speakers: Context-Aware Active Speaker Detection with Speaker Registration**|Pu Wang et.al.|[2610.33127](http://arxiv.org/abs/2610.33127)|null|
+|**2026-10-23**|**Investigating the trackability of landmarks in NBI and WLI**|Jonas Below et.al.|[2610.33125](http://arxiv.org/abs/2610.33125)|null|
 |**2026-10-23**|**CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction**|Dong-hwi Kim et.al.|[2610.32800](http://arxiv.org/abs/2610.32800)|null|
 |**2026-10-23**|**An exploration of plug-and-play flow matching for full-waveform inversion on breast imaging**|Cristina Garcia-Cardona et.al.|[2610.32185](http://arxiv.org/abs/2610.32185)|null|
 |**2026-10-23**|**Learning from Next-Frame Prediction: Towards Unified and Scalable Visual World Modeling**|Yifeng Yao et.al.|[2610.30724](http://arxiv.org/abs/2610.30724)|null|
