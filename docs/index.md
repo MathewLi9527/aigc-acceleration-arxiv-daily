@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.27
+### Automatically Updated on 2026.10.28
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**PolyGandr: Steering Generative Models via Spatial Navigation through Latent Space**|Mingwei S. G. Li et.al.|[2610.37446](http://arxiv.org/abs/2610.37446)|null|
+|**2026-10-27**|**A First-Step Bias Restores Lost Diversity in Diffusion Model Distillation**|Wenwu Tang et.al.|[2610.37110](http://arxiv.org/abs/2610.37110)|null|
 |**2026-10-26**|**Context-Aware Generation and Modulation of Expressive Motion Behavior using Multimodal Foundation Models**|Till Hielscher et.al.|[2610.35615](http://arxiv.org/abs/2610.35615)|null|
 |**2026-10-26**|**When Fusion Order Matters: Insights on Progressive Multimodal Representation Learning for Cross-modal Retrieval**|Haoxiang Zhao et.al.|[2610.35125](http://arxiv.org/abs/2610.35125)|null|
 |**2026-10-26**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
@@ -453,6 +455,16 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video**|Tudor Braicu et.al.|[2610.37619](http://arxiv.org/abs/2610.37619)|null|
+|**2026-10-27**|**Longitudinal retinal imaging and auxiliary tasks for discrete-time survival prediction of referable diabetic retinopathy and maculopathy: a retrospective cohort study**|Paul Nderitu et.al.|[2610.37544](http://arxiv.org/abs/2610.37544)|null|
+|**2026-10-27**|**Assessing BIOMASS Radiometric Stability using Permanent Scatterers**|Marco Manzoni et.al.|[2610.37400](http://arxiv.org/abs/2610.37400)|null|
+|**2026-10-27**|**EmbeddingGemma 2: Unified and Efficient Multimodal Representations**|Henrique Schechter Vera et.al.|[2610.37364](http://arxiv.org/abs/2610.37364)|null|
+|**2026-10-27**|**Quantized Edge Inference of a Self-Supervised SAR-Optical Encoder on Commodity x86 Hardware**|Christian Sanchez-Leon et.al.|[2610.37056](http://arxiv.org/abs/2610.37056)|null|
+|**2026-10-27**|**Image Modeling: From Handcrafted Priors to Foundation Image Models**|A. Murat Tekalp et.al.|[2610.36646](http://arxiv.org/abs/2610.36646)|null|
+|**2026-10-27**|**VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation**|Muxi Diao et.al.|[2610.35864](http://arxiv.org/abs/2610.35864)|null|
+|**2026-10-26**|**When Slides Met Scans: Cross-Attention for Renal Cancer Prognosis**|Anusha Krishnamoorthy et.al.|[2610.36364](http://arxiv.org/abs/2610.36364)|null|
+|**2026-10-26**|**Neural fields for adaptive white matter microstructural modeling**|Adam M. Saunders et.al.|[2610.36235](http://arxiv.org/abs/2610.36235)|null|
+|**2026-10-26**|**Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding**|Rui Yang et.al.|[2610.36022](http://arxiv.org/abs/2610.36022)|null|
 |**2026-10-26**|**MedVTok: A General-Purpose Medical Visual Tokenizer**|Chenglong Ma et.al.|[2610.35842](http://arxiv.org/abs/2610.35842)|null|
 |**2026-10-26**|**Shared-Factor-Conditioned Diffusion for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2610.35368](http://arxiv.org/abs/2610.35368)|null|
 |**2026-10-26**|**Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models**|Xilin Wei et.al.|[2610.35138](http://arxiv.org/abs/2610.35138)|null|
