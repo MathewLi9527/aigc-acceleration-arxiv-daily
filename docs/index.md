@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.10.29
+### Automatically Updated on 2026.10.30
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**MEV: A Multi-Event Video Dataset for Long-Take Generation**|Peiyuan Zhu et.al.|[2610.38241](http://arxiv.org/abs/2610.38241)|null|
+|**2026-10-28**|**Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**| NVIDIA et.al.|[2610.38095](http://arxiv.org/abs/2610.38095)|null|
 |**2026-10-27**|**PolyGandr: Steering Generative Models via Spatial Navigation through Latent Space**|Mingwei S. G. Li et.al.|[2610.37446](http://arxiv.org/abs/2610.37446)|null|
 |**2026-10-27**|**A First-Step Bias Restores Lost Diversity in Diffusion Model Distillation**|Wenwu Tang et.al.|[2610.37110](http://arxiv.org/abs/2610.37110)|null|
 |**2026-10-26**|**Context-Aware Generation and Modulation of Expressive Motion Behavior using Multimodal Foundation Models**|Till Hielscher et.al.|[2610.35615](http://arxiv.org/abs/2610.35615)|null|
@@ -455,6 +457,24 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Localizing Concepts in Visual Autoregressive Models**|Nanxiang Jiang et.al.|[2610.40061](http://arxiv.org/abs/2610.40061)|null|
+|**2026-10-29**|**Blind Video Denoising for Vocal Tract rtMRI using a Self-Supervised Ensemble**|Julian Andres Hernandez-Potes et.al.|[2610.39972](http://arxiv.org/abs/2610.39972)|null|
+|**2026-10-29**|**TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents**|Abderaouf Bahi et.al.|[2610.39846](http://arxiv.org/abs/2610.39846)|null|
+|**2026-10-29**|**MRUD: Maximally Redundant Unsigned Digit Number Systems for High-Performance Arithmetic Units**|Samaneh Rahimi et.al.|[2610.39638](http://arxiv.org/abs/2610.39638)|null|
+|**2026-10-29**|**MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport**|Hailong Yan et.al.|[2610.39530](http://arxiv.org/abs/2610.39530)|null|
+|**2026-10-29**|**Edited Endpoints as Partial Goals for Image-to-Video Generation**|Sihyun Kim et.al.|[2610.39179](http://arxiv.org/abs/2610.39179)|null|
+|**2026-10-28**|**AlbumVSR: Identity-Preserving Face Video Super-Resolution from a Personal Photo Album**|Nianyao Du et.al.|[2610.39001](http://arxiv.org/abs/2610.39001)|null|
+|**2026-10-28**|**Guidance-Coupled Nullspace Drifting for One-Step Medical Image Reconstruction**|M. Tuna Alatan et.al.|[2610.38953](http://arxiv.org/abs/2610.38953)|null|
+|**2026-10-28**|**Hardwired Distributed Processing Units at the Sensor: Truly Parallel Vision Pre-Processing that Frees the Host CPU**|Raj Mali et.al.|[2610.38752](http://arxiv.org/abs/2610.38752)|null|
+|**2026-10-28**|**Enhanced image forensics through partial C2PA-based provenance information**|Riccardo Ziglio et.al.|[2610.38639](http://arxiv.org/abs/2610.38639)|null|
+|**2026-10-28**|**From the Superderivative to a Relative-Gradient Edge Operator**|Alejandro Garnung Menéndez et.al.|[2610.38530](http://arxiv.org/abs/2610.38530)|null|
+|**2026-10-28**|**The Power Watershed as a Differentiable Segmentation Layer**|Galia Akl et.al.|[2610.38516](http://arxiv.org/abs/2610.38516)|null|
+|**2026-10-28**|**Don't Ask the LLM: Visual Token Pruning with Spectral Structure and Semantic Relevance**|Intaek Shin et.al.|[2610.38303](http://arxiv.org/abs/2610.38303)|null|
+|**2026-10-28**|**What Does LOL Measure? Hidden Label Shifts in Low-Light Enhancement Benchmarks**|Adityan Thirumani Srinivasan et.al.|[2610.38121](http://arxiv.org/abs/2610.38121)|null|
+|**2026-10-27**|**Looping Kooshball: Improved k-space coverage for silent fMRI using 3D coherence trajectories**|David J. Frey et.al.|[2610.38072](http://arxiv.org/abs/2610.38072)|null|
+|**2026-10-27**|**Effects of Deep Learning Architecture and Pretraining on Automated Vocal Fold Segmentation in Ex Vivo High-Speed Phonation Images**|Varun Vinayak Kalaiarasan et.al.|[2610.37860](http://arxiv.org/abs/2610.37860)|null|
+|**2026-10-27**|**Flow Matching for Fluctuation-Based Fluorescence Super-Resolution**|Alberto Cozzani et.al.|[2610.37802](http://arxiv.org/abs/2610.37802)|null|
+|**2026-10-27**|**EUReCA: End-to-End Unified CBCT Reconstruction Across Clinical Acquisitions**|Jiening Zhu et.al.|[2610.37740](http://arxiv.org/abs/2610.37740)|null|
 |**2026-10-27**|**Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video**|Tudor Braicu et.al.|[2610.37619](http://arxiv.org/abs/2610.37619)|null|
 |**2026-10-27**|**Longitudinal retinal imaging and auxiliary tasks for discrete-time survival prediction of referable diabetic retinopathy and maculopathy: a retrospective cohort study**|Paul Nderitu et.al.|[2610.37544](http://arxiv.org/abs/2610.37544)|null|
 |**2026-10-27**|**Assessing BIOMASS Radiometric Stability using Permanent Scatterers**|Marco Manzoni et.al.|[2610.37400](http://arxiv.org/abs/2610.37400)|null|
@@ -2230,6 +2250,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis**|Alzahra Altalib et.al.|[2610.40046](http://arxiv.org/abs/2610.40046)|null|
 |**2026-10-21**|**Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins**|Pablo Luna Falcon et.al.|[2610.30404](http://arxiv.org/abs/2610.30404)|null|
 |**2026-10-18**|**Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models**|Junyu Chen et.al.|[2610.25495](http://arxiv.org/abs/2610.25495)|null|
 |**2026-10-18**|**Convergence of Denoising Diffusion Probabilistic Models: A Rényi Divergence Perspective**|Wenliang Liu et.al.|[2610.24984](http://arxiv.org/abs/2610.24984)|null|
