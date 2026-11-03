@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.02
+### Automatically Updated on 2026.11.03
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization**|Anindya Nag et.al.|[2611.03370](http://arxiv.org/abs/2611.03370)|null|
+|**2026-11-01**|**Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real Footage**|Danyal Sarfraz et.al.|[2611.01990](http://arxiv.org/abs/2611.01990)|null|
+|**2026-10-31**|**Running a 20B Video Diffusion Transformer on Consumer Hardware: A Deployment and Measurement Report for MiniMax H3 on Apple Silicon**|Luke Shi et.al.|[2611.00843](http://arxiv.org/abs/2611.00843)|null|
+|**2026-10-31**|**UniCaMo: Unified Camera and Motion Control for Video Diffusion Models**|Long Vu et.al.|[2611.00810](http://arxiv.org/abs/2611.00810)|null|
 |**2026-10-30**|**A Better Critic Matters for Distribution Matching Distillation**|Zongze Wu et.al.|[2610.42135](http://arxiv.org/abs/2610.42135)|null|
 |**2026-10-30**|**Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos**|Wendong Bu et.al.|[2610.41877](http://arxiv.org/abs/2610.41877)|null|
 |**2026-10-28**|**MEV: A Multi-Event Video Dataset for Long-Take Generation**|Peiyuan Zhu et.al.|[2610.38241](http://arxiv.org/abs/2610.38241)|null|
@@ -459,6 +463,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Toward Artifact-Free Dermoscopy: Characterization of ISIC 2019 Image Defects for Deep Learning Applications**|Victoria Wegley et.al.|[2611.03502](http://arxiv.org/abs/2611.03502)|null|
+|**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465](http://arxiv.org/abs/2611.03465)|null|
+|**2026-11-02**|**Scaling global tractography with ExaTract: from large cohorts to ultra-high-resolution datasets**|Simon Legeay et.al.|[2611.03419](http://arxiv.org/abs/2611.03419)|null|
+|**2026-11-02**|**Extended Field-of-View Passive mmWave Imaging Using Implicit Neural Representations**|Sanjaya Herath et.al.|[2611.03396](http://arxiv.org/abs/2611.03396)|null|
+|**2026-11-02**|**TaoMate-FVSR:Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
+|**2026-11-02**|**Progressive Multi-Scale Super-Resolution via Cascaded Bicubic Anchors and Inter-Scale Mutual Refinement**|Chun-An Lin et.al.|[2611.03390](http://arxiv.org/abs/2611.03390)|null|
+|**2026-11-02**|**Air-Scan-Based Point-Spread-Function Estimation for Megavoltage CT with Flat-Panel Detectors**|Seemeen Karimi et.al.|[2611.03359](http://arxiv.org/abs/2611.03359)|null|
+|**2026-11-02**|**View optimization in Computed Tomography**|Seemeen Karimi et.al.|[2611.03322](http://arxiv.org/abs/2611.03322)|null|
+|**2026-11-02**|**Cross-Layer Refinement and Frequency-aware Fusion Network for Multi-Source Remote Sensing Image Classification**|Wenhan Xiao et.al.|[2611.03078](http://arxiv.org/abs/2611.03078)|null|
+|**2026-11-02**|**Shared-Pattern Collaborative Network for Multi-Source Remote Sensing Data Classification**|Chenfang Yang et.al.|[2611.03069](http://arxiv.org/abs/2611.03069)|null|
+|**2026-11-02**|**Generative diffusion in long-range correlated landscapes: Speciation cascade and the foam structure of the score**|Jerome Garnier-Brun et.al.|[2611.02955](http://arxiv.org/abs/2611.02955)|null|
+|**2026-11-02**|**DINOFAS: Bonafide-Centric Representation Learning for Face Anti-Spoofing**|Shakeel Muhammad Ibrahim et.al.|[2611.02756](http://arxiv.org/abs/2611.02756)|null|
+|**2026-11-02**|**3L-D: A Low-Light Level Dataset from a Sensor-Agnostic, Alignment-Preserving Acquisition Framework**|Léo Rueff et.al.|[2611.02695](http://arxiv.org/abs/2611.02695)|null|
+|**2026-11-02**|**Spectral-spatial vision test-time training for hyperspectral image classification**|Xiang Zhao et.al.|[2611.02364](http://arxiv.org/abs/2611.02364)|null|
+|**2026-11-01**|**Resampling-based batch reweighting for ComBat harmonization of MRI radiomic features in a multi-scanner glioma cohort**|Rifa Sajda Tasnim et.al.|[2611.02156](http://arxiv.org/abs/2611.02156)|null|
+|**2026-11-01**|**Cross-Dataset Generalization of Glaucoma Detection CNNs: Effects of Operating Threshold, Multi-Source Training, and Color Normalization**|Al-Amin Rahman et.al.|[2611.01992](http://arxiv.org/abs/2611.01992)|null|
+|**2026-11-01**|**Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real Footage**|Danyal Sarfraz et.al.|[2611.01990](http://arxiv.org/abs/2611.01990)|null|
+|**2026-11-01**|**Event-Based Optical Flow Constraint via Time-Sliced Plane Fitting**|Masaki Koike et.al.|[2611.01960](http://arxiv.org/abs/2611.01960)|null|
+|**2026-11-01**|**Task-driven sparse-view planar X-ray computed tomography for axial metrology**|Yibin Tian et.al.|[2611.01537](http://arxiv.org/abs/2611.01537)|null|
+|**2026-11-01**|**OpenULF: A Modular Toolkit Enables Data-Driven Ultra-Low-Field MRI with both Classical and Quantum Sensors**|Hanhan Wu et.al.|[2611.01511](http://arxiv.org/abs/2611.01511)|null|
 |**2026-10-30**|**GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning**|Nattakorn Kittisut et.al.|[2610.42152](http://arxiv.org/abs/2610.42152)|null|
 |**2026-10-30**|**GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation**|Yuqi Li et.al.|[2610.42002](http://arxiv.org/abs/2610.42002)|null|
 |**2026-10-30**|**IGDA-ICMH: an Importance Guided Feature and Network Dual Adaptation Framework towards Image Compression for Machine and Human Vision**|Yanbo Gao et.al.|[2610.41924](http://arxiv.org/abs/2610.41924)|null|
