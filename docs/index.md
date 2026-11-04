@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.03
+### Automatically Updated on 2026.11.04
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,9 +21,11 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis**|Christian Pipal et.al.|[2611.05181](http://arxiv.org/abs/2611.05181)|null|
+|**2026-11-03**|**What Remains in Sight? Autoregressive Video Decoding as Representation-Guided Context Rewriting**|Lixuan He et.al.|[2611.04164](http://arxiv.org/abs/2611.04164)|null|
+|**2026-11-03**|**Running a 20B Video Diffusion Transformer on Consumer Hardware: A Deployment and Measurement Report for MiniMax H3 on Apple Silicon**| Zhenzhou et.al.|[2611.00843](http://arxiv.org/abs/2611.00843)|null|
 |**2026-11-02**|**Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization**|Anindya Nag et.al.|[2611.03370](http://arxiv.org/abs/2611.03370)|null|
 |**2026-11-01**|**Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real Footage**|Danyal Sarfraz et.al.|[2611.01990](http://arxiv.org/abs/2611.01990)|null|
-|**2026-10-31**|**Running a 20B Video Diffusion Transformer on Consumer Hardware: A Deployment and Measurement Report for MiniMax H3 on Apple Silicon**|Luke Shi et.al.|[2611.00843](http://arxiv.org/abs/2611.00843)|null|
 |**2026-10-31**|**UniCaMo: Unified Camera and Motion Control for Video Diffusion Models**|Long Vu et.al.|[2611.00810](http://arxiv.org/abs/2611.00810)|null|
 |**2026-10-30**|**A Better Critic Matters for Distribution Matching Distillation**|Zongze Wu et.al.|[2610.42135](http://arxiv.org/abs/2610.42135)|null|
 |**2026-10-30**|**Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos**|Wendong Bu et.al.|[2610.41877](http://arxiv.org/abs/2610.41877)|null|
@@ -463,11 +465,25 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Unified Motion Correction and Reconstruction for Accelerated Zero Echo Time MRI**|Yan Chen et.al.|[2611.05169](http://arxiv.org/abs/2611.05169)|null|
+|**2026-11-03**|**High-Resolution Quantitative MRI Using Contrast-Domain Multiscale Energy (MuSE) Regularization**|Rushdi Rusho et.al.|[2611.05132](http://arxiv.org/abs/2611.05132)|null|
+|**2026-11-03**|**Label-Preserving Fourier Domain Adaptation with Generative-AI and Real Style Donors for 3D Mitral Valve Segmentation**|Javeria Javed et.al.|[2611.05106](http://arxiv.org/abs/2611.05106)|null|
+|**2026-11-03**|**Can saliency maps flag chest radiograph classifier errors at a new hospital? An external validation study**|Aashish Chapagai et.al.|[2611.05011](http://arxiv.org/abs/2611.05011)|null|
+|**2026-11-03**|**Deep Plug-and-Play Proximal Distance Algorithm for Robust Principal Component Analysis**|Guanhua Liu et.al.|[2611.04623](http://arxiv.org/abs/2611.04623)|null|
+|**2026-11-03**|**Policy Network Diffusion**|Jiate Liu et.al.|[2611.04614](http://arxiv.org/abs/2611.04614)|null|
+|**2026-11-03**|**Sparse-View 3D Coronary Reconstruction from Vessel Segmentations Using a Diffusion Prior**|Tianyuan Wang et.al.|[2611.04604](http://arxiv.org/abs/2611.04604)|null|
+|**2026-11-03**|**Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation**|Jimmy Wang et.al.|[2611.04492](http://arxiv.org/abs/2611.04492)|null|
+|**2026-11-03**|**ELiCv2: Learned LiDAR Geometry Compression under Real-Time Embedded Constraints**|Soowoong Kim et.al.|[2611.04174](http://arxiv.org/abs/2611.04174)|null|
+|**2026-11-03**|**TaoMate-FVSR: Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
+|**2026-11-02**|**Simulation-Driven Approach for Occlusion-Based Non-Line-Of-Sight Detection Using a Low-Cost Flash LiDAR**|Peizhao Qiu et.al.|[2611.04068](http://arxiv.org/abs/2611.04068)|null|
+|**2026-11-02**|**DUNEDepth: Bronchoscopic Depth and Pose Estimation via Hybrid Adaptation of a 3D-Vision Foundation Model**|Qi Chang et.al.|[2611.04025](http://arxiv.org/abs/2611.04025)|null|
+|**2026-11-02**|**Evaluating the Impact of Nonlinear Registration on Longitudinal PET Analysis in a Rodent Stroke Model**|Haytham Ziani et.al.|[2611.04002](http://arxiv.org/abs/2611.04002)|null|
+|**2026-11-02**|**Measure Before You Repair: An Explainable Agent for Blind Restoration of Multi-Artifact 3-D MRI**|Necati Sefercioglu et.al.|[2611.03996](http://arxiv.org/abs/2611.03996)|null|
+|**2026-11-02**|**A Novel Conditional Adversarial Diffusion Model for High-Fidelity OCT-to-OCT Image Translation and Precise Anti-VEGF Therapy Response Prediction in Diabetic Macular Edema**|Reza Rasti et.al.|[2611.03958](http://arxiv.org/abs/2611.03958)|null|
 |**2026-11-02**|**Toward Artifact-Free Dermoscopy: Characterization of ISIC 2019 Image Defects for Deep Learning Applications**|Victoria Wegley et.al.|[2611.03502](http://arxiv.org/abs/2611.03502)|null|
 |**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465](http://arxiv.org/abs/2611.03465)|null|
 |**2026-11-02**|**Scaling global tractography with ExaTract: from large cohorts to ultra-high-resolution datasets**|Simon Legeay et.al.|[2611.03419](http://arxiv.org/abs/2611.03419)|null|
 |**2026-11-02**|**Extended Field-of-View Passive mmWave Imaging Using Implicit Neural Representations**|Sanjaya Herath et.al.|[2611.03396](http://arxiv.org/abs/2611.03396)|null|
-|**2026-11-02**|**TaoMate-FVSR:Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
 |**2026-11-02**|**Progressive Multi-Scale Super-Resolution via Cascaded Bicubic Anchors and Inter-Scale Mutual Refinement**|Chun-An Lin et.al.|[2611.03390](http://arxiv.org/abs/2611.03390)|null|
 |**2026-11-02**|**Air-Scan-Based Point-Spread-Function Estimation for Megavoltage CT with Flat-Panel Detectors**|Seemeen Karimi et.al.|[2611.03359](http://arxiv.org/abs/2611.03359)|null|
 |**2026-11-02**|**View optimization in Computed Tomography**|Seemeen Karimi et.al.|[2611.03322](http://arxiv.org/abs/2611.03322)|null|
