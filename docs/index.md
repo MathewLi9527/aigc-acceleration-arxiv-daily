@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.08
+### Automatically Updated on 2026.11.09
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|null|
 |**2026-11-05**|**Grounding in the Dark: Text-Only Training for Zero-Shot Video Temporal Localization**|Divyanshu Mishra et.al.|[2611.06149](http://arxiv.org/abs/2611.06149)|null|
 |**2026-11-04**|**VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation**|Yihong Luo et.al.|[2611.06796](http://arxiv.org/abs/2611.06796)|null|
 |**2026-11-04**|**NextGAN: Towards Simple and Scalable GAN Training for Image and Video Generation**|Xinhao Lou et.al.|[2611.06270](http://arxiv.org/abs/2611.06270)|null|
@@ -468,10 +469,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level**|Natsuki Yuda et.al.|[2611.09854](http://arxiv.org/abs/2611.09854)|null|
+|**2026-11-06**|**AdaptivePnP: Fast Auto-Tuned Plug-and-Play for Deconvolution**|Haley Duba-Sullivan et.al.|[2611.09845](http://arxiv.org/abs/2611.09845)|null|
+|**2026-11-06**|**Tomographic Sparse View Selection using the View Covariance Loss**|Jingsong Lin et.al.|[2611.09754](http://arxiv.org/abs/2611.09754)|null|
+|**2026-11-06**|**Beyond Segmentation: Enriching ImageCAS with Coronary Ostia Landmarks, Rooted Centerline Graphs, and Open-Weight Localization Models**|Matteo Leccardi et.al.|[2611.09714](http://arxiv.org/abs/2611.09714)|null|
+|**2026-11-06**|**SmartBloch-Agent: An Agentic Framework for Automated MRI Sequence Design and Optimization**|Jiakai Yang et.al.|[2611.09413](http://arxiv.org/abs/2611.09413)|null|
+|**2026-11-06**|**Semantic Extraction Framework for Goal-Oriented V2X Communication Supporting Safe Intersection Passage**|Haoran Yang et.al.|[2611.09118](http://arxiv.org/abs/2611.09118)|null|
+|**2026-11-06**|**Quantifying System-Level Performance Bottlenecks in Hyperspectral Target Detection**|Chase Cañas et.al.|[2611.08927](http://arxiv.org/abs/2611.08927)|null|
+|**2026-11-05**|**Measurement-Aware Multimodal LLM for No-Reference Low-Dose CT Quality Assessment**|Kerem Basim et.al.|[2611.08754](http://arxiv.org/abs/2611.08754)|null|
+|**2026-11-05**|**eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation**|Qiushi Dai et.al.|[2611.08731](http://arxiv.org/abs/2611.08731)|null|
+|**2026-11-05**|**GenStrain: Multi-Conditional Generative Diffusion Model To Synthesize High-quality Motion and Strain Maps From Cardiac Magnetic Resonance Images**|Rishov Paul et.al.|[2611.08544](http://arxiv.org/abs/2611.08544)|null|
+|**2026-11-05**|**RapidMitDet: Boosting Computational Efficiency for Mitosis Detection via Magnification Alignment**|Longfei Wang et.al.|[2611.08542](http://arxiv.org/abs/2611.08542)|null|
+|**2026-11-05**|**Volumetric Latent Diffusion for Brain Tumour Segmentation with Missing Modalities**|Toan Nguyen Hai et.al.|[2611.08540](http://arxiv.org/abs/2611.08540)|null|
 |**2026-11-05**|**Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception**|Hongsen Cao et.al.|[2611.08441](http://arxiv.org/abs/2611.08441)|null|
 |**2026-11-05**|**OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity**|Rupam Mukherjee et.al.|[2611.08360](http://arxiv.org/abs/2611.08360)|null|
 |**2026-11-05**|**Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke**|Sina Raeisadigh et.al.|[2611.08154](http://arxiv.org/abs/2611.08154)|null|
 |**2026-11-05**|**Simulation of Refraction Through Voxel Volumes**|Rainier Mobley et.al.|[2611.07690](http://arxiv.org/abs/2611.07690)|null|
+|**2026-11-04**|**Subliminal Learning in Vision-Language Models**|Arman Hatami et.al.|[2611.08538](http://arxiv.org/abs/2611.08538)|null|
+|**2026-11-04**|**CNVAE: Anatomically Correct Segmentation via Conditional Generative Modeling**|Freddy Jiang et.al.|[2611.08537](http://arxiv.org/abs/2611.08537)|null|
+|**2026-11-04**|**SideAge-RiskNet: Predicted Mammographic-Age Features for Future Breast Cancer Risk and Laterality Prediction**|Haoyan Ding et.al.|[2611.08536](http://arxiv.org/abs/2611.08536)|null|
+|**2026-11-04**|**Destructive augmentations for prostate lesion segmentation on heterogeneous biparametric MRI data**|Thibault Heintz et.al.|[2611.08535](http://arxiv.org/abs/2611.08535)|null|
 |**2026-11-04**|**Finite Element Elastographic Analysis of Kidney MRI for Computational Assessment of Chronic Kidney Disease**|A. Bhattacharjee et.al.|[2611.07135](http://arxiv.org/abs/2611.07135)|null|
 |**2026-11-04**|**Task-Aware Bitrate Thresholds for Codec-Robust Ultrasound Segmentation**|Alireza Siyavashi et.al.|[2611.06992](http://arxiv.org/abs/2611.06992)|null|
 |**2026-11-04**|**BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories**|Fei Lin et.al.|[2611.06911](http://arxiv.org/abs/2611.06911)|null|
