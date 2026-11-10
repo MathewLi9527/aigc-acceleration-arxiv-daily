@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.09
+### Automatically Updated on 2026.11.10
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -469,6 +469,21 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning**|Haozhi Yuan et.al.|[2611.12886](http://arxiv.org/abs/2611.12886)|null|
+|**2026-11-09**|**Differentiable Inverse Rendering Recovers Intrinsic Properties from Intravascular Optical Coherence Tomography**|Ajay Manicka et.al.|[2611.12686](http://arxiv.org/abs/2611.12686)|null|
+|**2026-11-09**|**A four-step validation protocol for radiomic survival analysis in small cohorts: a body composition case study**|Mariela Talavera-Muñoz et.al.|[2611.12682](http://arxiv.org/abs/2611.12682)|null|
+|**2026-11-09**|**Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey**|Ehsan Mirafzali et.al.|[2611.12107](http://arxiv.org/abs/2611.12107)|null|
+|**2026-11-09**|**Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models**|Josef A. Buchner et.al.|[2611.12085](http://arxiv.org/abs/2611.12085)|null|
+|**2026-11-09**|**Color wave: A systematic evaluation of active screen illumination for injection attack detection in remote face authentication**|Daniyar Kurmankhojayev et.al.|[2611.12070](http://arxiv.org/abs/2611.12070)|null|
+|**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](http://arxiv.org/abs/2611.12044)|null|
+|**2026-11-09**|**Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area**|Xiao Tan et.al.|[2611.12025](http://arxiv.org/abs/2611.12025)|null|
+|**2026-11-08**|**Measuring Generative AI Content in Political Campaigns: Evidence of Rising Adoption and Non-Disclosure**|Anna-Maria Gueorguieva et.al.|[2611.11658](http://arxiv.org/abs/2611.11658)|null|
+|**2026-11-08**|**Not All Layers Are Equal in Image-to-Video Transfer**|Thinesh Thiyakesan Ponbagavathi et.al.|[2611.11147](http://arxiv.org/abs/2611.11147)|null|
+|**2026-11-08**|**Kinematic Total-Body PET Video Reconstruction via Hierarchical List-Mode EM and Validation-Adaptive Space-Time Regularisation**|Andrew J. Reader et.al.|[2611.11052](http://arxiv.org/abs/2611.11052)|null|
+|**2026-11-07**|**From Discrete Snapshots to Geometric Entity: Motion-Native Channel Tracking for THz Near-Field XL-MIMO**|Yuheng Fan et.al.|[2611.10587](http://arxiv.org/abs/2611.10587)|null|
+|**2026-11-06**|**Dataset Collections: Challenges of Large-Scale Data Aggregation in 3D Medical Image Datasets**|Yannick Kirchhoff et.al.|[2611.10144](http://arxiv.org/abs/2611.10144)|null|
+|**2026-11-06**|**Polarization Aware Deep Learning Framework for SAR Despeckling**|Gianpaolo Passarello et.al.|[2611.10091](http://arxiv.org/abs/2611.10091)|null|
+|**2026-11-06**|**Noise-Regularized Training for Learned Image Compression**|Renjie Zou et.al.|[2611.10073](http://arxiv.org/abs/2611.10073)|null|
 |**2026-11-06**|**Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level**|Natsuki Yuda et.al.|[2611.09854](http://arxiv.org/abs/2611.09854)|null|
 |**2026-11-06**|**AdaptivePnP: Fast Auto-Tuned Plug-and-Play for Deconvolution**|Haley Duba-Sullivan et.al.|[2611.09845](http://arxiv.org/abs/2611.09845)|null|
 |**2026-11-06**|**Tomographic Sparse View Selection using the View Covariance Loss**|Jingsong Lin et.al.|[2611.09754](http://arxiv.org/abs/2611.09754)|null|
