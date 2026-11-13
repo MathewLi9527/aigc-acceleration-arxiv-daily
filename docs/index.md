@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.12
+### Automatically Updated on 2026.11.13
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention**|Hung Nguyen et.al.|[2611.16897](http://arxiv.org/abs/2611.16897)|null|
+|**2026-11-11**|**TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation**|Libo Zhu et.al.|[2611.15983](http://arxiv.org/abs/2611.15983)|null|
+|**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
+|**2026-11-11**|**From Seeing to Remembering: Brain-Informed Agentic Text-to-Video Generation for Enhancing Memorability**|Shengqi Dang et.al.|[2611.15107](http://arxiv.org/abs/2611.15107)|null|
 |**2026-11-10**|**PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation**|Huiyi Chen et.al.|[2611.13576](http://arxiv.org/abs/2611.13576)|null|
 |**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|null|
 |**2026-11-05**|**Grounding in the Dark: Text-Only Training for Zero-Shot Video Temporal Localization**|Divyanshu Mishra et.al.|[2611.06149](http://arxiv.org/abs/2611.06149)|null|
@@ -470,6 +474,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Data Archive for 2D and 3D Electrical Impedance Tomography with moderate conductivity contrast phantoms**|S. J. Hamilton et.al.|[2611.17225](http://arxiv.org/abs/2611.17225)|null|
+|**2026-11-12**|**TuMAP: A Dual-View, Morphotype-Aware Pathomics Pipeline for Quantifying Renal Tubular Remodeling**|Ruijie Wu et.al.|[2611.17104](http://arxiv.org/abs/2611.17104)|null|
+|**2026-11-12**|**Automated PD-L1 Tumor Proportion Scoring with Uncertainty-Guided Triage in Non-Small Cell Lung Cancer**|Kesi Xu et.al.|[2611.16907](http://arxiv.org/abs/2611.16907)|null|
+|**2026-11-12**|**Transmission-Mode Multispectral Imaging for Estimation of Microcystis spp. Cell Concentration and ELISA-Equivalent Microcystin Concentration in Water**|J. A. S. T. Jayakody et.al.|[2611.16859](http://arxiv.org/abs/2611.16859)|null|
+|**2026-11-12**|**Kosmo-GFM: A Production-Ready Geometry Foundation Model**|Sheng Tang et.al.|[2611.16840](http://arxiv.org/abs/2611.16840)|null|
+|**2026-11-12**|**CODE-PIF: Convex/Deep (CODE) Multiview Pseudoinvariant Features for Multitemporal Multispectral Surface Reflectance Imagery**|Chia-Hsiang Lin et.al.|[2611.16802](http://arxiv.org/abs/2611.16802)|null|
+|**2026-11-12**|**Context-Predictive Low-Rank Adaptation for Face Presentation Attack Detection**|Aminu Yusuf et.al.|[2611.16534](http://arxiv.org/abs/2611.16534)|null|
+|**2026-11-12**|**UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation**|Jiancheng Pan et.al.|[2611.16517](http://arxiv.org/abs/2611.16517)|null|
+|**2026-11-12**|**PiLLVD: A Real-World Low-Light Video Dataset for Dynamic Scenes Captured with Off-the-Shelf Cameras**|Yaser Abu Awwad et.al.|[2611.16515](http://arxiv.org/abs/2611.16515)|null|
+|**2026-11-12**|**FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation**|Xiaobing Yu et.al.|[2611.16210](http://arxiv.org/abs/2611.16210)|null|
+|**2026-11-11**|**Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction**|Hong Shang et.al.|[2611.15758](http://arxiv.org/abs/2611.15758)|null|
+|**2026-11-11**|**HR-NVC++: Unified Ultra-High-Resolution Neural Video Coding with Confidence-Guided Spatial-Temporal Cues**|Feng Ye et.al.|[2611.15670](http://arxiv.org/abs/2611.15670)|null|
+|**2026-11-11**|**Ultrasound Elastography: Excitation Methods and Low-Cost Alternative**|Corin F. Otesteanu et.al.|[2611.15645](http://arxiv.org/abs/2611.15645)|null|
+|**2026-11-11**|**Physics-Informed Generative Augmentation for Open-Set UAV Classification**|Michel Kulhandjian et.al.|[2611.15612](http://arxiv.org/abs/2611.15612)|null|
+|**2026-11-11**|**Real Pairs Are Not Enough: Physically Anchored Supervision for Volumetric CT Super-Resolution**|Haoran Liu et.al.|[2611.15514](http://arxiv.org/abs/2611.15514)|null|
+|**2026-11-11**|**Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems**|Anselm Krainovic et.al.|[2611.15420](http://arxiv.org/abs/2611.15420)|null|
+|**2026-11-11**|**Supervision-Aware Evaluation of MedGemma for Reference-Assisted Radiotherapy Contour Ranking**|Jaden Moon et.al.|[2611.15370](http://arxiv.org/abs/2611.15370)|null|
+|**2026-11-11**|**Interpreting Selective-Review Coverage for Head-and-Neck Auto-Contours**|Jaden Moon et.al.|[2611.15255](http://arxiv.org/abs/2611.15255)|null|
+|**2026-11-11**|**A General Concept-based Decomposition for Vision-Language Embeddings**|Simone Alberto Peirone et.al.|[2611.15195](http://arxiv.org/abs/2611.15195)|null|
+|**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
 |**2026-11-10**|**BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time**|Mobasshir Bhuiya Shagor et.al.|[2611.14476](http://arxiv.org/abs/2611.14476)|null|
 |**2026-11-10**|**TransGHOST: Real-Time, Synthesis-Free Reconstruction of Instrument-Occluded Regions in Ophthalmic Microsurgery**|Niran Nataraj et.al.|[2611.13971](http://arxiv.org/abs/2611.13971)|null|
 |**2026-11-10**|**Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation**|Niran Nataraj et.al.|[2611.13970](http://arxiv.org/abs/2611.13970)|null|
@@ -2371,6 +2395,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**DroneDiffusion: Uncertainty-Guided Diffusion Path Planner for UAV Navigation**|Ivan Valuev et.al.|[2611.15277](http://arxiv.org/abs/2611.15277)|null|
 |**2026-11-10**|**Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation**|Yuchen Jiao et.al.|[2611.14328](http://arxiv.org/abs/2611.14328)|null|
 |**2026-11-09**|**Reconstruction of pion polarizabilities in lattice QCD with machine learning**|Hanxing Jiang et.al.|[2611.13117](http://arxiv.org/abs/2611.13117)|null|
 |**2026-10-29**|**EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis**|Alzahra Altalib et.al.|[2610.40046](http://arxiv.org/abs/2610.40046)|null|
